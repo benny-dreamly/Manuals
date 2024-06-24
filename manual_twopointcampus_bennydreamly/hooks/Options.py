@@ -34,12 +34,6 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
-class TwoPointCampusDLC(Enum):
-    BASE_GAME = "Base Game"
-    SPACE_ACADEMY = "Space Academy"
-    SCHOOL_SPIRITS = "School Spirits"
-    MEDICAL_SCHOOL = "Medical School"
-
 class DLC(OptionSet):
     """What part of the game do you want to include?
     Base Game (default): only include the base game and exclude all dlc
