@@ -33,6 +33,27 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class DLC(Choice):
+    """What part of the game do you want to include?
+    Base Game (default): only include the base game and exclude all dlc
+    Space Academy: include the base game and the Space Academy DLC
+    School Spirits: include the base game and the School Spirits DLC
+    Medical School: include the base game and the Medical School DLC
+    All DLC: include the base game and all of the DLC (Space Academy, School Spirits and Medical School)"""
+    display_name = "Randomized DLC"
+    option_base_game = 0
+    alias_base = 0
+    option_space_academy = 1
+    alias_space_dlc = 1
+    option_school_spirits = 2
+    alias_spooky_dlc = 2
+    option_medical_school = 3
+    alias_medical_dlc = 3
+    option_all_dlc = 4
+    alias_everything = 4
+    default = 0
+
+
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
@@ -40,4 +61,5 @@ def before_options_defined(options: dict) -> dict:
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: dict) -> dict:
+    options["enable_dlc"] = DLC
     return options
