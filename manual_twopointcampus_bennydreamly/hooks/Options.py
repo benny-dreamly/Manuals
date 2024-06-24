@@ -37,9 +37,9 @@ class TotalCharactersToWinWith(Range):
 class DLC(OptionSet):
     """What part of the game do you want to include?
     Base Game (default): only include the base game and exclude all dlc
-    Space Academy: include the base game and the Space Academy DLC
-    School Spirits: include the base game and the School Spirits DLC
-    Medical School: include the base game and the Medical School DLC
+    Space Academy: include the Space Academy DLC
+    School Spirits: include the School Spirits DLC
+    Medical School: include the Medical School DLC
     """
     display_name = "Enabled DLC"
     default = {"Base Game"}
