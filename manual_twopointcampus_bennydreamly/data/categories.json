@@ -1,0 +1,8 @@
+{
+  "Career Goals": {
+    "yaml_option": ["enable_career_goals"]
+  },
+  "DLC": {
+    "yaml_option": ["enable_DLC"]
+  }
+}
