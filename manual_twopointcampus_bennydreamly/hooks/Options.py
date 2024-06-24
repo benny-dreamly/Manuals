@@ -1,5 +1,6 @@
 # Object classes from AP that represent different types of options that you can create
 from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionSet
+from enum import Enum, IntEnum
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
@@ -33,14 +34,24 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class TwoPointCampusDLC(Enum):
+    BASE_GAME = "Base Game"
+    SPACE_ACADEMY = "Space Academy"
+    SCHOOL_SPIRITS = "School Spirits"
+    MEDICAL_SCHOOL = "Medical School"
+
 class DLC(OptionSet):
     """What part of the game do you want to include?
     Base Game (default): only include the base game and exclude all dlc
     Space Academy: include the base game and the Space Academy DLC
     School Spirits: include the base game and the School Spirits DLC
     Medical School: include the base game and the Medical School DLC
-    All DLC: include the base game and all of the DLC (Space Academy, School Spirits and Medical School)"""
-    display_name = "Randomized DLC"
+    """
+    display_name = "Enabled DLC"
+    default = {"Base Game"}
+    valid_keys = {
+        "Base Game", "Space Academy", "School Spirits", "Medical School"
+    }
 
 
 
