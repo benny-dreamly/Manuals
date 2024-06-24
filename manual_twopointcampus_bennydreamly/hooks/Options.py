@@ -1,5 +1,5 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange
+from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionSet
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
@@ -33,7 +33,7 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
-class DLC(Choice):
+class DLC(OptionSet):
     """What part of the game do you want to include?
     Base Game (default): only include the base game and exclude all dlc
     Space Academy: include the base game and the Space Academy DLC
@@ -41,17 +41,6 @@ class DLC(Choice):
     Medical School: include the base game and the Medical School DLC
     All DLC: include the base game and all of the DLC (Space Academy, School Spirits and Medical School)"""
     display_name = "Randomized DLC"
-    option_base_game = 0
-    alias_base = 0
-    option_space_academy = 1
-    alias_space_dlc = 1
-    option_school_spirits = 2
-    alias_spooky_dlc = 2
-    option_medical_school = 3
-    alias_medical_dlc = 3
-    option_all_dlc = 4
-    alias_everything = 4
-    default = 0
 
 
 
