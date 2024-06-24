@@ -1,0 +1,170 @@
+[
+  {
+    
+		"name": "Freshleigh Meadows - Star 1",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Campus Level (Freshleigh Meadows):5 AND Progressive Grade (Virtual Normality) (Freshleigh Meadows):3 AND Progressive Star (Freshleigh Meadows):1"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Star 2",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):2 AND Progressive Campus Level (Freshleigh Meadows):9"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Star 3",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):3 AND (Progressive Grade (Virtual Normality) (Freshleigh Meadows):8 OR Progressive Grade (Scientography) (Freshleigh Meadows):8) AND (Progressive Course Upgrade (Virtual Normality):3 OR Progressive Course Upgrade (Scientography):3)"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Campus Level 5 (Star 1)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Campus Level (Freshleigh Meadows):5"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Average Happiness Rating 60% (Star 1)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"region": "Freshleigh Meadows",
+    
+		"name": "Freshleigh Meadows - Pass a Virtual Normality Class with Grade C (Star 1)",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Grade (Virtual Normality) (Freshleigh Meadows):3"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Campus Level 9 (Star 2)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Campus Level (Freshleigh Meadows):9 AND Progressive Star (Freshleigh Meadows)"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Earn 150,000 Doubloons (Star 2)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):2"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Average Dormitory Rating 70% (Star 2)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):2"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Satisfy 10 Personal Goals (Star 2)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):2"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Upgrade a Course to Level 4 (Star 3)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):3 AND (Progressive Course Upgrade (Virtual Normality):3 OR Progressive Course Upgrade (Scientography):3)"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - 10 A Grade Classes (Star 3)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):3 AND (Progressive Grade (Virtual Normality) (Freshleigh Meadows):8 OR Progressive Grade (Scientography) (Freshleigh Meadows):8)"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - Average Happiness Rating 65% (Star 3)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):3"
+  },
+  {
+    
+		"name": "Freshleigh Meadows - 10 Students Graduate (Star 3)",
+    
+		"region": "Freshleigh Meadows",
+    
+		"category": [
+      "Freshleigh Meadows"
+    ],
+    
+		"requires": "Progressive Star (Freshleigh Meadows):3"
+  }
+]

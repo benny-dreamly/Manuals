@@ -1,0 +1,24 @@
+{
+  "Freshleigh Meadows": {
+    
+		"starting": true,
+    
+		"connects_to": [
+      "Piazza Lanatra"
+    ],
+    
+		"requires": []
+  },
+  "Piazza Lanatra": {
+    
+		"connects_to": [],
+    
+		"requires": "Progressive Star (Freshleigh Meadows) AND Progressive Campus Level (Freshleigh Meadows):5 AND Progressive Grade (Virtual Normality) (Freshleigh Meadows):3"
+  },
+  "undefined": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  }
+}
