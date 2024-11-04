@@ -1,46 +1,46 @@
 [
-	{
-		"name": "Solve Puzzle 1",
-		"region": "Cell",
-		"category": [],
-		"requires": "|Puzzle Piece 1| AND |Puzzle|\n"
-	},
-	{
-		"name": "Pickup Puzzle Piece 1",
-		"region": "Cell",
-		"category": [],
-		"requires": []
-	},
-	{
-		"name": "Pickup Hint 1",
-		"region": "Cell",
-		"category": [],
-		"requires": []
-	},
-	{
-		"name": "Pickup Clue 1",
-		"region": "Cell",
-		"category": [],
-		"requires": []
-	},
-	{
-		"name": "Pickup Clue 1.5",
-		"region": "Cell",
-		"category": [],
-		"requires": []
-	},
-	{
-		"name": "Pickup Clue 2",
-		"region": "Cell",
-		"category": [],
-		"requires": []
-	},
-	{
-		"name": "Pickup Puzzle",
-		"region": "Cell",
-		"category": [],
-		"requires": []
-	},
+    {
+        "name": "Solve Puzzle 1",
+        "region": "Cell",
+        "category": [],
+        "requires": "|Puzzle Piece 1| AND |Puzzle|\n"
+    },
+    {
+        "name": "Pickup Puzzle Piece 1",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint 1",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Clue 1",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Clue 1.5",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Clue 2",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Puzzle",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
     {
         "name": "Decipher Hint 1",
         "region": "Cell",
@@ -132,37 +132,37 @@
         "requires": []
     },
     {
-        "Pickup Scroll Hint",
+        "name": "Pickup Scroll Hint",
         "region": "Vaults",
         "category": [],
         "requires": []
     },
     {
-        "Pickup Gold Bar",
+        "name": "Pickup Gold Bar",
         "region": "Vaults",
         "category": [],
         "requires": []
     },
     {
-        "Pickup Golden Clue",
+        "name": "Pickup Golden Clue",
         "region": "Vaults",
         "category": [],
         "requires": []
     },
     {
-        "Unlock Safe",
+        "name": "Unlock Safe",
         "region": "Vaults",
         "category": [],
         "requires": []
     },
     {
-        "Pickup Puzzle Piece 2",
+        "name": "Pickup Puzzle Piece 2",
         "region": "Vaults",
         "category": [],
         "requires": []
     },
     {
-        "Solve Puzzle 2",
+        "name": "Solve Puzzle 2",
         "region": "Vaults",
         "category": [],
         "requires": []
@@ -234,46 +234,46 @@
         "requires": []
     },
     {
-    "name": "Burn Broom",
-    "region": "Storage Closet",
-    "category": [],
-    "requires": []
+        "name": "Burn Broom",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
     },
     {
-    "name": "Extinguish Fire",
-    "region": "Destroyed Storage Closet",
-    "category": [],
-    "requires": []
+        "name": "Extinguish Fire",
+        "region": "Destroyed Storage Closet",
+        "category": [],
+        "requires": []
     },
     {
-    "name": "Pickup Puzzle Piece 4",
-    "region": "Destroyed Storage Closet",
-    "category": [],
-    "requires": []
+        "name": "Pickup Puzzle Piece 4",
+        "region": "Destroyed Storage Closet",
+        "category": [],
+        "requires": []
     },
     {
-    "name": "Solve Puzzle 4",
-    "region": "Destroyed Storage Closet",
-    "category": [],
-    "requires": []
+        "name": "Solve Puzzle 4",
+        "region": "Destroyed Storage Closet",
+        "category": [],
+        "requires": []
     },
     {
-    "name": "Get Key",
-    "region": "Finale",
-    "category": [],
-    "requires": []
+        "name": "Get Key",
+        "region": "Finale",
+        "category": [],
+        "requires": []
     },
     {
-    "name": "Unlock Escape Door",
-    "region": "Finale",
-    "category": [],
-    "requires": []
+        "name": "Unlock Escape Door",
+        "region": "Finale",
+        "category": [],
+        "requires": []
     },
     {
-    "victory": true,
-    "name": "Escape the Dungeon!",
-    "region": "Finale",
-    "category": [],
-    "requires": []
-    },
+        "victory": true,
+        "name": "Escape the Dungeon!",
+        "region": "Finale",
+        "category": [],
+        "requires": []
+    }
 ]
