@@ -1,2 +1,7 @@
-
-	{"game": "AdventuresofDreamland","creator": "BennyDreamly","filler_item_name": "Cracked Brick"}
+{
+    "game": "AdventuresofDreamland",
+    "creator": "BennyDreamly",
+    "filler_item_name": "Cracked Brick"
+    "starting_items": [],
+    "death_link": true
+}
