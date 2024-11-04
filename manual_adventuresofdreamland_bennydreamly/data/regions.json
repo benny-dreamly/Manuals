@@ -18,11 +18,11 @@
 },
     "Broom":     {
         "connects_to": ["Destroyed Storage Closet"],
-        "requires": "|Broom| AND |Magnifying Glass| AND |Bucket| AND |Lighter|"
+        "requires": "|Magnifying Glass| AND |Glue Stick|"
 },
     "Destroyed Storage Closet":     {
         "connects_to": ["Finale"],
-        "requires": "|Broom| AND |Magnifying Glass| AND |Bucket with Water| AND |Lighter| AND |Puzzle Piece 3| AND |Puzzle (2/4)|"
+        "requires": "|Broom| AND |Bucket with Water| AND |Lighter| AND |Puzzle Piece 3| AND |Puzzle (2/4)|"
 },
     "Finale":     {
         "connects_to": [],

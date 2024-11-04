@@ -123,105 +123,105 @@
         "count": 1,
         "name": "Hint Fragment A",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment B",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment C",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment D",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment E",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment F",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment G",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment H",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment I",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment J",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment K",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment L",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
         "name": "Hint Fragment M",
         "category": [
-            "Hints"
+            "Hint Fragments"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
@@ -307,6 +307,6 @@
         "category": [
             "Hints"
         ],
-        "useful": true
+        "progression": true
     }
 ]
