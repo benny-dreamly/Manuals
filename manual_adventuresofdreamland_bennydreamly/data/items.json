@@ -1,242 +1,312 @@
 [
-	{
-		"count":1,
-		"name": "Puzzle Piece 1",
-		"category": ["Puzzle Pieces"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Hint 1",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Clue 1",
-		"category": ["Clues"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Clue 1-2",
-		"category": ["Clues"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Clue 2",
-		"category": ["Clues"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle",
-		"category": ["Puzzles"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle (1/4)",
-		"category": ["Puzzles"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle (2/4)",
-		"category": ["Puzzles"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Scroll",
-		"category": ["Misc"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Scroll Hint",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Gold Bar",
-		"category": ["Hints"],
-		"useful": true
-	},
     {
-        "count":1,
-        "name": "Golden Clue"
-        "category": ["Clues"],
+        "count": 1,
+        "name": "Puzzle Piece 1",
+        "category": [
+            "Puzzle Pieces"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Hint 1",
+        "category": [
+            "Hints"
+        ],
         "useful": true
     },
-	{
-		"count":1,
-		"name": "Puzzle Piece 2",
-		"category": ["Puzzle Pieces"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle Piece 3",
-		"category": ["Puzzle Pieces"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle Piece 4",
-		"category": ["Puzzle Pieces"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment A",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment B",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment C",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment D",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment E",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment F",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment G",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment H",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment I",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment J",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment K",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment L",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Hint Fragment M",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Fragment Clue",
-		"category": ["Hints"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle (3/4)",
-		"category": ["Puzzles"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Puzzle (4/4)",
-		"category": ["Puzzles"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Key",
-		"category": ["Important Items"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Glue Stick",
-		"category": ["Important Items"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Broom",
-		"category": ["Important Items"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Bucket",
-		"category": [],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Bucket with Water",
-		"category": ["Important Items"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Magnifying Glass",
-		"category": ["Important Items"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Key",
-		"category": ["Important Items"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Lighter",
-		"category": ["Important Items"],
-		"progression": true
-	},
     {
-        "count":1,
+        "count": 1,
+        "name": "Clue 1",
+        "category": [
+            "Clues"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Clue 1-2",
+        "category": [
+            "Clues"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Clue 2",
+        "category": [
+            "Clues"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle",
+        "category": [
+            "Puzzles"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle (1/4)",
+        "category": [
+            "Puzzles"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle (2/4)",
+        "category": [
+            "Puzzles"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Scroll",
+        "category": [
+            "Misc"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Scroll Hint",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Gold Bar",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Golden Clue",
+        "category": [
+            "Clues"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle Piece 2",
+        "category": [
+            "Puzzle Pieces"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle Piece 3",
+        "category": [
+            "Puzzle Pieces"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle Piece 4",
+        "category": [
+            "Puzzle Pieces"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment A",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment B",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment C",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment D",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment E",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment F",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment G",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment H",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment I",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment J",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment K",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment L",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hint Fragment M",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Fragment Clue",
+        "category": [
+            "Hints"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle (3/4)",
+        "category": [
+            "Puzzles"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Puzzle (4/4)",
+        "category": [
+            "Puzzles"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Key",
+        "category": [
+            "Important Items"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Glue Stick",
+        "category": [
+            "Important Items"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Broom",
+        "category": [
+            "Important Items"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Bucket",
+        "category": [],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Bucket with Water",
+        "category": [
+            "Important Items"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Magnifying Glass",
+        "category": [
+            "Important Items"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Lighter",
+        "category": [
+            "Important Items"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
         "name": "Hint 3",
-        "category": ["Hints"],
+        "category": [
+            "Hints"
+        ],
         "useful": true
     }
 ]
