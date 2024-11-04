@@ -1,0 +1,31 @@
+{
+	"Cell": 	{
+		"starting": true,
+		"connects_to": ["Hallway"],
+		"requires": []
+},
+    "Hallway":     {
+        "connects_to": ["Storage Closet", "Vaults"],
+        "requires": []
+},
+    "Vaults":     {
+        "connects_to": [],
+        "requires": "|Puzzle Piece 1| AND |Puzzle|"
+},
+    "Storage Closet":     {
+        "connects_to": ["Broom"],
+        "requires": "|Puzzle Piece 2| AND |Puzzle (1/4)|"
+},
+    "Broom":     {
+        "connects_to": ["Destroyed Storage Closet"],
+        "requires": "|Broom| AND |Magnifying Glass| AND |Bucket| AND |Lighter|"
+},
+    "Destroyed Storage Closet":     {
+        "connects_to": ["Finale"],
+        "requires": "|Broom| AND |Magnifying Glass| AND |Bucket with Water| AND |Lighter| AND |Puzzle Piece 3| AND |Puzzle (2/4)|"
+},
+    "Finale":     {
+        "connects_to": [],
+        "requires": "|Puzzle Piece 4| AND |Puzzle (3/4)|"
+},
+}

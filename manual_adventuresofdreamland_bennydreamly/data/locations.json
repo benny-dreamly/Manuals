@@ -1,0 +1,279 @@
+[
+	{
+		"name": "Solve Puzzle 1",
+		"region": "Cell",
+		"category": [],
+		"requires": "|Puzzle Piece 1| AND |Puzzle|\n"
+	},
+	{
+		"name": "Pickup Puzzle Piece 1",
+		"region": "Cell",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Pickup Hint 1",
+		"region": "Cell",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Pickup Clue 1",
+		"region": "Cell",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Pickup Clue 1.5",
+		"region": "Cell",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Pickup Clue 2",
+		"region": "Cell",
+		"category": [],
+		"requires": []
+	},
+	{
+		"name": "Pickup Puzzle",
+		"region": "Cell",
+		"category": [],
+		"requires": []
+	},
+    {
+        "name": "Decipher Hint 1",
+        "region": "Cell",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment A",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment B",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment C",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment D",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment E",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment F",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment G",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment H",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment I",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment J",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment K",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment L",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Hint Fragment M",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Fragment Clue",
+        "region": "Hallway",
+        "category": [],
+        "requires": []
+    },
+    {
+        "Pickup Scroll Hint",
+        "region": "Vaults",
+        "category": [],
+        "requires": []
+    },
+    {
+        "Pickup Gold Bar",
+        "region": "Vaults",
+        "category": [],
+        "requires": []
+    },
+    {
+        "Pickup Golden Clue",
+        "region": "Vaults",
+        "category": [],
+        "requires": []
+    },
+    {
+        "Unlock Safe",
+        "region": "Vaults",
+        "category": [],
+        "requires": []
+    },
+    {
+        "Pickup Puzzle Piece 2",
+        "region": "Vaults",
+        "category": [],
+        "requires": []
+    },
+    {
+        "Solve Puzzle 2",
+        "region": "Vaults",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Glue Stick",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Reassemble Hint 3",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Decipher Hint 3",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Broom",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Bucket",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Lighter",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Fill Bucket",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Magnifying Glass",
+        "region": "Storage Closet",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Open Trapdoor",
+        "region": "Broom",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Pickup Puzzle Piece 3",
+        "region": "Broom",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Solve Puzzle 3",
+        "region": "Broom",
+        "category": [],
+        "requires": []
+    },
+    {
+    "name": "Burn Broom",
+    "region": "Storage Closet",
+    "category": [],
+    "requires": []
+    },
+    {
+    "name": "Extinguish Fire",
+    "region": "Destroyed Storage Closet",
+    "category": [],
+    "requires": []
+    },
+    {
+    "name": "Pickup Puzzle Piece 4",
+    "region": "Destroyed Storage Closet",
+    "category": [],
+    "requires": []
+    },
+    {
+    "name": "Solve Puzzle 4",
+    "region": "Destroyed Storage Closet",
+    "category": [],
+    "requires": []
+    },
+    {
+    "name": "Get Key",
+    "region": "Finale",
+    "category": [],
+    "requires": []
+    },
+    {
+    "name": "Unlock Escape Door",
+    "region": "Finale",
+    "category": [],
+    "requires": []
+    },
+    {
+    "victory": true,
+    "name": "Escape the Dungeon!",
+    "region": "Finale",
+    "category": [],
+    "requires": []
+    },
+]
