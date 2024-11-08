@@ -48,6 +48,12 @@
         "requires": ["Hint 1", "Clue 1", "Clue 1-2"]
     },
     {
+        "name": "Pickup Scroll",
+        "region": "Cell",
+        "category": ["Item Pickups"],
+        "requires": []
+    },
+    {
         "name": "Pickup Hint Fragment A",
         "region": "Hallway",
         "category": ["Item Pickups"],
