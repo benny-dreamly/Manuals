@@ -10,7 +10,7 @@
 },
     "Vaults":     {
         "connects_to": [],
-        "requires": "|Puzzle Piece 1| AND |Puzzle|"
+        "requires": "|Puzzle Piece 1| AND |Puzzle| AND |Puzzle (1/4)"
 },
     "Storage Closet":     {
         "connects_to": ["Broom"],

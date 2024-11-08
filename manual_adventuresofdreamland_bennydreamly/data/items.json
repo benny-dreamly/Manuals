@@ -274,7 +274,7 @@
     {
         "count": 1,
         "name": "Bucket",
-        "category": [],
+        "category": ["Important Items"],
         "progression": true
     },
     {

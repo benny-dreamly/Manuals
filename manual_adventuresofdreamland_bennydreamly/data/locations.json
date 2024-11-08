@@ -159,13 +159,13 @@
         "name": "Pickup Puzzle Piece 2",
         "region": "Vaults",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": ["Puzzle (1/4)"]
     },
     {
         "name": "Solve Puzzle 2",
         "region": "Vaults",
         "category": ["Actions"],
-        "requires": []
+        "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2|"
     },
     {
         "name": "Pickup Glue Stick",
