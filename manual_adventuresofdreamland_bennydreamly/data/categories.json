@@ -1,5 +1,9 @@
 {
-    "Roomsanity": {
+    "Rooms": {
+        "yaml_option": ["Roomsanity"]
+    },
+    "Room Actions": {
+        "hidden": true,
         "yaml_option": ["Roomsanity"]
     },
     "Additional Unlocks": {
