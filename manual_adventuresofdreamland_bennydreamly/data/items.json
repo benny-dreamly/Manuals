@@ -314,5 +314,35 @@
         "name": "Progressive Room",
         "category": ["Rooms"],
         "progression": true
+    },
+    {
+        "count": 13,
+        "name": "Progressive Command",
+        "category": ["Commands"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "N Button",
+        "category": ["Buttons"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "E Button",
+        "category": ["Buttons"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "S Button",
+        "category": ["Buttons"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "W Button",
+        "category": ["Buttons"],
+        "progression": true
     }
 ]
