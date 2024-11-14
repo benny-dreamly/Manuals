@@ -1,0 +1,8 @@
+{
+    "Roomsanity": {
+        "yaml_option": ["Roomsanity"]
+    },
+    "Additional Unlocks": {
+        "yaml_option": ["more_unlocks"]
+    }
+}
