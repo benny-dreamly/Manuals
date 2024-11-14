@@ -281,5 +281,131 @@
         "region": "Finale",
         "category": [],
         "requires": "|Key|"
-    }
+    },
+    {
+        "name": "Enter Room 2",
+        "region": "Cell",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 3",
+        "region": "Cell",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 4",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 5",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 6",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 7",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 12",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 13",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 14",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 15",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 16",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 17",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 18",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 19",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 20",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 8",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 9",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 10",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 11",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 21",
+        "region": "Storage Closet",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
+    {
+        "name": "Enter Room 22",
+        "region": "Storage Closet",
+        "category": ["Enter Room", "Actions"],
+        "requires": []
+    },
 ]
