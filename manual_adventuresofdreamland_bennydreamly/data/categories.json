@@ -2,7 +2,7 @@
     "Rooms": {
         "yaml_option": ["Roomsanity"]
     },
-    "Room Actions": {
+    "Enter Room": {
         "hidden": true,
         "yaml_option": ["Roomsanity"]
     },
