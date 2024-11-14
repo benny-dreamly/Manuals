@@ -286,126 +286,126 @@
         "name": "Enter Room 2",
         "region": "Cell",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:1|"
     },
     {
         "name": "Enter Room 3",
         "region": "Cell",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:2|"
     },
     {
         "name": "Enter Room 4",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:3|"
     },
     {
         "name": "Enter Room 5",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:4|"
     },
     {
         "name": "Enter Room 6",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:5|"
     },
     {
         "name": "Enter Room 7",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:6|"
     },
     {
         "name": "Enter Room 12",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:11|"
     },
     {
         "name": "Enter Room 13",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:12|"
     },
     {
         "name": "Enter Room 14",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:13|"
     },
     {
         "name": "Enter Room 15",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:14|"
     },
     {
         "name": "Enter Room 16",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:15|"
     },
     {
         "name": "Enter Room 17",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:16|"
     },
     {
         "name": "Enter Room 18",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:17|"
     },
     {
         "name": "Enter Room 19",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:18|"
     },
     {
         "name": "Enter Room 20",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:19|"
     },
     {
         "name": "Enter Room 8",
         "region": "Vault",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:7|"
     },
     {
         "name": "Enter Room 9",
         "region": "Vault",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:8|"
     },
     {
         "name": "Enter Room 10",
         "region": "Vault",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:9|"
     },
     {
         "name": "Enter Room 11",
         "region": "Vault",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:10|"
     },
     {
         "name": "Enter Room 21",
         "region": "Storage Closet",
         "category": ["Enter Room", "Actions"],
-        "requires": []
+        "requires": "|Progressive Room:20|"
     },
     {
         "name": "Enter Room 22",
         "region": "Storage Closet",
         "category": ["Enter Room", "Actions"],
-        "requires": []
-    },
+        "requires": "|Progressive Room:21|"
+    }
 ]
