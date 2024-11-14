@@ -6,7 +6,12 @@
         "hidden": true,
         "yaml_option": ["Roomsanity"]
     },
-    "Additional Unlocks": {
+    "Buttons": {
+        "hidden": true,
+        "yaml_option": ["more_unlocks"]
+    },
+    "Commands": {
+        "hidden": true,
         "yaml_option": ["more_unlocks"]
     }
 }
