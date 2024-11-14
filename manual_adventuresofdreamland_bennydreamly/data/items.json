@@ -308,5 +308,11 @@
             "Hints"
         ],
         "progression": true
+    },
+    {
+        "count": 21,
+        "name": "Progressive Room",
+        "category": ["Rooms"],
+        "progression": true
     }
 ]
