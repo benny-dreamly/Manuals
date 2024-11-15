@@ -374,25 +374,25 @@
     },
     {
         "name": "Enter Room 8",
-        "region": "Vault",
+        "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:7|"
     },
     {
         "name": "Enter Room 9",
-        "region": "Vault",
+        "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:8|"
     },
     {
         "name": "Enter Room 10",
-        "region": "Vault",
+        "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:9|"
     },
     {
         "name": "Enter Room 11",
-        "region": "Vault",
+        "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:10|"
     },
