@@ -99,3 +99,23 @@ def canOpenTrapdoorEvent(world: World, multiworld: MultiWorld, state: Collection
 def canFillBucket(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can fill the bucket with water to continue."""
     return "(({requiresNoOptions()} AND |Bucket|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Bucket|) OR ({YamlDisabled(Roomsanity)} AND {requiresFill()} AND |Bucket|) OR ({requiresCloset()} AND {requiresFill()} AND |Bucket|))"
+
+def canLightFire(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can light the fire in the storage room to continue."""
+    return "(({requiresNoOptions()} AND |Broom| AND |Lighter|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Broom| AND |Lighter|) OR ({requiresMoreUnlocksOnly()} AND |Broom| AND |Lighter|) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND |Broom| AND |Lighter|))"
+
+def canExtinguishFire(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can extingusih the fire in the storage room to continue."""
+    return "|Bucket with Water| AND {canFillBucket()} AND {canLightFire()}"
+
+def canSolveFinalPuzzle(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can solve the final puzzle to continue."""
+    return "|Puzzle Piece 4| AND |Puzzle (3/4)| AND {canExtinguishFire()}"
+
+def canGetKey(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can obtain the key from solving the final puzzle to continue."""
+    return "|Puzzle (4/4)| AND {canSolveFinalPuzzle()}"
+
+def canUnlockEscapeDoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can unlock the final door in order to escape the basement and win the game."""
+    return "(({requiresNoOptions()} AND |Key|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Key|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Key|) OR ({requiresCloset()} AND {requiresUnlock()} AND |Key|))"

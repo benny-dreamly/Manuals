@@ -243,44 +243,44 @@
         "name": "Burn Broom",
         "region": "Storage Closet",
         "category": ["Actions"],
-        "requires": "|Broom| AND |Lighter|"
+        "requires": "{canLightFire()}"
     },
     {
         "name": "Extinguish Fire",
         "region": "Destroyed Storage Closet",
         "category": ["Actions"],
-        "requires": "|Bucket with Water|"
+        "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Pickup Puzzle Piece 4",
         "region": "Destroyed Storage Closet",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Solve Puzzle 4",
         "region": "Destroyed Storage Closet",
         "category": ["Actions"],
-        "requires": "|Puzzle Piece 4| AND |Puzzle (3/4)|"
+        "requires": "{canSolveFinalPuzzle()}"
     },
     {
         "name": "Get Key",
         "region": "Finale",
         "category": ["Actions"],
-        "requires": "|Puzzle (4/4)|"
+        "requires": "{canGetKey()}"
     },
     {
         "name": "Unlock Escape Door",
         "region": "Finale",
         "category": ["Actions"],
-        "requires": "|Key|"
+        "requires": "{canUnlockEscapeDoor()}"
     },
     {
         "victory": true,
         "name": "Escape the Dungeon!",
         "region": "Finale",
         "category": [],
-        "requires": "|Key|"
+        "requires": "{canUnlockEscapeDoor()}"
     },
     {
         "name": "Enter Room 2",
