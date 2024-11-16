@@ -177,7 +177,7 @@
         "name": "Pickup Glue Stick",
         "region": "Storage Closet",
         "category": ["Item Pickups", "Storage Closet"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Reassemble Hint 3",
@@ -195,19 +195,19 @@
         "name": "Pickup Broom",
         "region": "Storage Closet",
         "category": ["Item Pickups", "Storage Closet"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Bucket",
         "region": "Storage Closet",
         "category": ["Item Pickups", "Storage Closet"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Lighter",
         "region": "Storage Closet",
         "category": ["Item Pickups", "Storage Closet"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Fill Bucket",
@@ -219,7 +219,7 @@
         "name": "Pickup Magnifying Glass",
         "region": "Storage Closet",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "|Hint 3|"
     },
     {
         "name": "Open Trapdoor",

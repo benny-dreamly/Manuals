@@ -67,3 +67,7 @@ def canUnlockSafe(world: World, multiworld: MultiWorld, state: CollectionState, 
 def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can reassemble the hint to continue."""
     return "|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|"
+
+def requiresCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the Storage Closet to continue."""
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:20"
