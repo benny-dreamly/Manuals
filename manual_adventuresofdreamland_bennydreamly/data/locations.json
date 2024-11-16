@@ -175,49 +175,49 @@
     },
     {
         "name": "Pickup Glue Stick",
-        "region": "Storage Closet",
-        "category": ["Item Pickups", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
         "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Reassemble Hint 3",
-        "region": "Storage Closet",
-        "category": ["Actions", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Actions", "Supply Closet"],
         "requires": "(({requiresNoOptions()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canReassembleHint()}) OR ({YamlDisabled(Roomsanity)} AND {requiresGlue()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {requiresGlue()} AND {canReassembleHint()}))"
     },
     {
         "name": "Decipher Hint 3",
-        "region": "Storage Closet",
-        "category": ["Actions", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Actions", "Supply Closet"],
         "requires": "|Hint 3| AND {canDecipherHint()}"
     },
     {
         "name": "Pickup Broom",
-        "region": "Storage Closet",
-        "category": ["Item Pickups", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
         "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Bucket",
-        "region": "Storage Closet",
-        "category": ["Item Pickups", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
         "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Lighter",
-        "region": "Storage Closet",
-        "category": ["Item Pickups", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
         "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Fill Bucket",
-        "region": "Storage Closet",
-        "category": ["Actions", "Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Actions", "Supply Closet"],
         "requires": "{canFillBucket()}"
     },
     {
         "name": "Pickup Magnifying Glass",
-        "region": "Storage Closet",
+        "region": "Supply Closet",
         "category": ["Item Pickups", "Hallway"],
         "requires": "(({requiresNoOptions()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint 3|) OR ({requiresMoreUnlocksOnly()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint 3|))"
     },
@@ -241,26 +241,26 @@
     },
     {
         "name": "Burn Broom",
-        "region": "Storage Closet",
-        "category": ["Actions", "Ruined Storage Closet"],
+        "region": "Supply Closet",
+        "category": ["Actions", "Ruined Supply Closet"],
         "requires": "{canLightFire()}"
     },
     {
         "name": "Extinguish Fire",
-        "region": "Destroyed Storage Closet",
-        "category": ["Actions", "Ruined Storage Closet"],
+        "region": "Destroyed Supply Closet",
+        "category": ["Actions", "Ruined Supply Closet"],
         "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Pickup Puzzle Piece 4",
-        "region": "Destroyed Storage Closet",
-        "category": ["Item Pickups", "Ruined Storage Closet"],
+        "region": "Destroyed Supply Closet",
+        "category": ["Item Pickups", "Ruined Supply Closet"],
         "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Solve Puzzle 4",
-        "region": "Destroyed Storage Closet",
-        "category": ["Actions", "Ruined Storage Closet"],
+        "region": "Destroyed Supply Closet",
+        "category": ["Actions", "Ruined Supply Closet"],
         "requires": "{canSolveFinalPuzzle()}"
     },
     {
@@ -283,128 +283,128 @@
         "requires": "{canUnlockEscapeDoor()} AND ({YamlEnabled(more_unlocks)} AND |N Button|)"
     },
     {
-        "name": "Enter Room 2",
+        "name": "Enter Cell Room 2",
         "region": "Cell",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:1|"
     },
     {
-        "name": "Enter Room 3",
+        "name": "Enter Cell Room 3",
         "region": "Cell",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:2|"
     },
     {
-        "name": "Enter Room 4",
+        "name": "Enter Hallway Room 1",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:3|"
     },
     {
-        "name": "Enter Room 5",
+        "name": "Enter Hallway Room 2",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:4|"
     },
     {
-        "name": "Enter Room 6",
+        "name": "Enter Hallway Room 3",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:5|"
     },
     {
-        "name": "Enter Room 7",
+        "name": "Enter Room Hallway Room 4",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:6|"
     },
     {
-        "name": "Enter Room 12",
+        "name": "Enter Hallway Room 5",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:11|"
     },
     {
-        "name": "Enter Room 13",
+        "name": "Enter Hallway Room 6",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:12|"
     },
     {
-        "name": "Enter Room 14",
+        "name": "Enter Hallway Room 7",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:13|"
     },
     {
-        "name": "Enter Room 15",
+        "name": "Enter Hallway Room 8",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:14|"
     },
     {
-        "name": "Enter Room 16",
+        "name": "Enter Hallway Room 9",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:15|"
     },
     {
-        "name": "Enter Room 17",
+        "name": "Enter Hallway Room 10",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:16|"
     },
     {
-        "name": "Enter Room 18",
+        "name": "Enter Hallway Room 11",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:17|"
     },
     {
-        "name": "Enter Room 19",
+        "name": "Enter Hallway Room 12",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:18|"
     },
     {
-        "name": "Enter Room 20",
+        "name": "Enter Hallway Room 13",
         "region": "Hallway",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:19|"
     },
     {
-        "name": "Enter Room 8",
+        "name": "Enter Vault Room 1",
         "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:7|"
     },
     {
-        "name": "Enter Room 9",
+        "name": "Enter Vault Room 2",
         "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:8|"
     },
     {
-        "name": "Enter Room 10",
+        "name": "Enter Vault Room 3",
         "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:9|"
     },
     {
-        "name": "Enter Room 11",
+        "name": "Enter Vault Room 4",
         "region": "Vaults",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:10|"
     },
     {
-        "name": "Enter Room 21",
-        "region": "Storage Closet",
+        "name": "Enter Supply Closet Room 1",
+        "region": "Supply Closet",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:20|"
     },
     {
-        "name": "Enter Room 22",
-        "region": "Storage Closet",
+        "name": "Enter Supply Closet Room 3",
+        "region": "Supply Closet",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:21|"
     }
