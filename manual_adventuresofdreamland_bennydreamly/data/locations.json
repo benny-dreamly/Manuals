@@ -141,37 +141,37 @@
         "name": "Pickup Scroll Hint",
         "region": "Vaults",
         "category": ["Item Pickups"],
-        "requires": "( ({requiresNoOptions()}) OR ( {requiresVaults()} AND {YamlDisabled(more_unlocks)} ) OR ( {requiresMoreUnlocksOnly()} ) "
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Gold Bar",
         "region": "Vaults",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Golden Clue",
         "region": "Vaults",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Unlock Safe",
         "region": "Vaults",
         "category": ["Actions"],
-        "requires": ["Puzzle (1/4)"]
+        "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Pickup Puzzle Piece 2",
         "region": "Vaults",
         "category": ["Item Pickups"],
-        "requires": ["Puzzle (1/4)"]
+        "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Solve Puzzle 2",
         "region": "Vaults",
         "category": ["Actions"],
-        "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2|"
+        "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2| AND {canUnlockSafe()}"
     },
     {
         "name": "Pickup Glue Stick",
