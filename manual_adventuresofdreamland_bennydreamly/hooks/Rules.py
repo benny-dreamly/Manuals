@@ -62,4 +62,8 @@ def requiresUnlock(world: World, multiworld: MultiWorld, state: CollectionState,
 
 def canUnlockSafe(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can unlock the safe to continue."""
-    return ("(({requiresNoOptions()} AND |Puzzle (1/4)|) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)} AND |Puzzle (1/4)|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Puzzle (1/4)|) OR ({requiresVaults()} and {requiresUnlock()} AND |Puzzle (1/4)|))")
+    return "(({requiresNoOptions()} AND |Puzzle (1/4)|) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)} AND |Puzzle (1/4)|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Puzzle (1/4)|) OR ({requiresVaults()} and {requiresUnlock()} AND |Puzzle (1/4)|))"
+
+def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can reassemble the hint to continue."""
+    return "|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|"

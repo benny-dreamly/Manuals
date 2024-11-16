@@ -176,14 +176,14 @@
     {
         "name": "Pickup Glue Stick",
         "region": "Storage Closet",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Storage Closet"],
         "requires": []
     },
     {
         "name": "Reassemble Hint 3",
         "region": "Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|"
+        "category": ["Actions", "Storage Closet"],
+        "requires": "{canReassembleHint()}"
     },
     {
         "name": "Decipher Hint 3",
