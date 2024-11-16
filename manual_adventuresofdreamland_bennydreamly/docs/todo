@@ -1,4 +1,3 @@
 # TODO add 2x progressive command to starting items when unstable build becomes stable
-# TODO upgrade to unstable build?
 # TODO default new options to false, instead of defaulting to true
 # TODO fix solo generations with roomsanity + additional options, as it currently does not generate

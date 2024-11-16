@@ -2,6 +2,12 @@
     "game": "AdventuresofDreamland",
     "creator": "BennyDreamly",
     "filler_item_name": "Cracked Brick",
-    "starting_items": [],
+    "starting_items": [
+        {
+            "items": ["Progressive Command"],
+            "random": 2,
+            "yaml_option": ["more_unlocks"]
+        }
+    ],
     "death_link": true
 }
