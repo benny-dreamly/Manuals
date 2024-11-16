@@ -57,25 +57,25 @@
         "name": "Pickup Hint Fragment A",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment B",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment C",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment D",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment E",
