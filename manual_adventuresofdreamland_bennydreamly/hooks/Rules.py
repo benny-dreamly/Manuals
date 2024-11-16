@@ -35,3 +35,11 @@ def requiresSolve(world: World, multiworld: MultiWorld, state: CollectionState, 
 def requiresCell(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Cell to continue."""
     return "{YamlEnabled(Roomsanity)} AND |Progressive Room:2|"
+
+def requiresNoOptions(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has no options enabled that affect logic."""
+    return "({YamlDisabled(more_unlocks)} AND {YamlDisabled(Roomsanity)})"
+
+def requiresDecipher(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Decipher command to continue."""
+    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:10|"

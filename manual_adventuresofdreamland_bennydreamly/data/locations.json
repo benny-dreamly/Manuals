@@ -45,7 +45,7 @@
         "name": "Decipher Hint 1",
         "region": "Cell",
         "category": ["Actions", "Cell"],
-        "requires": ["Hint 1", "Clue 1", "Clue 1-2"]
+        "requires": "((|Hint 1| AND |Clue 1| AND |Clue 1-2| AND {requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {requiresDecipher()}) OR ({requiresCell()} AND {requiresDecipher()}))"
     },
     {
         "name": "Pickup Scroll",
