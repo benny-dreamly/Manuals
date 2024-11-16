@@ -242,25 +242,25 @@
     {
         "name": "Burn Broom",
         "region": "Storage Closet",
-        "category": ["Actions"],
+        "category": ["Actions", "Ruined Storage Closet"],
         "requires": "{canLightFire()}"
     },
     {
         "name": "Extinguish Fire",
         "region": "Destroyed Storage Closet",
-        "category": ["Actions"],
+        "category": ["Actions", "Ruined Storage Closet"],
         "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Pickup Puzzle Piece 4",
         "region": "Destroyed Storage Closet",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Ruined Storage Closet"],
         "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Solve Puzzle 4",
         "region": "Destroyed Storage Closet",
-        "category": ["Actions"],
+        "category": ["Actions", "Ruined Storage Closet"],
         "requires": "{canSolveFinalPuzzle()}"
     },
     {
