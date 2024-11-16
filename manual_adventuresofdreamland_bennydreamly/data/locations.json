@@ -218,7 +218,7 @@
     {
         "name": "Pickup Magnifying Glass",
         "region": "Storage Closet",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Hallway"],
         "requires": "(({requiresNoOptions()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint 3|) OR ({requiresMoreUnlocksOnly()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint 3|))"
     },
     {
