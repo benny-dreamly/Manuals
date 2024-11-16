@@ -27,3 +27,11 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
 def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+
+def requiresSolve(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Solve command to continue."""
+    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:8|"
+
+def requiresCell(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the Cell to continue."""
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:2|"

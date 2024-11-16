@@ -3,7 +3,7 @@
         "name": "Solve Puzzle 1",
         "region": "Cell",
         "category": ["Actions"],
-        "requires": "|Puzzle Piece 1| AND |Puzzle|\n"
+        "requires": "((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}))  OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {YamlDisabled(Roomsanity)})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(more_unlocks)} AND {requiresCell()})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {requiresCell{}))"
     },
     {
         "name": "Pickup Puzzle Piece 1",
