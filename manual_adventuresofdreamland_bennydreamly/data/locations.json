@@ -39,7 +39,7 @@
         "name": "Pickup Puzzle",
         "region": "Cell",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Decipher Hint 1",
