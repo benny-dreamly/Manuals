@@ -68,8 +68,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     more_unlocks = world.options.more_unlocks.value
 
-    debug = "debug message"
-
     if more_unlocks is True:
         starting_items = [
             {
