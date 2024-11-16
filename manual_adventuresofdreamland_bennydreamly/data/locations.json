@@ -188,31 +188,31 @@
     {
         "name": "Decipher Hint 3",
         "region": "Storage Closet",
-        "category": ["Actions"],
+        "category": ["Actions", "Storage Closet"],
         "requires": "|Hint 3|"
     },
     {
         "name": "Pickup Broom",
         "region": "Storage Closet",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Storage Closet"],
         "requires": []
     },
     {
         "name": "Pickup Bucket",
         "region": "Storage Closet",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Storage Closet"],
         "requires": []
     },
     {
         "name": "Pickup Lighter",
         "region": "Storage Closet",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Storage Closet"],
         "requires": []
     },
     {
         "name": "Fill Bucket",
         "region": "Storage Closet",
-        "category": ["Actions"],
+        "category": ["Actions", "Storage Closet"],
         "requires": "|Bucket|"
     },
     {
