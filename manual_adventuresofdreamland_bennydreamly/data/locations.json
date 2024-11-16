@@ -140,37 +140,37 @@
     {
         "name": "Pickup Scroll Hint",
         "region": "Vaults",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Vaults"],
         "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Gold Bar",
         "region": "Vaults",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Vaults"],
         "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Golden Clue",
         "region": "Vaults",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Vaults"],
         "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Unlock Safe",
         "region": "Vaults",
-        "category": ["Actions"],
+        "category": ["Actions", "Vaults"],
         "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Pickup Puzzle Piece 2",
         "region": "Vaults",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Vaults"],
         "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Solve Puzzle 2",
         "region": "Vaults",
-        "category": ["Actions"],
+        "category": ["Actions", "Vaults"],
         "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2| AND {canUnlockSafe()}"
     },
     {
