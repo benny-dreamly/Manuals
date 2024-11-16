@@ -1,2 +1,1 @@
-# TODO default new options to false, instead of defaulting to true
 # TODO fix solo generations with roomsanity + additional options, as it currently does not generate
