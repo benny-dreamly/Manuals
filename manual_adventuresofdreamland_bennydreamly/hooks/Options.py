@@ -33,6 +33,15 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class Roomsanity(Toggle):
+    """Make rooms checks, unlocking the ability to access any room except for the starting room is now an item in the multiworld."""
+    display_name = "Roomsanity"
+    default = False
+
+class AdditionalUnlocks(Toggle):
+    """Add extra unlocks. Makes commands progressive, you start with two, the rest are locked. Also locks all movement buttons (NESW)."""
+    display_name = "Additional Unlocks"
+    default = False
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
@@ -40,4 +49,8 @@ def before_options_defined(options: dict) -> dict:
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: dict) -> dict:
+    options.update({
+        'roomsanity': Roomsanity,
+        'more_unlocks': AdditionalUnlocks
+    })
     return options
