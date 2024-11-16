@@ -183,13 +183,13 @@
         "name": "Reassemble Hint 3",
         "region": "Storage Closet",
         "category": ["Actions", "Storage Closet"],
-        "requires": "{canReassembleHint()}"
+        "requires": "(({requiresNoOptions()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canReassembleHint()}) OR ({YamlDisabled(Roomsanity)} AND {requiresGlue()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {requiresGlue()} AND {canReassembleHint()}))"
     },
     {
         "name": "Decipher Hint 3",
         "region": "Storage Closet",
         "category": ["Actions", "Storage Closet"],
-        "requires": "|Hint 3|"
+        "requires": "|Hint 3| AND {canDecipherHint()}"
     },
     {
         "name": "Pickup Broom",
@@ -213,13 +213,13 @@
         "name": "Fill Bucket",
         "region": "Storage Closet",
         "category": ["Actions", "Storage Closet"],
-        "requires": "|Bucket|"
+        "requires": "(({requiresNoOptions()} AND |Bucket|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Bucket|) OR ({YamlDisabled(Roomsanity)} AND {requiresFill()} AND |Bucket|) OR ({requiresCloset()} AND {requiresFill()} AND |Bucket|))"
     },
     {
         "name": "Pickup Magnifying Glass",
         "region": "Storage Closet",
         "category": ["Item Pickups"],
-        "requires": "|Hint 3|"
+        "requires": "(({requiresNoOptions()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint 3|) OR ({requiresMoreUnlocksOnly()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint 3|))"
     },
     {
         "name": "Open Trapdoor",
