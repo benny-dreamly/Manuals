@@ -225,13 +225,13 @@
         "name": "Open Trapdoor",
         "region": "Broom",
         "category": ["Actions", "Hallway"],
-        "requires": "{canOpenTrapdoor()}"
+        "requires": "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"
     },
     {
         "name": "Pickup Puzzle Piece 3",
         "region": "Broom",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "{canOpenTrapdoor()}"
+        "requires": "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"
     },
     {
         "name": "Solve Puzzle 3",
