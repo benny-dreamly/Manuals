@@ -285,91 +285,91 @@
     {
         "name": "Enter Cell Room 2",
         "region": "Cell",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Cell"],
         "requires": "|Progressive Room:1|"
     },
     {
         "name": "Enter Cell Room 3",
         "region": "Cell",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Cell"],
         "requires": "|Progressive Room:2|"
     },
     {
         "name": "Enter Hallway Room 1",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:3|"
     },
     {
         "name": "Enter Hallway Room 2",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:4|"
     },
     {
         "name": "Enter Hallway Room 3",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:5|"
     },
     {
         "name": "Enter Room Hallway Room 4",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:6|"
     },
     {
         "name": "Enter Hallway Room 5",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:11|"
     },
     {
         "name": "Enter Hallway Room 6",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:12|"
     },
     {
         "name": "Enter Hallway Room 7",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:13|"
     },
     {
         "name": "Enter Hallway Room 8",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:14|"
     },
     {
         "name": "Enter Hallway Room 9",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:15|"
     },
     {
         "name": "Enter Hallway Room 10",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:16|"
     },
     {
         "name": "Enter Hallway Room 11",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:17|"
     },
     {
         "name": "Enter Hallway Room 12",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:18|"
     },
     {
         "name": "Enter Hallway Room 13",
         "region": "Hallway",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Hallway"],
         "requires": "|Progressive Room:19|"
     },
     {
@@ -399,13 +399,13 @@
     {
         "name": "Enter Supply Closet Room 1",
         "region": "Supply Closet",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Supply Closet"],
         "requires": "|Progressive Room:20|"
     },
     {
-        "name": "Enter Supply Closet Room 3",
+        "name": "Enter Supply Closet Room 2",
         "region": "Supply Closet",
-        "category": ["Enter Room", "Actions"],
+        "category": ["Enter Room", "Actions", "Supply Closet"],
         "requires": "|Progressive Room:21|"
     }
 ]
