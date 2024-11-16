@@ -280,7 +280,7 @@
         "name": "Escape the Dungeon!",
         "region": "Finale",
         "category": [],
-        "requires": "{canUnlockEscapeDoor()}"
+        "requires": "{canUnlockEscapeDoor()} AND ({YamlEnabled(more_unlocks)} AND |N Button|)"
     },
     {
         "name": "Enter Room 2",
