@@ -139,38 +139,38 @@
     },
     {
         "name": "Pickup Scroll Hint",
-        "region": "Vaults",
-        "category": ["Item Pickups", "Vaults"],
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
         "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Gold Bar",
-        "region": "Vaults",
-        "category": ["Item Pickups", "Vaults"],
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
         "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Golden Clue",
-        "region": "Vaults",
-        "category": ["Item Pickups", "Vaults"],
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
         "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Unlock Safe",
-        "region": "Vaults",
-        "category": ["Actions", "Vaults"],
+        "region": "Vault",
+        "category": ["Actions", "Vault"],
         "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Pickup Puzzle Piece 2",
-        "region": "Vaults",
-        "category": ["Item Pickups", "Vaults"],
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
         "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Solve Puzzle 2",
-        "region": "Vaults",
-        "category": ["Actions", "Vaults"],
+        "region": "Vault",
+        "category": ["Actions", "Vault"],
         "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2| AND {canUnlockSafe()}"
     },
     {
@@ -374,25 +374,25 @@
     },
     {
         "name": "Enter Vault Room 1",
-        "region": "Vaults",
+        "region": "Vault",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:7|"
     },
     {
         "name": "Enter Vault Room 2",
-        "region": "Vaults",
+        "region": "Vault",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:8|"
     },
     {
         "name": "Enter Vault Room 3",
-        "region": "Vaults",
+        "region": "Vault",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:9|"
     },
     {
         "name": "Enter Vault Room 4",
-        "region": "Vaults",
+        "region": "Vault",
         "category": ["Enter Room", "Actions"],
         "requires": "|Progressive Room:10|"
     },

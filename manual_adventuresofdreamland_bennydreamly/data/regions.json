@@ -5,10 +5,10 @@
 		"requires": []
 },
     "Hallway":     {
-        "connects_to": ["Supply Closet", "Vaults"],
+        "connects_to": ["Supply Closet", "Vault"],
         "requires": []
 },
-    "Vaults":     {
+    "Vault":     {
         "connects_to": [],
         "requires": "|Puzzle Piece 1| AND |Puzzle| AND |Puzzle (1/4)|"
 },
