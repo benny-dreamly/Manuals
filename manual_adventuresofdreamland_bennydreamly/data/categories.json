@@ -13,5 +13,8 @@
     "Commands": {
         "hidden": true,
         "yaml_option": ["more_unlocks"]
+    },
+    "Extra Unlocks": {
+        "yaml_option": ["more_unlocks"]
     }
 }

@@ -318,31 +318,31 @@
     {
         "count": 13,
         "name": "Progressive Command",
-        "category": ["Commands"],
+        "category": ["Commands", "Extra Unlocks"],
         "progression": true
     },
     {
         "count": 1,
         "name": "N Button",
-        "category": ["Buttons"],
+        "category": ["Buttons", "Extra Unlocks"],
         "progression": true
     },
     {
         "count": 1,
         "name": "E Button",
-        "category": ["Buttons"],
+        "category": ["Buttons", "Extra Unlocks"],
         "progression": true
     },
     {
         "count": 1,
         "name": "S Button",
-        "category": ["Buttons"],
+        "category": ["Buttons", "Extra Unlocks"],
         "progression": true
     },
     {
         "count": 1,
         "name": "W Button",
-        "category": ["Buttons"],
+        "category": ["Buttons", "Extra Unlocks"],
         "progression": true
     }
 ]
