@@ -87,3 +87,7 @@ def requiresFill(world: World, multiworld: MultiWorld, state: CollectionState, p
 def requiresHallwayLeadingToStorageCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the hallway from Vaults to Storage Closet to continue."""
     return "{YamlEnabled(Roomsanity)} AND |Progressive Room:19|"
+
+def canOpenTrapdoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can open the Trapdoor to continue."""
+    return "|Glue Stick| and |Broom| and |Magnifying Glass|"

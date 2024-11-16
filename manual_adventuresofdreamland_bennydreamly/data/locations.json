@@ -225,13 +225,13 @@
         "name": "Open Trapdoor",
         "region": "Broom",
         "category": ["Actions"],
-        "requires": "|Magnifying Glass|"
+        "requires": "{canOpenTrapdoor()}"
     },
     {
         "name": "Pickup Puzzle Piece 3",
         "region": "Broom",
         "category": ["Item Pickups"],
-        "requires": "|Glue Stick| and |Broom| and |Magnifying Glass|"
+        "requires": "{canOpenTrapdoor()}"
     },
     {
         "name": "Solve Puzzle 3",
