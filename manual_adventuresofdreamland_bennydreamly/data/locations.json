@@ -2,55 +2,55 @@
     {
         "name": "Solve Puzzle 1",
         "region": "Cell",
-        "category": ["Actions"],
+        "category": ["Actions", "Cell"],
         "requires": "((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}))  OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {YamlDisabled(Roomsanity)})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(more_unlocks)} AND {requiresCell()})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {requiresCell{}))"
     },
     {
         "name": "Pickup Puzzle Piece 1",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Hint 1",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Clue 1",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Clue 1.5",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Clue 2",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Puzzle",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Decipher Hint 1",
         "region": "Cell",
-        "category": ["Actions"],
+        "category": ["Actions", "Cell"],
         "requires": ["Hint 1", "Clue 1", "Clue 1-2"]
     },
     {
         "name": "Pickup Scroll",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
