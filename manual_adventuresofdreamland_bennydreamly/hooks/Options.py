@@ -50,7 +50,7 @@ def before_options_defined(options: dict) -> dict:
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: dict) -> dict:
     options.update({
-        'roomsanity': Roomsanity,
+        'Roomsanity': Roomsanity,
         'more_unlocks': AdditionalUnlocks
     })
     return options
