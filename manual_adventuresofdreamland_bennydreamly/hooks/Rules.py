@@ -91,3 +91,7 @@ def requiresHallwayLeadingToStorageCloset(world: World, multiworld: MultiWorld, 
 def canOpenTrapdoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can open the Trapdoor to continue."""
     return "|Glue Stick| and |Broom| and |Magnifying Glass|"
+
+def canOpenTrapdoorEvent(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can open the Trapdoor to continue (same as canOpenTrapdoor)."""
+    return "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"

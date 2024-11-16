@@ -237,7 +237,7 @@
         "name": "Solve Puzzle 3",
         "region": "Broom",
         "category": ["Actions", "Hallway"],
-        "requires": "|Puzzle Piece 3| AND |Puzzle (2/4)|"
+        "requires": "|Puzzle Piece 3| AND |Puzzle (2/4)| AND {canOpenTrapdoorEvent()}"
     },
     {
         "name": "Burn Broom",
