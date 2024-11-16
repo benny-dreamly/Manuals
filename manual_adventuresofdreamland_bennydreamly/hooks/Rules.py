@@ -95,3 +95,7 @@ def canOpenTrapdoor(world: World, multiworld: MultiWorld, state: CollectionState
 def canOpenTrapdoorEvent(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can open the Trapdoor to continue (same as canOpenTrapdoor)."""
     return "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"
+
+def canFillBucket(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can fill the bucket with water to continue."""
+    return "(({requiresNoOptions()} AND |Bucket|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Bucket|) OR ({YamlDisabled(Roomsanity)} AND {requiresFill()} AND |Bucket|) OR ({requiresCloset()} AND {requiresFill()} AND |Bucket|))"

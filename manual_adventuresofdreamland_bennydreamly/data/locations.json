@@ -213,7 +213,7 @@
         "name": "Fill Bucket",
         "region": "Storage Closet",
         "category": ["Actions", "Storage Closet"],
-        "requires": "(({requiresNoOptions()} AND |Bucket|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Bucket|) OR ({YamlDisabled(Roomsanity)} AND {requiresFill()} AND |Bucket|) OR ({requiresCloset()} AND {requiresFill()} AND |Bucket|))"
+        "requires": "{canFillBucket()}"
     },
     {
         "name": "Pickup Magnifying Glass",
