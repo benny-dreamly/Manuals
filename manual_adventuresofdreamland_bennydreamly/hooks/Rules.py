@@ -70,7 +70,7 @@ def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionSta
 
 def requiresCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Storage Closet to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:20"
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:21"
 
 def canDecipherHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can decipher the third hint"""
@@ -83,3 +83,7 @@ def requiresGlue(world: World, multiworld: MultiWorld, state: CollectionState, p
 def requiresFill(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Fill command to continue."""
     return "{YamlEnabled(more_unlocks)} AND |Progressive Command:13|"
+
+def requiresHallwayLeadingToStorageCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the hallway from Vaults to Storage Closet to continue."""
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:19|"
