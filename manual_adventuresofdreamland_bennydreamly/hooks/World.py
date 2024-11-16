@@ -71,7 +71,12 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     debug = "debug message"
 
     if more_unlocks is True:
-        print(debug)
+        starting_items = [
+            {
+                "items": ["Progressive Command"],
+                "random": 2
+            }
+        ]
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
