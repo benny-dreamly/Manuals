@@ -64,11 +64,19 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
+    ## starting items
+
+    more_unlocks = world.options.more_unlocks.value
+
+    if more_unlocks is True:
+        print(debug)
+
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
 
     return item_pool
+
 
     # Some other useful hook options:
 
