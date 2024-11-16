@@ -224,19 +224,19 @@
     {
         "name": "Open Trapdoor",
         "region": "Broom",
-        "category": ["Actions"],
+        "category": ["Actions", "Hallway"],
         "requires": "{canOpenTrapdoor()}"
     },
     {
         "name": "Pickup Puzzle Piece 3",
         "region": "Broom",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Hallway"],
         "requires": "{canOpenTrapdoor()}"
     },
     {
         "name": "Solve Puzzle 3",
         "region": "Broom",
-        "category": ["Actions"],
+        "category": ["Actions", "Hallway"],
         "requires": "|Puzzle Piece 3|"
     },
     {
