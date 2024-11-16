@@ -3,7 +3,7 @@
         "name": "Solve Puzzle 1",
         "region": "Cell",
         "category": ["Actions", "Cell"],
-        "requires": "((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}))  OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {YamlDisabled(Roomsanity)})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(more_unlocks)} AND {requiresCell()})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {requiresCell{}))"
+        "requires": "((|Puzzle Piece 1| AND |Puzzle| AND {requiresNoOptions()})  OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {YamlDisabled(Roomsanity)})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(more_unlocks)} AND {requiresCell()})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {requiresCell{}))"
     },
     {
         "name": "Pickup Puzzle Piece 1",
@@ -15,31 +15,31 @@
         "name": "Pickup Hint 1",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 1",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 1.5",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 2",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks)}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Puzzle",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "(({YamlDisabled(Roomsanity)} AND {YamlDisabled(more_unlocks}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Decipher Hint 1",
@@ -57,25 +57,25 @@
         "name": "Pickup Hint Fragment A",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment B",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment C",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment D",
         "region": "Hallway",
         "category": ["Item Pickups"],
-        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment E",
@@ -141,7 +141,7 @@
         "name": "Pickup Scroll Hint",
         "region": "Vaults",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "( ({requiresNoOptions()}) OR ( {requiresVaults()} AND {YamlDisabled(more_unlocks)} ) OR ( {requiresMoreUnlocksOnly()} ) "
     },
     {
         "name": "Pickup Gold Bar",

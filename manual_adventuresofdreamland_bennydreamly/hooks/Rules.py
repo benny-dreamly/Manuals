@@ -45,5 +45,13 @@ def requiresDecipher(world: World, multiworld: MultiWorld, state: CollectionStat
     return "{YamlEnabled(more_unlocks)} AND |Progressive Command:10|"
 
 def requiresHallwayLeadingToVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """Returns a requires string that checks if the player needs all rooms in the hallway leading to the Vaults to continue."""
+    """Returns a requires string that checks if the player has all rooms in the hallway leading to the Vaults in order to continue."""
     return "{YamlEnabled(Roomsanity)} AND |Progressive Room:6|"
+
+def requiresVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the Vaults in order to continue."""
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:10"
+
+def requiresMoreUnlocksOnly(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player only has the More Unlocks option enabled."""
+    return "{YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks}"
