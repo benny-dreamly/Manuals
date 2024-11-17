@@ -219,13 +219,13 @@
         "name": "Pickup Magnifying Glass",
         "region": "Storage Closet",
         "category": ["Item Pickups"],
-        "requires": []
+        "requires": "|Hint 3|"
     },
     {
         "name": "Open Trapdoor",
         "region": "Broom",
         "category": ["Actions"],
-        "requires": "|Magnifying Glass|"
+        "requires": "|Magnifying Glass| AND |Broom|"
     },
     {
         "name": "Pickup Puzzle Piece 3",
