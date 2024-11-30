@@ -24,9 +24,9 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
     return False
 
 # You can also return a string from your function, and it will be evaluated as a requires string.
-def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """Returns a requires string that checks if the player has unlocked the tank."""
-    return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+# def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+#     """Returns a requires string that checks if the player has unlocked the tank."""
+#     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
 def requiresSolve(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Solve command to continue."""
@@ -50,7 +50,7 @@ def requiresHallwayLeadingToVaults(world: World, multiworld: MultiWorld, state: 
 
 def requiresVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Vaults in order to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:10"
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:10|"
 
 def requiresMoreUnlocksOnly(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player only has the More Unlocks option enabled."""
@@ -70,7 +70,7 @@ def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionSta
 
 def requiresCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Storage Closet to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:21"
+    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:21|"
 
 def canDecipherHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can decipher the third hint"""
