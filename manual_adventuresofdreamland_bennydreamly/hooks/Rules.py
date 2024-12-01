@@ -26,7 +26,7 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
 # You can also return a string from your function, and it will be evaluated as a requires string.
 # def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
 #     """Returns a requires string that checks if the player has unlocked the tank."""
-#     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+#     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|" e
 
 def requiresSolve(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Solve command to continue."""
