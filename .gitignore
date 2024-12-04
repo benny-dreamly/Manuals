@@ -1,3 +1,6 @@
 .venv/
 .idea/
 *.apworld
+.DS_STORE
+*.pyc
+*.zip
