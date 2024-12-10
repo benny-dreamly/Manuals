@@ -1,0 +1,14 @@
+{
+    "user": {
+        "Roomsanity": {
+            "description": "Make rooms checks, unlocking the ability to access any room except for the starting room is now an item in the multiworld.",
+            "type": "Toggle",
+            "default": false
+        },
+        "Additional Unlocks": {
+            "description": "Add extra unlocks. Makes commands progressive, you start with two, the rest are locked. Also locks all movement buttons (NESW).",
+            "type": "Toggle",
+            "default": false
+        }
+    }
+}
