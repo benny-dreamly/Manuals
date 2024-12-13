@@ -5,22 +5,22 @@
 		"requires": []
 },
     "Hallway":     {
-        "connects_to": ["Storage Closet", "Vaults"],
+        "connects_to": ["Supply Closet", "Vault"],
         "requires": []
 },
-    "Vaults":     {
+    "Vault":     {
         "connects_to": [],
         "requires": "|Puzzle Piece 1| AND |Puzzle| AND |Puzzle (1/4)|"
 },
-    "Storage Closet":     {
+    "Supply Closet":     {
         "connects_to": ["Broom"],
         "requires": "|Puzzle Piece 2| AND |Puzzle (1/4)|"
 },
     "Broom":     {
-        "connects_to": ["Destroyed Storage Closet"],
+        "connects_to": ["Destroyed Supply Closet"],
         "requires": "|Magnifying Glass| AND |Glue Stick|"
 },
-    "Destroyed Storage Closet":     {
+    "Destroyed Supply Closet":     {
         "connects_to": ["Finale"],
         "requires": "|Broom| AND |Bucket with Water| AND |Lighter| AND |Puzzle Piece 3| AND |Puzzle (2/4)|"
 },

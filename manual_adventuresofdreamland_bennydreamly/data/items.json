@@ -13,7 +13,7 @@
         "category": [
             "Hints"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
@@ -21,7 +21,7 @@
         "category": [
             "Clues"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
@@ -29,7 +29,7 @@
         "category": [
             "Clues"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
@@ -307,6 +307,42 @@
         "category": [
             "Hints"
         ],
+        "progression": true
+    },
+    {
+        "count": 21,
+        "name": "Progressive Room",
+        "category": ["Rooms"],
+        "progression": true
+    },
+    {
+        "count": 13,
+        "name": "Progressive Command",
+        "category": ["Commands", "Extra Unlocks"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "N Button",
+        "category": ["Buttons", "Extra Unlocks"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "E Button",
+        "category": ["Buttons", "Extra Unlocks"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "S Button",
+        "category": ["Buttons", "Extra Unlocks"],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "W Button",
+        "category": ["Buttons", "Extra Unlocks"],
         "progression": true
     }
 ]

@@ -2,284 +2,410 @@
     {
         "name": "Solve Puzzle 1",
         "region": "Cell",
-        "category": ["Actions"],
-        "requires": "|Puzzle Piece 1| AND |Puzzle|\n"
+        "category": ["Actions", "Cell"],
+        "requires": "((|Puzzle Piece 1| AND |Puzzle| AND {requiresNoOptions()})  OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {YamlDisabled(Roomsanity)})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({YamlDisabled(more_unlocks)} AND {requiresCell()})) OR ((|Puzzle Piece 1| AND |Puzzle|) AND ({requiresSolve()} AND {requiresCell()})"
     },
     {
         "name": "Pickup Puzzle Piece 1",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Hint 1",
         "region": "Cell",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Cell"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 1",
         "region": "Cell",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Cell"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 1.5",
         "region": "Cell",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Cell"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 2",
         "region": "Cell",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Cell"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Puzzle",
         "region": "Cell",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Cell"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Decipher Hint 1",
         "region": "Cell",
-        "category": ["Actions"],
-        "requires": ["Hint 1", "Clue 1", "Clue 1-2"]
+        "category": ["Actions", "Cell"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Scroll",
         "region": "Cell",
-        "category": ["Item Pickups"],
+        "category": ["Item Pickups", "Cell"],
         "requires": []
     },
     {
         "name": "Pickup Hint Fragment A",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment B",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment A|) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment A|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment A|) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment A|))"
     },
     {
         "name": "Pickup Hint Fragment C",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment B|) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment B|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment B|) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment B|))"
     },
     {
         "name": "Pickup Hint Fragment D",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment C|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment C|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment C|))"
     },
     {
         "name": "Pickup Hint Fragment E",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment D|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment D|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment D|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment D|))"
     },
     {
         "name": "Pickup Hint Fragment F",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment E|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment E|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment E|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment E|))"
     },
     {
         "name": "Pickup Hint Fragment G",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment F|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment F|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment F|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment F|))"
     },
     {
         "name": "Pickup Hint Fragment H",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment G|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment G|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment G|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment G|))"
     },
     {
         "name": "Pickup Hint Fragment I",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment H|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment H|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment H|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment H|))"
     },
     {
         "name": "Pickup Hint Fragment J",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment I|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment I|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment I|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment I|))"
     },
     {
         "name": "Pickup Hint Fragment K",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment J|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment J|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment J|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment J|))"
     },
     {
         "name": "Pickup Hint Fragment L",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment K|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment K|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment K|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment K|))"
     },
     {
         "name": "Pickup Hint Fragment M",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment L|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment L|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment L|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment L|))"
     },
     {
         "name": "Pickup Fragment Clue",
         "region": "Hallway",
-        "category": ["Item Pickups"],
-        "requires": []
+        "category": ["Item Pickups", "Hallway"],
+         "requires": "(({requiresNoOptions()} AND |Hint Fragment M|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment M|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment M|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment M|))"
     },
     {
         "name": "Pickup Scroll Hint",
-        "region": "Vaults",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Gold Bar",
-        "region": "Vaults",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Golden Clue",
-        "region": "Vaults",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Unlock Safe",
-        "region": "Vaults",
-        "category": ["Actions"],
-        "requires": ["Puzzle (1/4)"]
+        "region": "Vault",
+        "category": ["Actions", "Vault"],
+        "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Pickup Puzzle Piece 2",
-        "region": "Vaults",
-        "category": ["Item Pickups"],
-        "requires": ["Puzzle (1/4)"]
+        "region": "Vault",
+        "category": ["Item Pickups", "Vault"],
+        "requires": "{canUnlockSafe()}"
     },
     {
         "name": "Solve Puzzle 2",
-        "region": "Vaults",
-        "category": ["Actions"],
-        "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2|"
+        "region": "Vault",
+        "category": ["Actions", "Vault"],
+        "requires": "|Puzzle (1/4)| AND |Puzzle Piece 2| AND {canUnlockSafe()}"
     },
     {
         "name": "Pickup Glue Stick",
-        "region": "Storage Closet",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Reassemble Hint 3",
-        "region": "Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|"
+        "region": "Supply Closet",
+        "category": ["Actions", "Supply Closet"],
+        "requires": "(({requiresNoOptions()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canReassembleHint()}) OR ({YamlDisabled(Roomsanity)} AND {requiresGlue()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {requiresGlue()} AND {canReassembleHint()}))"
     },
     {
         "name": "Decipher Hint 3",
-        "region": "Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Hint 3|"
+        "region": "Supply Closet",
+        "category": ["Actions", "Supply Closet"],
+        "requires": "|Hint 3| AND {canDecipherHint()}"
     },
     {
         "name": "Pickup Broom",
-        "region": "Storage Closet",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Bucket",
-        "region": "Storage Closet",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Lighter",
-        "region": "Storage Closet",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Supply Closet"],
+        "requires": "(({requiresNoOptions()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Fill Bucket",
-        "region": "Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Bucket|"
+        "region": "Supply Closet",
+        "category": ["Actions", "Supply Closet"],
+        "requires": "{canFillBucket()}"
     },
     {
         "name": "Pickup Magnifying Glass",
-        "region": "Storage Closet",
-        "category": ["Item Pickups"],
-        "requires": "|Hint 3|"
+        "region": "Supply Closet",
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint 3|) OR ({requiresMoreUnlocksOnly()} AND |Hint 3|) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint 3|))"
     },
     {
         "name": "Open Trapdoor",
         "region": "Broom",
-        "category": ["Actions"],
-        "requires": "|Magnifying Glass| AND |Broom|"
+        "category": ["Actions", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"
     },
     {
         "name": "Pickup Puzzle Piece 3",
         "region": "Broom",
-        "category": ["Item Pickups"],
-        "requires": "|Glue Stick| and |Broom| and |Magnifying Glass|"
+        "category": ["Item Pickups", "Hallway"],
+        "requires": "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"
     },
     {
         "name": "Solve Puzzle 3",
         "region": "Broom",
-        "category": ["Actions"],
-        "requires": "|Puzzle Piece 3|"
+        "category": ["Actions", "Hallway"],
+        "requires": "|Puzzle Piece 3| AND |Puzzle (2/4)| AND {canOpenTrapdoorEvent()}"
     },
     {
         "name": "Burn Broom",
-        "region": "Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Broom| AND |Lighter|"
+        "region": "Supply Closet",
+        "category": ["Actions", "Ruined Supply Closet"],
+        "requires": "{canLightFire()}"
     },
     {
         "name": "Extinguish Fire",
-        "region": "Destroyed Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Bucket with Water|"
+        "region": "Destroyed Supply Closet",
+        "category": ["Actions", "Ruined Supply Closet"],
+        "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Pickup Puzzle Piece 4",
-        "region": "Destroyed Storage Closet",
-        "category": ["Item Pickups"],
-        "requires": []
+        "region": "Destroyed Supply Closet",
+        "category": ["Item Pickups", "Ruined Supply Closet"],
+        "requires": "{canExtinguishFire()}"
     },
     {
         "name": "Solve Puzzle 4",
-        "region": "Destroyed Storage Closet",
-        "category": ["Actions"],
-        "requires": "|Puzzle Piece 4| AND |Puzzle (3/4)|"
+        "region": "Destroyed Supply Closet",
+        "category": ["Actions", "Ruined Supply Closet"],
+        "requires": "{canSolveFinalPuzzle()}"
     },
     {
         "name": "Get Key",
         "region": "Finale",
         "category": ["Actions"],
-        "requires": "|Puzzle (4/4)|"
+        "requires": "{canGetKey()}"
     },
     {
         "name": "Unlock Escape Door",
         "region": "Finale",
         "category": ["Actions"],
-        "requires": "|Key|"
+        "requires": "{canUnlockEscapeDoor()}"
     },
     {
         "victory": true,
         "name": "Escape the Dungeon!",
         "region": "Finale",
         "category": [],
-        "requires": "|Key|"
+        "requires": "{canUnlockEscapeDoor()} AND ( ({YamlDisabled(more_unlocks)}) OR ({YamlEnabled(more_unlocks)} AND |N Button|))"
+    },
+    {
+        "name": "Enter Cell Room 2",
+        "region": "Cell",
+        "category": ["Enter Room", "Actions", "Cell"],
+        "requires": "|Progressive Room:1|"
+    },
+    {
+        "name": "Enter Cell Room 3",
+        "region": "Cell",
+        "category": ["Enter Room", "Actions", "Cell"],
+        "requires": "|Progressive Room:2|"
+    },
+    {
+        "name": "Enter Hallway Room 1",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:3|"
+    },
+    {
+        "name": "Enter Hallway Room 2",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:4|"
+    },
+    {
+        "name": "Enter Hallway Room 3",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:5|"
+    },
+    {
+        "name": "Enter Room Hallway Room 4",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:6|"
+    },
+    {
+        "name": "Enter Hallway Room 5",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:11|"
+    },
+    {
+        "name": "Enter Hallway Room 6",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:12|"
+    },
+    {
+        "name": "Enter Hallway Room 7",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:13|"
+    },
+    {
+        "name": "Enter Hallway Room 8",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:14|"
+    },
+    {
+        "name": "Enter Hallway Room 9",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:15|"
+    },
+    {
+        "name": "Enter Hallway Room 10",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:16|"
+    },
+    {
+        "name": "Enter Hallway Room 11",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:17|"
+    },
+    {
+        "name": "Enter Hallway Room 12",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:18|"
+    },
+    {
+        "name": "Enter Hallway Room 13",
+        "region": "Hallway",
+        "category": ["Enter Room", "Actions", "Hallway"],
+        "requires": "|Progressive Room:19|"
+    },
+    {
+        "name": "Enter Vault Room 1",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions", "Vault"],
+        "requires": "|Progressive Room:7|"
+    },
+    {
+        "name": "Enter Vault Room 2",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions", "Vault"],
+        "requires": "|Progressive Room:8|"
+    },
+    {
+        "name": "Enter Vault Room 3",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions", "Vault"],
+        "requires": "|Progressive Room:9|"
+    },
+    {
+        "name": "Enter Vault Room 4",
+        "region": "Vault",
+        "category": ["Enter Room", "Actions", "Vault"],
+        "requires": "|Progressive Room:10|"
+    },
+    {
+        "name": "Enter Supply Closet Room 1",
+        "region": "Supply Closet",
+        "category": ["Enter Room", "Actions", "Supply Closet"],
+        "requires": "|Progressive Room:20|"
+    },
+    {
+        "name": "Enter Supply Closet Room 2",
+        "region": "Supply Closet",
+        "category": ["Enter Room", "Actions", "Supply Closet"],
+        "requires": "|Progressive Room:21|"
     }
 ]

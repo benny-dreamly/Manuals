@@ -1,0 +1,20 @@
+{
+    "Rooms": {
+        "yaml_option": ["Roomsanity"]
+    },
+    "Enter Room": {
+        "hidden": true,
+        "yaml_option": ["Roomsanity"]
+    },
+    "Buttons": {
+        "hidden": true,
+        "yaml_option": ["more_unlocks"]
+    },
+    "Commands": {
+        "hidden": true,
+        "yaml_option": ["more_unlocks"]
+    },
+    "Extra Unlocks": {
+        "yaml_option": ["more_unlocks"]
+    }
+}

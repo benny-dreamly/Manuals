@@ -24,114 +24,98 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
     return False
 
 # You can also return a string from your function, and it will be evaluated as a requires string.
-def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    """Returns a requires string that checks if the player has unlocked the tank."""
-    return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+# def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+#     """Returns a requires string that checks if the player has unlocked the tank."""
+#     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|" e
 
-def ItemValue(world: World, multiworld: MultiWorld, state: CollectionState, player: int, args: str):
-    """When passed a string with this format: 'valueName:int',
-    this function will check if the player has collect at least 'int' valueName worth of items\n
-    eg. {ItemValue(Coins:12)} will check if the player has collect at least 12 coins worth of items
-    """
+def requiresSolve(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Solve command to continue."""
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:8|)"
 
-    args_list = args.split(":")
-    if not len(args_list) == 2 or not args_list[1].isnumeric():
-        raise Exception(f"ItemValue needs a number after : so it looks something like 'ItemValue({args_list[0]}:12)'")
-    args_list[0] = args_list[0].lower().strip()
-    args_list[1] = int(args_list[1].strip())
+def requiresCell(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the Cell to continue."""
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:2|)"
 
-    if not hasattr(world, 'item_values_cache'): #Cache made for optimization purposes
-        world.item_values_cache = {}
+def requiresNoOptions(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has no options enabled that affect logic."""
+    return "({YamlDisabled(more_unlocks)} AND {YamlDisabled(Roomsanity)})"
 
-    if not world.item_values_cache.get(player, {}):
-        world.item_values_cache[player] = {
-            'state': {},
-            'count': {},
-            }
+def requiresDecipher(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Decipher command to continue."""
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:10|)"
 
-    if (args_list[0] not in world.item_values_cache[player].get('count', {}).keys()
-            or world.item_values_cache[player].get('state') != dict(state.prog_items[player])):
-        #Run First Time or if state changed since last check
-        existing_item_values = get_items_with_value(world, multiworld, args_list[0])
-        total_Count = 0
-        for name, value in existing_item_values.items():
-            count = state.count(name, player)
-            if count > 0:
-                total_Count += count * value
-        world.item_values_cache[player]['count'][args_list[0]] = total_Count
-        world.item_values_cache[player]['state'] = dict(state.prog_items[player]) #save the current gotten items to check later if its the same
-    return world.item_values_cache[player]['count'][args_list[0]] >= args_list[1]
+def requiresHallwayLeadingToVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the hallway leading to the Vaults in order to continue."""
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:6|)"
 
+def requiresVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the Vaults in order to continue."""
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:10|)"
 
-# Two useful functions to make require work if an item is disabled instead of making it inaccessible
-def OptOne(world: World, multiworld: MultiWorld, state: CollectionState, player: int, item: str, items_counts: Optional[dict] = None):
-    """Check if the passed item (with or without ||) is enabled, then this returns |item:count|
-    where count is clamped to the maximum number of said item in the itempool.\n
-    Eg. requires: "{OptOne(|DisabledItem|)} and |other items|" become "|DisabledItem:0| and |other items|" if the item is disabled.
-    """
-    if item == "":
-        return "" #Skip this function if item is left blank
-    if not items_counts:
-        items_counts = world.get_item_counts()
+def requiresMoreUnlocksOnly(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player only has the More Unlocks option enabled."""
+    return "({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)})"
 
-    require_type = 'item'
+def requiresUnlock(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Unlock command to continue."""
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:9|)"
 
-    if '@' in item[:2]:
-        require_type = 'category'
+def canUnlockSafe(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can unlock the safe to continue."""
+    return "(({requiresNoOptions()} AND |Puzzle (1/4)|) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)} AND |Puzzle (1/4)|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Puzzle (1/4)|) OR ({requiresVaults()} and {requiresUnlock()} AND |Puzzle (1/4)|))"
 
-    item = item.lstrip('|@$').rstrip('|')
+def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can reassemble the hint to continue."""
+    return "(|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|)"
 
-    item_parts = item.split(":")
-    item_name = item
-    item_count = '1'
+def requiresCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the Storage Closet to continue."""
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:21|)"
 
-    if len(item_parts) > 1:
-        item_name = item_parts[0]
-        item_count = item_parts[1]
+def canDecipherHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can decipher the third hint"""
+    return "(({requiresNoOptions()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canReassembleHint()}) OR ({YamlDisabled(Roomsanity)} AND {requiresGlue()} AND {canReassembleHint()}) OR ({requiresCloset()} AND {requiresGlue()} AND {canReassembleHint()}))"
 
-    if require_type == 'category':
-        if item_count.isnumeric():
-            #Only loop if we can use the result to clamp
-            category_items = [item for item in world.item_name_to_item.values() if "category" in item and item_name in item["category"]]
-            category_items_counts = sum([items_counts.get(category_item["name"], 0) for category_item in category_items])
-            item_count = clamp(int(item_count), 0, category_items_counts)
-        return f"|@{item_name}:{item_count}|"
-    elif require_type == 'item':
-        if item_count.isnumeric():
-            item_current_count = items_counts.get(item_name, 0)
-            item_count = clamp(int(item_count), 0, item_current_count)
-        return f"|{item_name}:{item_count}|"
+def requiresGlue(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Glue command to continue."""
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:11|)"
 
-# OptAll check the passed require string and loop every item to check if they're enabled,
-def OptAll(world: World, multiworld: MultiWorld, state: CollectionState, player: int, requires: str):
-    """Check the passed require string and loop every item to check if they're enabled,
-    then returns the require string with items counts adjusted using OptOne\n
-    eg. requires: "{OptAll(|DisabledItem| and |@CategoryWithModifedCount:10|)} and |other items|"
-    become "|DisabledItem:0| and |@CategoryWithModifedCount:2| and |other items|" """
-    requires_list = requires
+def requiresFill(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player needs the Fill command to continue."""
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:13|)"
 
-    items_counts = world.get_item_counts()
+def requiresHallwayLeadingToStorageCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player has all rooms in the hallway from Vaults to Storage Closet to continue."""
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:19|)"
 
-    functions = {}
-    if requires_list == "":
-        return True
-    for item in re.findall(r'\{(\w+)\(([^)]*)\)\}', requires_list):
-        #so this function doesn't try to get item from other functions, in theory.
-        func_name = item[0]
-        functions[func_name] = item[1]
-        requires_list = requires_list.replace("{" + func_name + "(" + item[1] + ")}", "{" + func_name + "(temp)}")
-    # parse user written statement into list of each item
-    for item in re.findall(r'\|[^|]+\|', requires):
-        itemScanned = OptOne(world, multiworld, state, player, item, items_counts)
-        requires_list = requires_list.replace(item, itemScanned)
+def canOpenTrapdoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can open the Trapdoor to continue."""
+    return "(|Glue Stick| and |Broom| and |Magnifying Glass|)"
 
-    for function in functions:
-        requires_list = requires_list.replace("{" + function + "(temp)}", "{" + func_name + "(" + functions[func_name] + ")}")
-    return requires_list
+def canOpenTrapdoorEvent(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can open the Trapdoor to continue (same as canOpenTrapdoor)."""
+    return "(({requiresNoOptions()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND {canOpenTrapdoor()}) OR ({requiresMoreUnlocksOnly()} AND {canOpenTrapdoor()}) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND {canOpenTrapdoor()}))"
 
-# Rule to expose the can_reach_location core function
-def canReachLocation(world: World, multiworld: MultiWorld, state: CollectionState, player: int, location: str):
-    """Can the player reach the given location?"""
-    if state.can_reach_location(location, player):
-        return True
-    return False
+def canFillBucket(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can fill the bucket with water to continue."""
+    return "(({requiresNoOptions()} AND |Bucket|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Bucket|) OR ({YamlDisabled(Roomsanity)} AND {requiresFill()} AND |Bucket|) OR ({requiresCloset()} AND {requiresFill()} AND |Bucket|))"
+
+def canLightFire(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can light the fire in the storage room to continue."""
+    return "(({requiresNoOptions()} AND |Broom| AND |Lighter|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Broom| AND |Lighter|) OR ({requiresMoreUnlocksOnly()} AND |Broom| AND |Lighter|) OR ({requiresCloset()} AND {YamlEnabled(more_unlocks)} AND |Broom| AND |Lighter|))"
+
+def canExtinguishFire(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can extingusih the fire in the storage room to continue."""
+    return "(|Bucket with Water| AND {canFillBucket()} AND {canLightFire()})"
+
+def canSolveFinalPuzzle(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can solve the final puzzle to continue."""
+    return "(|Puzzle Piece 4| AND |Puzzle (3/4)| AND {canExtinguishFire()})"
+
+def canGetKey(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can obtain the key from solving the final puzzle to continue."""
+    return "(|Puzzle (4/4)| AND {canSolveFinalPuzzle()})"
+
+def canUnlockEscapeDoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    """Returns a requires string that checks if the player can unlock the final door in order to escape the basement and win the game."""
+    return "(({requiresNoOptions()} AND |Key|) OR ({requiresCloset()} AND {YamlDisabled(more_unlocks)} AND |Key|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Key|) OR ({requiresCloset()} AND {requiresUnlock()} AND |Key|))"
