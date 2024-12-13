@@ -30,11 +30,11 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
 
 def requiresSolve(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Solve command to continue."""
-    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:8|"
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:8|)"
 
 def requiresCell(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Cell to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:2|"
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:2|)"
 
 def requiresNoOptions(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has no options enabled that affect logic."""
@@ -42,23 +42,23 @@ def requiresNoOptions(world: World, multiworld: MultiWorld, state: CollectionSta
 
 def requiresDecipher(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Decipher command to continue."""
-    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:10|"
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:10|)"
 
 def requiresHallwayLeadingToVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the hallway leading to the Vaults in order to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:6|"
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:6|)"
 
 def requiresVaults(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Vaults in order to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:10|"
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:10|)"
 
 def requiresMoreUnlocksOnly(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player only has the More Unlocks option enabled."""
-    return "{YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks}"
+    return "({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks})"
 
 def requiresUnlock(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Unlock command to continue."""
-    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:9|"
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:9|)"
 
 def canUnlockSafe(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can unlock the safe to continue."""
@@ -66,11 +66,11 @@ def canUnlockSafe(world: World, multiworld: MultiWorld, state: CollectionState, 
 
 def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can reassemble the hint to continue."""
-    return "|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|"
+    return "(|Hint Fragment A| AND |Hint Fragment B| AND |Hint Fragment C| AND |Hint Fragment D| AND |Hint Fragment E| AND |Hint Fragment F| AND |Hint Fragment G| AND |Hint Fragment H| AND |Hint Fragment I| AND |Hint Fragment J| AND |Hint Fragment K| AND |Hint Fragment L| AND |Hint Fragment M| AND |Glue Stick|)"
 
 def requiresCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the Storage Closet to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:21|"
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:21|)"
 
 def canDecipherHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can decipher the third hint"""
@@ -78,19 +78,19 @@ def canDecipherHint(world: World, multiworld: MultiWorld, state: CollectionState
 
 def requiresGlue(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Glue command to continue."""
-    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:11|"
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:11|)"
 
 def requiresFill(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Fill command to continue."""
-    return "{YamlEnabled(more_unlocks)} AND |Progressive Command:13|"
+    return "({YamlEnabled(more_unlocks)} AND |Progressive Command:13|)"
 
 def requiresHallwayLeadingToStorageCloset(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has all rooms in the hallway from Vaults to Storage Closet to continue."""
-    return "{YamlEnabled(Roomsanity)} AND |Progressive Room:19|"
+    return "({YamlEnabled(Roomsanity)} AND |Progressive Room:19|)"
 
 def canOpenTrapdoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can open the Trapdoor to continue."""
-    return "|Glue Stick| and |Broom| and |Magnifying Glass|"
+    return "(|Glue Stick| and |Broom| and |Magnifying Glass|)"
 
 def canOpenTrapdoorEvent(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can open the Trapdoor to continue (same as canOpenTrapdoor)."""
@@ -106,15 +106,15 @@ def canLightFire(world: World, multiworld: MultiWorld, state: CollectionState, p
 
 def canExtinguishFire(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can extingusih the fire in the storage room to continue."""
-    return "|Bucket with Water| AND {canFillBucket()} AND {canLightFire()}"
+    return "(|Bucket with Water| AND {canFillBucket()} AND {canLightFire()})"
 
 def canSolveFinalPuzzle(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can solve the final puzzle to continue."""
-    return "|Puzzle Piece 4| AND |Puzzle (3/4)| AND {canExtinguishFire()}"
+    return "(|Puzzle Piece 4| AND |Puzzle (3/4)| AND {canExtinguishFire()})"
 
 def canGetKey(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can obtain the key from solving the final puzzle to continue."""
-    return "|Puzzle (4/4)| AND {canSolveFinalPuzzle()}"
+    return "(|Puzzle (4/4)| AND {canSolveFinalPuzzle()})"
 
 def canUnlockEscapeDoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can unlock the final door in order to escape the basement and win the game."""
