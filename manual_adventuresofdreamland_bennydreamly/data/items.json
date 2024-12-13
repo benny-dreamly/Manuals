@@ -13,7 +13,7 @@
         "category": [
             "Hints"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
@@ -21,7 +21,7 @@
         "category": [
             "Clues"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
@@ -29,7 +29,7 @@
         "category": [
             "Clues"
         ],
-        "useful": true
+        "progression": true
     },
     {
         "count": 1,
