@@ -15,37 +15,37 @@
         "name": "Pickup Hint 1",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "({requiresNoOptions()} OR (({requiresMoreUnlocksOnly()})) OR ({requiresCell()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 1",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "({requiresNoOptions()} OR (({requiresMoreUnlocksOnly()})) OR ({requiresCell()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 1.5",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "({requiresNoOptions()} OR (({requiresMoreUnlocksOnly()})) OR ({requiresCell()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Clue 2",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "({requiresNoOptions()} OR (({requiresMoreUnlocksOnly()})) OR ({requiresCell()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Puzzle",
         "region": "Cell",
         "category": ["Item Pickups", "Cell"],
-        "requires": "({requiresNoOptions()} OR (({requiresMoreUnlocksOnly()})) OR ({requiresCell()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Decipher Hint 1",
         "region": "Cell",
         "category": ["Actions", "Cell"],
-        "requires": "((|Hint 1| AND |Clue 1| AND |Clue 1-2| AND {requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({YamlDisabled(Roomsanity)} AND {requiresDecipher()}) OR ({requiresCell()} AND {requiresDecipher()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresCell()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresCell()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Scroll",
@@ -57,19 +57,19 @@
         "name": "Pickup Hint Fragment A",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "( {requiresNoOptions()} OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Hint Fragment B",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment A|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment A|) OR ({requiresHallwayLeadingToVaults()} AND |Hint Fragment A|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment A|) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment A|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment A|) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment A|))"
     },
     {
         "name": "Pickup Hint Fragment C",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment B|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment B|) OR ({requiresHallwayLeadingToVaults()} AND |Hint Fragment B|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment B|) OR ({requiresHallwayLeadingToVaults()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment B|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment B|) OR ({requiresHallwayLeadingToVaults()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment B|))"
     },
     {
         "name": "Pickup Hint Fragment D",
@@ -81,67 +81,67 @@
         "name": "Pickup Hint Fragment E",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment D|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment D|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment D|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment D|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment D|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment D|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment D|))"
     },
     {
         "name": "Pickup Hint Fragment F",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment E|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment E|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment E|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment E|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment E|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment E|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment E|))"
     },
     {
         "name": "Pickup Hint Fragment G",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment F|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment F|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment F|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment F|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment F|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment F|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment F|))"
     },
     {
         "name": "Pickup Hint Fragment H",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment G|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment G|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment G|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment G|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment G|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment G|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment G|))"
     },
     {
         "name": "Pickup Hint Fragment I",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment H|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment H|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment H|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment H|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment H|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment H|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment H|))"
     },
     {
         "name": "Pickup Hint Fragment J",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment I|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment I|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment I|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment I|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment I|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment I|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment I|))"
     },
     {
         "name": "Pickup Hint Fragment K",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment J|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment J|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment J|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment J|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment J|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment J|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment J|))"
     },
     {
         "name": "Pickup Hint Fragment L",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment K|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment K|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment K|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment K|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment K|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment K|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment K|))"
     },
     {
         "name": "Pickup Hint Fragment M",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment L|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment L|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment L|))"
+        "requires": "(({requiresNoOptions()} AND |Hint Fragment L|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment L|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment L|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment L|))"
     },
     {
         "name": "Pickup Fragment Clue",
         "region": "Hallway",
         "category": ["Item Pickups", "Hallway"],
-        "requires": "(({requiresNoOptions()} AND |Hint Fragment M|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment M|) OR ({requiresHallwayLeadingToStorageCloset()} AND |Hint Fragment M|))"
+         "requires": "(({requiresNoOptions()} AND |Hint Fragment M|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlDisabled(more_unlocks)} AND |Hint Fragment M|) OR ({requiresMoreUnlocksOnly()} AND |Hint Fragment M|) OR ({requiresHallwayLeadingToStorageCloset()} AND {YamlEnabled(more_unlocks)} AND |Hint Fragment M|))"
     },
     {
         "name": "Pickup Scroll Hint",
         "region": "Vault",
         "category": ["Item Pickups", "Vault"],
-        "requires": "({requiresNoOptions()} OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
+        "requires": "(({requiresNoOptions()}) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)}) OR ({requiresMoreUnlocksOnly()}) OR ({requiresVaults()} AND {YamlEnabled(more_unlocks)}))"
     },
     {
         "name": "Pickup Gold Bar",
