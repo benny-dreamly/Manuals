@@ -54,7 +54,7 @@ def requiresVaults(world: World, multiworld: MultiWorld, state: CollectionState,
 
 def requiresMoreUnlocksOnly(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player only has the More Unlocks option enabled."""
-    return "({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks})"
+    return "({YamlDisabled(Roomsanity)} AND {YamlEnabled(more_unlocks)})"
 
 def requiresUnlock(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player needs the Unlock command to continue."""
