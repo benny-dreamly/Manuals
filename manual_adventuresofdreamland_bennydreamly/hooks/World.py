@@ -70,8 +70,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # to the list multiple times if you want to remove multiple copies of it.
 
     for itemName in itemNamesToRemove:
-        item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
+        item = next((i for i in item_pool if i.name == itemName), None)
+        if item is not None:
+            item_pool.remove(item)
 
     return item_pool
 
