@@ -5,7 +5,7 @@
             "type": "Toggle",
             "default": false
         },
-        "Additional Unlocks": {
+        "more_unlocks": {
             "description": "Add extra unlocks. Makes commands progressive, you start with two, the rest are locked. Also locks all movement buttons (NESW).",
             "type": "Toggle",
             "default": false
