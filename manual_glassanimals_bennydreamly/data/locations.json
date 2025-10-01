@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Show Pony",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|Show Pony|"
+  },
+  {
+    "name": "whatthehellishappening?",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|whatthehellishappening?|"
+  },
+  {
+    "name": "Creatures in Heaven",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|Creatures in Heaven|"
+  },
+  {
+    "name": "Wonderful Nothing",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|Wonderful Nothing|\n"
+  },
+  {
+    "name": "A Tear in Space (Airlock)",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|A Tear in Space (Airlock)|"
+  },
+  {
+    "name": "I Can't Make You Fall In Love Again",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|I Can't Make You Fall In Love Again|"
+  },
+  {
+    "name": "How I Learned To Love The Bomb",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|How I Learned To Love The Bomb|"
+  },
+  {
+    "name": "White Roses",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|White Roses|"
+  },
+  {
+    "name": "On the Run",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|On the Run|"
+  },
+  {
+    "name": "Lost in the Ocean",
+    "region": "I Love You So F***ing Much",
+    "category": [],
+    "requires": "|Lost in the Ocean|"
+  },
+  {
+    "name": "Dreamland",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|Dreamland|"
+  },
+  {
+    "region": "Dreamland",
+    "name": "Tangerine",
+    "category": [],
+    "requires": "|Tangerine|"
+  },
+  {
+    "region": "Dreamland",
+    "name": "Hot Sugar",
+    "category": [],
+    "requires": "|Hot Sugar|"
+  },
+  {
+    "name": "Space Ghost Coast to Coast",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|Space Ghost Coast to Coast|"
+  },
+  {
+    "name": "Tokyo Drifting",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|Tokyo Drifting|"
+  },
+  {
+    "name": "Melon and the Coconut",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|Melon and the Coconut|"
+  },
+  {
+    "region": "Dreamland",
+    "name": "Your Love (Déjà Vu)",
+    "category": [],
+    "requires": "|Your Love (Déjà Vu)|"
+  },
+  {
+    "name": "Waterfalls Coming Out Of Your Mouth",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|Waterfalls Coming Out Of Your Mouth|"
+  },
+  {
+    "name": "It's All So Incredibly Loud",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|It's All So Incredibly Loud|"
+  },
+  {
+    "name": "Domestic Bliss",
+    "region": "Dreamland",
+    "category": [],
+    "requires": "|Domestic Bliss|"
+  },
+  {
+    "name": "Heat Waves",
+    "category": [],
+    "requires": "|Heat Waves|"
+  },
+  {
+    "name": "Helium",
+    "category": [],
+    "requires": "|Helium|"
+  }
+]
