@@ -1169,8 +1169,7 @@
     "name": "...Ready for It?",
     "region": "Reputation",
     "category": [
-      "Reputation",
-      "single"
+      "Reputation"
     ],
     "requires": []
   },
@@ -1178,9 +1177,7 @@
     "name": "End Game (feat. Ed Sheeran & Future)",
     "region": "Reputation",
     "category": [
-      "Reputation",
-      "single",
-      "collaboration"
+      "Reputation"
     ],
     "requires": []
   },
@@ -1204,8 +1201,7 @@
     "name": "Delicate",
     "region": "Reputation",
     "category": [
-      "Reputation",
-      "single"
+      "Reputation"
     ],
     "requires": []
   },
@@ -1213,8 +1209,7 @@
     "name": "Look What You Made Me Do",
     "region": "Reputation",
     "category": [
-      "Reputation",
-      "single"
+      "Reputation"
     ],
     "requires": []
   },
@@ -1230,8 +1225,7 @@
     "name": "Gorgeous",
     "region": "Reputation",
     "category": [
-      "Reputation",
-      "single"
+      "Reputation"
     ],
     "requires": []
   },
@@ -1279,8 +1273,7 @@
     "name": "Call It What You Want",
     "region": "Reputation",
     "category": [
-      "Reputation",
-      "single"
+      "Reputation"
     ],
     "requires": []
   },
@@ -1306,9 +1299,7 @@
     "name": "Lover",
     "region": "Lover",
     "category": [
-      "Lover",
-      "single",
-      "title track"
+      "Lover"
     ],
     "requires": []
   },
@@ -1316,8 +1307,7 @@
     "name": "The Man",
     "region": "Lover",
     "category": [
-      "Lover",
-      "single"
+      "Lover"
     ],
     "requires": []
   },
@@ -1363,9 +1353,7 @@
     "name": "ME! (feat. Brendon Urie)",
     "region": "Lover",
     "category": [
-      "Lover",
-      "single",
-      "collaboration"
+      "Lover"
     ],
     "requires": [] },
   {
@@ -1380,8 +1368,7 @@
     "name": "You Need to Calm Down",
     "region": "Lover",
     "category": [
-      "Lover",
-      "single"
+      "Lover"
     ],
     "requires": []
   },
@@ -1421,8 +1408,7 @@
     "name": "Soon You'll Get Better (feat. Dixie Chicks)",
     "region": "Lover",
     "category": [
-      "Lover",
-      "collaboration"
+      "Lover"
     ],
     "requires": []
   },
