@@ -1240,8 +1240,7 @@
     "name": "Lavender Haze",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "single"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1257,8 +1256,7 @@
     "name": "Anti-Hero",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "single"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1266,8 +1264,7 @@
     "name": "Snow On The Beach (feat. Lana Del Rey)",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "collaboration"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1307,8 +1304,7 @@
     "name": "Bejeweled",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "single"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1324,8 +1320,7 @@
     "name": "Karma",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "single"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1351,8 +1346,7 @@
     "name": "The Great War",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1360,8 +1354,7 @@
     "name": "Bigger Than The Whole Sky",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1369,8 +1362,7 @@
     "name": "Paris",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1378,8 +1370,7 @@
     "name": "High Infidelity",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1387,8 +1378,7 @@
     "name": "Glitch",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1396,8 +1386,7 @@
     "name": "Would've, Could've, Should've",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1405,8 +1394,7 @@
     "name": "Dear Reader",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "3am edition"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1416,8 +1404,7 @@
     "name": "Hits Different",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "special release"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1425,9 +1412,7 @@
     "name": "Snow On The Beach (feat. Lana Del Rey) (More Lana Del Rey)",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "remix",
-      "collaboration"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1435,9 +1420,7 @@
     "name": "Karma (feat. Ice Spice)",
     "region": "Midnights",
     "category": [
-      "Midnights",
-      "remix",
-      "collaboration"
+      "Midnights"
     ],
     "requires": []
   },
@@ -1447,9 +1430,7 @@
     "name": "Fortnight (feat. Post Malone)",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "single",
-      "collaboration"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1457,8 +1438,7 @@
     "name": "The Tortured Poets Department",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "title track"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1505,8 +1485,7 @@
     "name": "Florida!!! (feat. Florence + The Machine)",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "collaboration"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1522,8 +1501,7 @@
     "name": "Who's Afraid of Little Old Me?",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "single"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1547,8 +1525,7 @@
     "name": "I Can Do It With a Broken Heart",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "single"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1582,8 +1559,7 @@
     "name": "The Black Dog",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1591,8 +1567,7 @@
     "name": "imgonnagetyouback",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1600,8 +1575,7 @@
     "name": "The Albatross",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1609,8 +1583,7 @@
     "name": "Chloe or Sam or Sophia or Marcus",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1618,8 +1591,7 @@
     "name": "How Did It End?",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1627,8 +1599,7 @@
     "name": "So High School",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1636,8 +1607,7 @@
     "name": "I Hate It Here",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1645,8 +1615,7 @@
     "name": "thanK you aIMee",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1654,8 +1623,7 @@
     "name": "I Look in People's Windows",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1663,8 +1631,7 @@
     "name": "The Prophecy",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1672,8 +1639,7 @@
     "name": "Cassandra",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1681,8 +1647,7 @@
     "name": "Peter",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1690,8 +1655,7 @@
     "name": "The Bolter",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1699,8 +1663,7 @@
     "name": "Robin",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   },
@@ -1708,8 +1671,7 @@
     "name": "The Manuscript",
     "region": "The Tortured Poets Department",
     "category": [
-      "The Tortured Poets Department",
-      "anthology"
+      "The Tortured Poets Department"
     ],
     "requires": []
   }
