@@ -1,15 +1,94 @@
 [
-  { "name": "Tim McGraw", "region": "Taylor Swift", "category": ["Taylor Swift","debut single"], "requires": [] },
-  { "name": "Picture to Burn", "region": "Taylor Swift", "category": ["Taylor Swift","single"], "requires": [] },
-  { "name": "Teardrops on My Guitar", "region": "Taylor Swift", "category": ["Taylor Swift","single"], "requires": [] },
-  { "name": "A Place in This World", "region": "Taylor Swift", "category": ["Taylor Swift"], "requires": [] },
-  { "name": "Cold as You", "region": "Taylor Swift", "category": ["Taylor Swift"], "requires": [] },
-  { "name": "The Outside", "region": "Taylor Swift", "category": ["Taylor Swift"], "requires": [] },
-  { "name": "Tied Together with a Smile", "region": "Taylor Swift", "category": ["Taylor Swift"], "requires": [] },
-  { "name": "Stay Beautiful", "region": "Taylor Swift", "category": ["Taylor Swift"], "requires": [] },
-  { "name": "Should've Said No", "region": "Taylor Swift", "category": ["Taylor Swift","single"], "requires": [] },
-  { "name": "Mary's Song (Oh My My My)", "region": "Taylor Swift", "category": ["Taylor Swift"], "requires": [] },
-  { "name": "Our Song", "region": "Taylor Swift", "category": ["Taylor Swift","single"], "requires": [] },
+  {
+    "name": "Tim McGraw",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Picture to Burn",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Teardrops on My Guitar",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Place in This World",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cold as You",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Outside",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tied Together with a Smile",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stay Beautiful",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Should've Said No",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mary's Song (Oh My My My)",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Our Song",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift",
+      "single"
+    ],
+    "requires": []
+  },
 
   { "name": "Fearless", "region": "Fearless", "category": ["Fearless","title track", "single"], "requires": [] },
   { "name": "Fifteen", "region": "Fearless", "category": ["Fearless","single"], "requires": [] },
