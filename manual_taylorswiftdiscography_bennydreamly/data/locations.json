@@ -90,26 +90,180 @@
     "requires": []
   },
 
-  { "name": "Fearless", "region": "Fearless", "category": ["Fearless","title track", "single"], "requires": [] },
-  { "name": "Fifteen", "region": "Fearless", "category": ["Fearless","single"], "requires": [] },
-  { "name": "Love Story", "region": "Fearless", "category": ["Fearless","single"], "requires": [] },
-  { "name": "Hey Stephen", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "White Horse", "region": "Fearless", "category": ["Fearless","single"], "requires": [] },
-  { "name": "You Belong With Me", "region": "Fearless", "category": ["Fearless","single"], "requires": [] },
-  { "name": "Breathe (feat. Colbie Caillat)", "region": "Fearless", "category": ["Fearless","collaboration"], "requires": [] },
-  { "name": "Tell Me Why", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "You're Not Sorry", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "The Way I Loved You", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "Forever & Always", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "The Best Day", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "Change", "region": "Fearless", "category": ["Fearless"], "requires": [] },
-  { "name": "Jump Then Fall", "region": "Fearless", "category": ["Fearless","platinum edition"], "requires": [] },
-  { "name": "Untouchable", "region": "Fearless", "category": ["Fearless","platinum edition"], "requires": [] },
-  { "name": "Forever & Always (Piano Version)", "region": "Fearless", "category": ["Fearless","platinum edition"], "requires": [] },
-  { "name": "Come In With The Rain", "region": "Fearless", "category": ["Fearless","platinum edition"], "requires": [] },
-  { "name": "Superstar", "region": "Fearless", "category": ["Fearless","platinum edition"], "requires": [] },
-  { "name": "The Other Side of the Door", "region": "Fearless", "category": ["Fearless","platinum edition"], "requires": [] },
-  { "name": "Today Was a Fairytale", "region": "Fearless", "category": ["Fearless","bonus track"], "requires": [] },
+  {
+    "name": "Fearless",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "title track",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fifteen",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love Story",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hey Stephen",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "White Horse",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You Belong With Me",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Breathe (feat. Colbie Caillat)",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tell Me Why",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You're Not Sorry",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Way I Loved You",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forever & Always",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Best Day",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Change",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jump Then Fall",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "platinum edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Untouchable",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "platinum edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forever & Always (Piano Version)",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "platinum edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Come In With The Rain",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "platinum edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Superstar",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "platinum edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Other Side of the Door",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "platinum edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Today Was a Fairytale",
+    "region": "Fearless",
+    "category": [
+      "Fearless",
+      "bonus track"
+    ],
+    "requires": []
+  },
 
   { "name": "Fearless (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
   { "name": "Fifteen (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
