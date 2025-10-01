@@ -9,7 +9,7 @@
   },
   "Fearless (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|Fearless (Taylor's Version)|"]
+    "requires": ["|Fearless (Taylor's Version)| AND |Re-recordings|"]
   },
   "Speak Now": {
     "connects_to": [],
@@ -17,7 +17,7 @@
   },
   "Speak Now (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|Speak Now (Taylor's Version)"]
+    "requires": ["|Speak Now (Taylor's Version)| AND |Re-recordings|"]
   },
   "Red": {
     "connects_to": [],
@@ -25,7 +25,7 @@
   },
   "Red (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|Red (Taylor's Version)"]
+    "requires": ["|Red (Taylor's Version)| AND |Re-recordings|"]
   },
   "1989": {
     "connects_to": [],
@@ -33,7 +33,7 @@
   },
   "1989 (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|1989 (Taylor's Version)|"]
+    "requires": ["|1989 (Taylor's Version)| AND |Re-recordings|"]
   },
   "Reputation": {
     "connects_to": [],
