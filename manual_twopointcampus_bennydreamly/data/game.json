@@ -5,7 +5,7 @@
   "filler_item_name": "Filler",
   "starting_items": [
     {
-      "items": "Scientography"
+      "items": ["Scientography"]
     }
   ]
 }
