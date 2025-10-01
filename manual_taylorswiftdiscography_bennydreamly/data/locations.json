@@ -1165,40 +1165,283 @@
   { "name": "Suburban Legends (From The Vault)", "region": "1989 (Taylor's Version)", "category": ["1989 (Taylor's Version)","from the vault"], "requires": [] },
   { "name": "Is It Over Now? (From The Vault)", "region": "1989 (Taylor's Version)", "category": ["1989 (Taylor's Version)","from the vault"], "requires": [] },
 
-  { "name": "...Ready for It?", "region": "Reputation", "category": ["Reputation","single"], "requires": [] },
-  { "name": "End Game (feat. Ed Sheeran & Future)", "region": "Reputation", "category": ["Reputation","single", "collaboration"], "requires": [] },
-  { "name": "I Did Something Bad", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "Don't Blame Me", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "Delicate", "region": "Reputation", "category": ["Reputation","single"], "requires": [] },
-  { "name": "Look What You Made Me Do", "region": "Reputation", "category": ["Reputation","single"], "requires": [] },
-  { "name": "So It Goes...", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "Gorgeous", "region": "Reputation", "category": ["Reputation","single"], "requires": [] },
-  { "name": "Getaway Car", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "King of My Heart", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "Dancing with Our Hands Tied", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "Dress", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "This Is Why We Can't Have Nice Things", "region": "Reputation", "category": ["Reputation"], "requires": [] },
-  { "name": "Call It What You Want", "region": "Reputation", "category": ["Reputation","single"], "requires": [] },
-  { "name": "New Year's Day", "region": "Reputation", "category": ["Reputation"], "requires": [] },
+  {
+    "name": "...Ready for It?",
+    "region": "Reputation",
+    "category": [
+      "Reputation",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "End Game (feat. Ed Sheeran & Future)",
+    "region": "Reputation",
+    "category": [
+      "Reputation",
+      "single",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Did Something Bad",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Don't Blame Me",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Delicate",
+    "region": "Reputation",
+    "category": [
+      "Reputation",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Look What You Made Me Do",
+    "region": "Reputation",
+    "category": [
+      "Reputation",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "So It Goes...",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gorgeous",
+    "region": "Reputation",
+    "category": [
+      "Reputation",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Getaway Car",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "King of My Heart",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dancing with Our Hands Tied",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dress",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "This Is Why We Can't Have Nice Things",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Call It What You Want",
+    "region": "Reputation",
+    "category": [
+      "Reputation",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "New Year's Day",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": []
+  },
 
-  { "name": "The Archer", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "Lover", "region": "Lover", "category": ["Lover","single", "title track"], "requires": [] },
-  { "name": "The Man", "region": "Lover", "category": ["Lover","single"], "requires": [] },
-  { "name": "Death By A Thousand Cuts", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "Cornelia Street", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "Daylight", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "The Moment I Knew", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "Paper Rings", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "ME! (feat. Brendon Urie)", "region": "Lover", "category": ["Lover","single", "collaboration"], "requires": [] },
-  { "name": "False God", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "You Need to Calm Down", "region": "Lover", "category": ["Lover","single"], "requires": [] },
-  { "name": "Afterglow", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "Miss Americana & The Heartbreak Prince", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "I Think He Knows", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "London Boy", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "Soon You'll Get Better (feat. Dixie Chicks)", "region": "Lover", "category": ["Lover","collaboration"], "requires": [] },
-  { "name": "It's Nice to Have a Friend", "region": "Lover", "category": ["Lover"], "requires": [] },
-  { "name": "INTHAF", "region": "Lover", "category": ["Lover"], "requires": [] },
+
+  {
+    "name": "The Archer",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lover",
+    "region": "Lover",
+    "category": [
+      "Lover",
+      "single",
+      "title track"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Man",
+    "region": "Lover",
+    "category": [
+      "Lover",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Death By A Thousand Cuts",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cornelia Street",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Daylight",
+    "region": "Lover",
+    "category": ["Lover"],
+    "requires": []
+  },
+  {
+    "name": "The Moment I Knew",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Paper Rings",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ME! (feat. Brendon Urie)",
+    "region": "Lover",
+    "category": [
+      "Lover",
+      "single",
+      "collaboration"
+    ],
+    "requires": [] },
+  {
+    "name": "False God",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You Need to Calm Down",
+    "region": "Lover",
+    "category": [
+      "Lover",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Afterglow",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Miss Americana & The Heartbreak Prince",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Think He Knows",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "London Boy",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Soon You'll Get Better (feat. Dixie Chicks)",
+    "region": "Lover",
+    "category": [
+      "Lover",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "It's Nice to Have a Friend",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "INTHAF",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
 
   {
     "name": "the 1",
