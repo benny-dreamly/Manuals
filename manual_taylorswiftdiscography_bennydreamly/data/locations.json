@@ -265,32 +265,222 @@
     "requires": []
   },
 
-  { "name": "Fearless (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Fifteen (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Love Story (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Hey Stephen (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "White Horse (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "You Belong With Me (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Breathe (feat. Colbie Caillat) (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","collaboration"], "requires": [] },
-  { "name": "Tell Me Why (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "You're Not Sorry (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "The Way I Loved You (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Forever & Always (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "The Best Day (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Change (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Jump Then Fall (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Untouchable (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Forever & Always (Piano Version) (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Come In With The Rain (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Superstar (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "The Other Side of the Door (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "Today Was a Fairytale (Taylor's Version)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)"], "requires": [] },
-  { "name": "You All Over Me (feat. Maren Morris) (Taylor's Version) (From The Vault)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "Mr. Perfectly Fine (Taylor's Version) (From The Vault)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "We Were Happy (Taylor's Version) (From The Vault)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "That's When (Taylor's Version) (From The Vault) (Featuring Keith Urban)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","from the vault", "collaboration"], "requires": [] },
-  { "name": "Don't You (Taylor's Version) (From The Vault)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "Bye Bye Baby (Taylor's Version) (From The Vault)", "region": "Fearless (Taylor's Version)", "category": ["Fearless (Taylor's Version)","from the vault"], "requires": [] },
+  {
+    "name": "Fearless (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fifteen (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Love Story (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hey Stephen (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "White Horse (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You Belong With Me (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Breathe (feat. Colbie Caillat) (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tell Me Why (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You're Not Sorry (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Way I Loved You (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forever & Always (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Best Day (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Change (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jump Then Fall (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Untouchable (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forever & Always (Piano Version) (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Come In With The Rain (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Superstar (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Other Side of the Door (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Today Was a Fairytale (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You All Over Me (feat. Maren Morris) (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mr. Perfectly Fine (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "We Were Happy (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "That's When (Taylor's Version) (From The Vault) (Featuring Keith Urban)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "from the vault",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Don't You (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bye Bye Baby (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
 
   { "name": "Mine", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
   { "name": "Sparks Fly", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
