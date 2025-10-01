@@ -601,26 +601,174 @@
     "requires": []
   },
 
-  { "name": "Mine (Taylor's Version)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Sparks Fly (Taylor's Version)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Back to December (Taylor's Version)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Speak Now", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Dear John", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Mean", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "The Story of Us", "region": "Speak Now", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Never Grow Up", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Enchanted", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Better Than Revenge", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Innocent", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Haunted", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Last Kiss", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Long Live", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
-  { "name": "Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)","from the vault", "collaboration"], "requires": [] },
-  { "name": "When Emma Falls in Love (Taylor's Version) (From The Vault)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "I Can See You (Taylor's Version) (From The Vault)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)","from the vault", "collaboration"], "requires": [] },
-  { "name": "Foolish One (Taylor's Version) (From The Vault)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)","from the vault"], "requires": [] },
-  { "name": "Timeless (Taylor's Version) (From The Vault)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)","from the vault"], "requires": [] },
+  {
+    "name": "Mine (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sparks Fly (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Back to December (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Speak Now (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dear John (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mean (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Story of Us (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Never Grow Up (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Better Than Revenge (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Innocent (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Last Kiss (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Long Live (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "from the vault",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "When Emma Falls in Love (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Can See You (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "from the vault",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Foolish One (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Timeless (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "from the vault"
+    ],
+    "requires": []
+  },
 
   { "name": "State of Grace", "region": "Red", "category": ["Red"], "requires": [] },
   { "name": "Red", "region": "Red", "category": ["Red","title track"], "requires": [] },
