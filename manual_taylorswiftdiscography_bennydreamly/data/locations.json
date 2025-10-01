@@ -1200,41 +1200,290 @@
   { "name": "It's Nice to Have a Friend", "region": "Lover", "category": ["Lover"], "requires": [] },
   { "name": "INTHAF", "region": "Lover", "category": ["Lover"], "requires": [] },
 
-  { "name": "the 1", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "cardigan", "region": "Folklore", "category": ["Folklore","single"], "requires": [] },
-  { "name": "the last great american dynasty", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "exile (feat. Bon Iver)", "region": "Folklore", "category": ["Folklore","single", "collaboration"], "requires": [] },
-  { "name": "my tears ricochet", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "mirrorball", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "seven", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "august", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "this is me trying", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "illicit affairs", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "invisible string", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "mad woman", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "epiphany", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "betty", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "peace", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "hoax", "region": "Folklore", "category": ["Folklore"], "requires": [] },
-  { "name": "the lakes (bonus track)", "region": "Folklore", "category": ["Folklore","bonus track"], "requires": [] },
+  {
+    "name": "the 1",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "cardigan",
+    "region": "Folklore",
+    "category": [
+      "Folklore",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "the last great american dynasty",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "exile (feat. Bon Iver)",
+    "region": "Folklore",
+    "category": [
+      "Folklore",
+      "single",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "my tears ricochet",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "mirrorball",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "seven",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "august",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "this is me trying",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "illicit affairs",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "invisible string",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "mad woman",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "epiphany",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "betty",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "peace",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "hoax",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "the lakes (bonus track)",
+    "region": "Folklore",
+    "category": [
+      "Folklore",
+      "bonus track"
+    ],
+    "requires": []
+  },
 
-  { "name": "willow", "region": "Evermore", "category": ["Evermore","single"], "requires": [] },
-  { "name": "champagne problems", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "gold rush", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "'tis the damn season", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "tolerate it", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "no body, no crime (feat. HAIM)", "region": "Evermore", "category": ["Evermore","collaboration"], "requires": [] },
-  { "name": "happiness", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "dorothea", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "coney island (feat. The National)", "region": "Evermore", "category": ["Evermore","collaboration"], "requires": [] },
-  { "name": "ivy", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "cowboy like me", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "long story short", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "marjorie", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "closure", "region": "Evermore", "category": ["Evermore"], "requires": [] },
-  { "name": "evermore (feat. Bon Iver)", "region": "Evermore", "category": ["Evermore","title track", "collaboration"], "requires": [] },
-  { "name": "right where you left me (bonus track)", "region": "Evermore", "category": ["Evermore","bonus track"], "requires": [] },
-  { "name": "it's time to go (bonus track)", "region": "Evermore", "category": ["Evermore","bonus track"], "requires": [] },
+  {
+    "name": "willow",
+    "region": "Evermore",
+    "category": [
+      "Evermore",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "champagne problems",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "gold rush",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "'tis the damn season",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "tolerate it",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "no body, no crime (feat. HAIM)",
+    "region": "Evermore",
+    "category": [
+      "Evermore",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "happiness",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "dorothea",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "coney island (feat. The National)",
+    "region": "Evermore",
+    "category": [
+      "Evermore",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ivy",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "cowboy like me",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "long story short",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "marjorie",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "closure",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": []
+  },
+  {
+    "name": "evermore (feat. Bon Iver)",
+    "region": "Evermore",
+    "category": [
+      "Evermore",
+      "title track",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "right where you left me (bonus track)",
+    "region": "Evermore",
+    "category": [
+      "Evermore",
+      "bonus track"
+    ],
+    "requires": []
+  },
+  {
+    "name": "it's time to go (bonus track)",
+    "region": "Evermore",
+    "category": [
+      "Evermore",
+      "bonus track"
+    ],
+    "requires": []
+  },
 
   {
     "name": "Lavender Haze",
