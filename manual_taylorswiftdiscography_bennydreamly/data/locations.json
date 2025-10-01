@@ -482,20 +482,124 @@
     "requires": []
   },
 
-  { "name": "Mine", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
-  { "name": "Sparks Fly", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
-  { "name": "Back to December", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
-  { "name": "Speak Now", "region": "Speak Now", "category": ["Speak Now","title track"], "requires": [] },
-  { "name": "Dear John", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Mean", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
-  { "name": "The Story of Us", "region": "Speak Now", "category": ["Speak Now","single"], "requires": [] },
-  { "name": "Never Grow Up", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Enchanted", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Better Than Revenge", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Innocent", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Haunted", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Last Kiss", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
-  { "name": "Long Live", "region": "Speak Now", "category": ["Speak Now"], "requires": [] },
+  {
+    "name": "Mine",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sparks Fly",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Back to December",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Speak Now",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now",
+      "title track"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dear John",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mean",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Story of Us",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Never Grow Up",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enchanted",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Better Than Revenge",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Innocent",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Last Kiss",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Long Live",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
 
   { "name": "Mine (Taylor's Version)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
   { "name": "Sparks Fly (Taylor's Version)", "region": "Speak Now (Taylor's Version)", "category": ["Speak Now (Taylor's Version)"], "requires": [] },
