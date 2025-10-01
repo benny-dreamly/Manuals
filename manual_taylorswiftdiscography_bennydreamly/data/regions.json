@@ -1,0 +1,17 @@
+{
+  "Taylor Swift": { "connects_to": [], "requires": [] },
+  "Fearless": { "connects_to": [], "requires": [] },
+  "Fearless (Taylor's Version)": { "connects_to": [], "requires": [] },
+  "Speak Now": { "connects_to": [], "requires": [] },
+  "Speak Now (Taylor's Version)": { "connects_to": [], "requires": [] },
+  "Red": { "connects_to": [], "requires": [] },
+  "Red (Taylor's Version)": { "connects_to": [], "requires": [] },
+  "1989": { "connects_to": [], "requires": [] },
+  "1989 (Taylor's Version)": { "connects_to": [], "requires": [] },
+  "Reputation": { "connects_to": [], "requires": [] },
+  "Lover": { "connects_to": [], "requires": [] },
+  "Folklore": { "connects_to": [], "requires": [] },
+  "Evermore": { "connects_to": [], "requires": [] },
+  "Midnights": { "connects_to": [], "requires": [] },
+  "The Tortured Poets Department": { "connects_to": [], "requires": [] }
+}
