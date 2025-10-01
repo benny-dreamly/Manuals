@@ -748,6 +748,24 @@
   { "name": "Everything Has Changed (feat. Ed Sheeran)", "region": "Red", "category": ["Red","single", "collaboration"], "requires": [] },
   { "name": "Starlight", "region": "Red", "category": ["Red"], "requires": [] },
   { "name": "Begin Again", "region": "Red", "category": ["Red","single"], "requires": [] },
+  {
+    "name": "The Moment I Knew", "region": "Red", "category": ["Red"], "requires": []
+  },
+  {
+    "name": "Come Back... Be Here", "region": "Red", "category": ["Red"], "requires": []
+  },
+  {
+    "name": "Girl at Home", "region": "Red", "category": ["Red"], "requires": []
+  },
+  {
+    "name": "Treacherous (original demo recording)", "region": "Red", "category": ["Red"], "requires": []
+  },
+  {
+    "name": "Red (original demo recording)", "region": "Red", "category": ["Red"], "requires": []
+  },
+  {
+    "name": "State of Grace (acoustic version)", "region": "Red", "category": ["Red"], "requires": []
+  },
 
   { "name": "State of Grace (Taylor's Version)", "region": "Red (Taylor's Version)", "category": ["Red (Taylor's Version)"], "requires": [] },
   { "name": "Red (Taylor's Version)", "region": "Red (Taylor's Version)", "category": ["Red (Taylor's Version)"], "requires": [] },
