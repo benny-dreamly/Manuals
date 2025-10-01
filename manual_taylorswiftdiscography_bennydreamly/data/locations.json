@@ -1373,7 +1373,13 @@
     "requires": []
   },
   {
-    "name": "Wonderland", "region": "1989 (Taylor's Version)", "category": ["1989 (Taylor's Version)"], "requires": [] },
+    "name": "Wonderland",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)"
+    ],
+    "requires": []
+  },
   {
     "name": "You Are in Love",
     "region": "1989 (Taylor's Version)",
