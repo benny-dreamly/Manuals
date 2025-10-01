@@ -13,5 +13,7 @@
   { "name": "Folklore", "count": 1, "category": [], "progression": true },
   { "name": "Evermore", "count": 1, "category": [], "progression": true },
   { "name": "Midnights", "count": 1, "category": [], "progression": true },
-  { "name": "The Tortured Poets Department", "count": 1, "category": [], "progression": true }
+  { "name": "The Tortured Poets Department", "count": 1, "category": [], "progression": true },
+  { "name": "Vault Tracks", "count": 1, "category":  [], "progression":  true},
+  { "name": "Re-recordings", "count": 1, "category":  [], "progression":  true}
 ]
