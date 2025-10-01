@@ -732,39 +732,189 @@
     "requires": []
   },
 
-  { "name": "State of Grace", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "Red", "region": "Red", "category": ["Red","title track"], "requires": [] },
-  { "name": "Treacherous", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "I Knew You Were Trouble", "region": "Red", "category": ["Red","single"], "requires": [] },
-  { "name": "All Too Well", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "22", "region": "Red", "category": ["Red","single"], "requires": [] },
-  { "name": "I Almost Do", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "We Are Never Ever Getting Back Together", "region": "Red", "category": ["Red","single"], "requires": [] },
-  { "name": "Stay Stay Stay", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "The Last Time (feat. Gary Lightbody)", "region": "Red", "category": ["Red","collaboration"], "requires": [] },
-  { "name": "Holy Ground", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "Sad Beautiful Tragic", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "The Lucky One", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "Everything Has Changed (feat. Ed Sheeran)", "region": "Red", "category": ["Red","single", "collaboration"], "requires": [] },
-  { "name": "Starlight", "region": "Red", "category": ["Red"], "requires": [] },
-  { "name": "Begin Again", "region": "Red", "category": ["Red","single"], "requires": [] },
   {
-    "name": "The Moment I Knew", "region": "Red", "category": ["Red"], "requires": []
+    "name": "State of Grace",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
   },
   {
-    "name": "Come Back... Be Here", "region": "Red", "category": ["Red"], "requires": []
+    "name": "Red",
+    "region": "Red",
+    "category": [
+      "Red",
+      "title track"
+    ],
+    "requires": []
   },
   {
-    "name": "Girl at Home", "region": "Red", "category": ["Red"], "requires": []
+    "name": "Treacherous",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
   },
   {
-    "name": "Treacherous (original demo recording)", "region": "Red", "category": ["Red"], "requires": []
+    "name": "I Knew You Were Trouble",
+    "region": "Red",
+    "category": [
+      "Red",
+      "single"
+    ],
+    "requires": []
   },
   {
-    "name": "Red (original demo recording)", "region": "Red", "category": ["Red"], "requires": []
+    "name": "All Too Well",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
   },
   {
-    "name": "State of Grace (acoustic version)", "region": "Red", "category": ["Red"], "requires": []
+    "name": "22",
+    "region": "Red",
+    "category": [
+      "Red",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Almost Do",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "We Are Never Ever Getting Back Together",
+    "region": "Red",
+    "category": [
+      "Red",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stay Stay Stay",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Last Time (feat. Gary Lightbody)",
+    "region": "Red",
+    "category": [
+      "Red",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Holy Ground",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sad Beautiful Tragic",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lucky One",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Everything Has Changed (feat. Ed Sheeran)",
+    "region": "Red",
+    "category": [
+      "Red",
+      "single",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Starlight",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Begin Again",
+    "region": "Red",
+    "category": [
+      "Red",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Moment I Knew",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Come Back... Be Here",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Girl at Home",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Treacherous (original demo recording)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Red (original demo recording)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
+  },
+  {
+    "name": "State of Grace (acoustic version)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": []
   },
 
   { "name": "State of Grace (Taylor's Version)", "region": "Red (Taylor's Version)", "category": ["Red (Taylor's Version)"], "requires": [] },
