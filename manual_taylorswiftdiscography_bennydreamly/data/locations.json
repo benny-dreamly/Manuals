@@ -744,8 +744,7 @@
     "name": "Red",
     "region": "Red",
     "category": [
-      "Red",
-      "title track"
+      "Red"
     ],
     "requires": []
   },
@@ -761,8 +760,7 @@
     "name": "I Knew You Were Trouble",
     "region": "Red",
     "category": [
-      "Red",
-      "single"
+      "Red"
     ],
     "requires": []
   },
@@ -778,8 +776,7 @@
     "name": "22",
     "region": "Red",
     "category": [
-      "Red",
-      "single"
+      "Red"
     ],
     "requires": []
   },
@@ -795,8 +792,7 @@
     "name": "We Are Never Ever Getting Back Together",
     "region": "Red",
     "category": [
-      "Red",
-      "single"
+      "Red"
     ],
     "requires": []
   },
@@ -812,8 +808,7 @@
     "name": "The Last Time (feat. Gary Lightbody)",
     "region": "Red",
     "category": [
-      "Red",
-      "collaboration"
+      "Red"
     ],
     "requires": []
   },
@@ -845,9 +840,7 @@
     "name": "Everything Has Changed (feat. Ed Sheeran)",
     "region": "Red",
     "category": [
-      "Red",
-      "single",
-      "collaboration"
+      "Red"
     ],
     "requires": []
   },
@@ -863,8 +856,7 @@
     "name": "Begin Again",
     "region": "Red",
     "category": [
-      "Red",
-      "single"
+      "Red"
     ],
     "requires": []
   },
