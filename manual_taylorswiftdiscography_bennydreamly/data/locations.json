@@ -1236,62 +1236,481 @@
   { "name": "right where you left me (bonus track)", "region": "Evermore", "category": ["Evermore","bonus track"], "requires": [] },
   { "name": "it's time to go (bonus track)", "region": "Evermore", "category": ["Evermore","bonus track"], "requires": [] },
 
-  { "name": "Lavender Haze", "region": "Midnights", "category": ["Midnights","single"], "requires": [] },
-  { "name": "Maroon", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Anti-Hero", "region": "Midnights", "category": ["Midnights","single"], "requires": [] },
-  { "name": "Snow On The Beach (feat. Lana Del Rey)", "region": "Midnights", "category": ["Midnights","collaboration"], "requires": [] },
-  { "name": "You're On Your Own, Kid", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Midnight Rain", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Question...?", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Vigilante Shit", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Bejeweled", "region": "Midnights", "category": ["Midnights","single"], "requires": [] },
-  { "name": "Labyrinth", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Karma", "region": "Midnights", "category": ["Midnights","single"], "requires": [] },
-  { "name": "Sweet Nothing", "region": "Midnights", "category": ["Midnights"], "requires": [] },
-  { "name": "Mastermind", "region": "Midnights", "category": ["Midnights"], "requires": [] },
+  {
+    "name": "Lavender Haze",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Maroon",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anti-Hero",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow On The Beach (feat. Lana Del Rey)",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You're On Your Own, Kid",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Rain",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Question...?",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Vigilante Shit",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bejeweled",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Labyrinth",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Karma",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sweet Nothing",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mastermind",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": []
+  },
 
-  { "name": "The Great War", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
-  { "name": "Bigger Than The Whole Sky", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
-  { "name": "Paris", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
-  { "name": "High Infidelity", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
-  { "name": "Glitch", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
-  { "name": "Would've, Could've, Should've", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
-  { "name": "Dear Reader", "region": "Midnights", "category": ["Midnights","3am edition"], "requires": [] },
 
-  { "name": "Hits Different", "region": "Midnights", "category": ["Midnights","special release"], "requires": [] },
-  { "name": "Snow On The Beach (feat. Lana Del Rey) (More Lana Del Rey)", "region": "Midnights", "category": ["Midnights","remix", "collaboration"], "requires": [] },
-  { "name": "Karma (feat. Ice Spice)", "region": "Midnights", "category": ["Midnights","remix", "collaboration"], "requires": [] },
+  {
+    "name": "The Great War",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bigger Than The Whole Sky",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Paris",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "High Infidelity",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glitch",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Would've, Could've, Should've",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dear Reader",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "3am edition"
+    ],
+    "requires": []
+  },
 
-  { "name": "Fortnight (feat. Post Malone)", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","single", "collaboration"], "requires": [] },
-  { "name": "The Tortured Poets Department", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","title track"], "requires": [] },
-  { "name": "My Boy Only Breaks His Favorite Toys", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "Down Bad", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "So Long, London", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "But Daddy I Love Him", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "Fresh Out the Slammer", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "Florida!!! (feat. Florence + The Machine)", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","collaboration"], "requires": [] },
-  { "name": "Guilty as Sin?", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "Who's Afraid of Little Old Me?", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","single"], "requires": [] },
-  { "name": "I Can Fix Him (No Really I Can)", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "loml", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "I Can Do It With a Broken Heart", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","single"], "requires": [] },
-  { "name": "The Smallest Man Who Ever Lived", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "The Alchemy", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
-  { "name": "Clara Bow", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department"], "requires": [] },
 
-  { "name": "The Black Dog", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "imgonnagetyouback", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "The Albatross", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "Chloe or Sam or Sophia or Marcus", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "How Did It End?", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "So High School", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "I Hate It Here", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "thanK you aIMee", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "I Look in People's Windows", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "The Prophecy", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "Cassandra", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "Peter", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "The Bolter", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "Robin", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] },
-  { "name": "The Manuscript", "region": "The Tortured Poets Department", "category": ["The Tortured Poets Department","anthology"], "requires": [] }
+  {
+    "name": "Hits Different",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "special release"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow On The Beach (feat. Lana Del Rey) (More Lana Del Rey)",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "remix",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Karma (feat. Ice Spice)",
+    "region": "Midnights",
+    "category": [
+      "Midnights",
+      "remix",
+      "collaboration"
+    ],
+    "requires": []
+  },
+
+
+  {
+    "name": "Fortnight (feat. Post Malone)",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "single",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Tortured Poets Department",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "title track"
+    ],
+    "requires": []
+  },
+  {
+    "name": "My Boy Only Breaks His Favorite Toys",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Down Bad",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "So Long, London",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ], "requires": []
+  },
+  {
+    "name": "But Daddy I Love Him",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fresh Out the Slammer",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Florida!!! (feat. Florence + The Machine)",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "collaboration"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Guilty as Sin?",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Who's Afraid of Little Old Me?",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Can Fix Him (No Really I Can)",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "loml",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Can Do It With a Broken Heart",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "single"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Smallest Man Who Ever Lived",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Alchemy",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Clara Bow",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": []
+  },
+
+
+  {
+    "name": "The Black Dog",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "imgonnagetyouback",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Albatross",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chloe or Sam or Sophia or Marcus",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "How Did It End?",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "So High School",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Hate It Here",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "thanK you aIMee",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "I Look in People's Windows",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Prophecy",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cassandra",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Peter",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Bolter",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Robin",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Manuscript",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department",
+      "anthology"
+    ],
+    "requires": []
+  }
 ]
