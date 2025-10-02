@@ -1,7 +1,7 @@
 [
   {
     "count": 1,
-    "name": "Dreamland",
+    "name": "Dreamland (Album)",
     "category": [
       "Albums"
     ],
@@ -102,6 +102,15 @@
     "category": [
       "Songs",
       "I Love You So F***ing Much"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dreamland",
+    "category": [
+      "Songs",
+      "Dreamland"
     ],
     "progression": true
   },
