@@ -1,62 +1,62 @@
 {
   "Taylor Swift": {
     "connects_to": [],
-    "requires": ["|Taylor Swift|"]
+    "requires": "|Taylor Swift|"
   },
   "Fearless": {
     "connects_to": [],
-    "requires": ["|Fearless|"]
+    "requires": "|Fearless|"
   },
   "Fearless (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|Fearless (Taylor's Version)| AND |Re-recordings|"]
+    "requires": "|Fearless (Taylor's Version)| AND |Re-recordings|"
   },
   "Speak Now": {
     "connects_to": [],
-    "requires": ["|Speak Now|"]
+    "requires": "|Speak Now|"
   },
   "Speak Now (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|Speak Now (Taylor's Version)| AND |Re-recordings|"]
+    "requires": "|Speak Now (Taylor's Version)| AND |Re-recordings|"
   },
   "Red": {
     "connects_to": [],
-    "requires": ["|Red|"]
+    "requires": "|Red|"
   },
   "Red (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|Red (Taylor's Version)| AND |Re-recordings|"]
+    "requires": "|Red (Taylor's Version)| AND |Re-recordings|"
   },
   "1989": {
     "connects_to": [],
-    "requires": ["|1989|"]
+    "requires": "|1989|"
   },
   "1989 (Taylor's Version)": {
     "connects_to": [],
-    "requires": ["|1989 (Taylor's Version)| AND |Re-recordings|"]
+    "requires": "|1989 (Taylor's Version)| AND |Re-recordings|"
   },
   "Reputation": {
     "connects_to": [],
-    "requires": ["|Reputation|"]
+    "requires": "|Reputation|"
   },
   "Lover": {
     "connects_to": [],
-    "requires": ["|Lover|"]
+    "requires": "|Lover|"
   },
   "Folklore": {
     "connects_to": [],
-    "requires": ["|Folklore|"]
+    "requires": "|Folklore|"
   },
   "Evermore": {
     "connects_to": [],
-    "requires": ["|Evermore|"]
+    "requires": "|Evermore|"
   },
   "Midnights": {
     "connects_to": [],
-    "requires": ["|Midnights|"]
+    "requires": "|Midnights|"
   },
   "The Tortured Poets Department": {
     "connects_to": [],
-    "requires": ["|The Tortured Poets Department|"]
+    "requires": "|The Tortured Poets Department|"
   }
 }
