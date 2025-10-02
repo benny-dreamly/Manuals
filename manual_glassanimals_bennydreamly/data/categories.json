@@ -8,5 +8,11 @@
     "Short Songs": {
         "hidden": true,
         "yaml_option": "include_short_songs"
+    },
+    "How to Be a Human Being": {
+        "yaml_option": "include_htbahb"
+    },
+    "Zaba": {
+        "yaml_option": "include_zaba"
     }
 }
