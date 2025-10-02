@@ -124,13 +124,13 @@
   { 
     "name": "Vault Tracks", 
     "count": 1, 
-    "category":  [], 
+    "category":  ["Vault Tracks"], 
     "progression":  true
   },
   { 
     "name": "Re-recordings", 
     "count": 1, 
-    "category":  [], 
+    "category":  ["Re-recordings"], 
     "progression":  true
   }
 ]

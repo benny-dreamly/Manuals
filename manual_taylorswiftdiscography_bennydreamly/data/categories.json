@@ -1,1 +1,10 @@
-{}
+{
+    "Re-recordings": {
+        "hidden": true,
+        "yaml_option": "include_re_recordings"
+    },
+    "Vault Tracks": {
+        "hidden": true,
+        "yaml_option": "include_vault_tracks"
+    }
+}
