@@ -6,5 +6,13 @@
   "Dreamland": {
     "connects_to": [],
     "requires": "|Dreamland (Album)|"
+  },
+  "How to Be a Human Being": {
+    "connects_to": [],
+    "requires": "|How to Be a Human Being|"
+  },
+  "Zaba": {
+    "connects_to": [],
+    "requires": "|Zaba|"
   }
 }
