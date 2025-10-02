@@ -1,18 +1,18 @@
 {
     "Dreamland": {
-        "yaml_option": "include_dreamland"
+        "yaml_option": ["include_dreamland"]
     },
     "I Love You So F***ing Much": {
-        "yaml_option": "include_ilysfm"
+        "yaml_option": ["include_ilysfm"]
     },
     "Short Songs": {
         "hidden": true,
-        "yaml_option": "include_short_songs"
+        "yaml_option": ["include_short_songs"]
     },
     "How to Be a Human Being": {
-        "yaml_option": "include_htbahb"
+        "yaml_option": ["include_htbahb"]
     },
     "Zaba": {
-        "yaml_option": "include_zaba"
+        "yaml_option": ["include_zaba"]
     }
 }
