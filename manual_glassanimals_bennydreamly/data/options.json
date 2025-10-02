@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "user": {
         "include_dreamland": {
             "display_name": "Include Dreamland",
