@@ -122,11 +122,13 @@
   {
     "name": "Heat Waves",
     "category": [],
-    "requires": "|Heat Waves|"
+    "requires": "|Heat Waves|",
+    "region": "Dreamland"
   },
   {
     "name": "Helium",
     "category": [],
-    "requires": "|Helium|"
+    "requires": "|Helium|",
+    "region": "Dreamland"
   }
 ]
