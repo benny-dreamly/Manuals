@@ -13,19 +13,9 @@
         },
         "death_link": {
             "default": false
-        },
-        "filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
-            "values": {
-                "recommended": 20
-            }
         }
     },
     "user": {
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
         "include_vault_tracks": {
             "display_name": "Include Vault Tracks",
             "description": "Include the (from the vault) tracks in the shuffling",
@@ -116,43 +106,6 @@
             "type": "Toggle",
             "default": true,
             "group": "Album Options"
-        },
-        "_Example_Toggle":{
-            "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
-        },
-        "_Example_Choice":{
-            "type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-
-        "_DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
         }
     }
 
