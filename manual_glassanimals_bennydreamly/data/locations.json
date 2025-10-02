@@ -347,4 +347,114 @@
     "requires": "|Agnes|",
     "region": "How to Be a Human Being"
   },
+  {
+    "count": 1,
+    "name": "Flip",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Flip|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Black Mambo",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Black Mambo|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Pools",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Pools|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Gooey",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Gooey|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Walla Walla",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Walla Walla|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Intruxx",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Intruxx|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Hazey",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Hazey|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Toes",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Toes|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Wyrd",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Wyrd|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "Cocoa Hooves",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|Cocoa Hooves|",
+    "region": "Zaba"
+  },
+  {
+    "count": 1,
+    "name": "JDNT",
+    "category": [
+      "Songs",
+      "Zaba"
+    ],
+    "requires": "|JDNT|",
+    "region": "Zaba"
+  }
 ]
