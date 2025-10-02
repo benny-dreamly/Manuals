@@ -26,6 +26,20 @@
             "type": "Toggle",
             "default": true
         },
+        "include_vault_tracks": {
+            "display_name": "Include Vault Tracks",
+            "description": "Include the (from the vault) tracks in the shuffling",
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
+        },
+        "include_re_recordings": {
+            "display_name": "Include Re-recordings",
+            "description": "Include the rerecorded albums (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Game Options"
+        },
         "Example_Toggle":{
             "description": [
                 "This is a Toggle",
