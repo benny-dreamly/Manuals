@@ -1,7 +1,7 @@
 [
   {
     "count": "1",
-    "name": "Dreamland (Album)",
+    "name": "Dreamland",
     "category": [],
     "progression": true
   },
@@ -68,12 +68,6 @@
   {
     "count": 1,
     "name": "White Roses",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dreamland",
     "category": [],
     "progression": true
   },
