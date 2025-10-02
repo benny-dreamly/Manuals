@@ -125,6 +125,16 @@
   },
   {
     "count": 1,
+    "name": "((Home Movie: 1994))",
+    "category": [
+      "Songs",
+      "Dreamland",
+      "Short Songs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Hot Sugar",
     "category": [
       "Songs",
@@ -134,7 +144,26 @@
   },
   {
     "count": 1,
+    "name": "((Home Movie: BTX))",
+    "category": [
+      "Songs",
+      "Dreamland",
+      "Short Songs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Space Ghost Coast to Coast",
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tokyo Drifting",
     "category": [
       "Songs",
       "Dreamland"
@@ -161,15 +190,6 @@
   },
   {
     "count": 1,
-    "name": "Tokyo Drifting",
-    "category": [
-      "Songs",
-      "Dreamland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Waterfalls Coming Out Of Your Mouth",
     "category": [
       "Songs",
@@ -188,6 +208,16 @@
   },
   {
     "count": 1,
+    "name": "((Home Movie: Rockets))",
+    "category": [
+      "Songs",
+      "Dreamland",
+      "Short Songs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Domestic Bliss",
     "category": [
       "Songs",
@@ -201,6 +231,16 @@
     "category": [
       "Songs",
       "Dreamland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "((Home Movie: Shoes On))",
+    "category": [
+      "Songs",
+      "Dreamland",
+      "Short Songs"
     ],
     "progression": true
   },
