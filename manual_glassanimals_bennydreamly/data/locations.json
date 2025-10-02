@@ -236,5 +236,115 @@
     ],
     "requires": "|Helium|",
     "region": "Dreamland"
-  }
+  },
+  {
+    "count": 1,
+    "name": "Life Itself",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Life Itself|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Youth",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Youth|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Season 2 Episode 3",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Season 2 Episode 3|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Pork Soda",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Pork Soda|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Mama's Gun",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Mama's Gun|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Cane Shuga",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Cane Shuga|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "[Premade Sandwiches]",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|[Premade Sandwiches]|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "The Other Side of Paradise",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|The Other Side of Paradise|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Take a Slice",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Take a Slice|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Poplar St",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Poplar St|",
+    "region": "How to Be a Human Being"
+  },
+  {
+    "count": 1,
+    "name": "Agnes",
+    "category": [
+      "Songs",
+      "How to Be a Human Being"
+    ],
+    "requires": "|Agnes|",
+    "region": "How to Be a Human Being"
+  },
 ]
