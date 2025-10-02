@@ -1,40 +1,40 @@
 {
     "Re-recordings": {
         "hidden": true,
-        "yaml_option": "include_re_recordings"
+        "yaml_option": ["include_re_recordings"]
     },
     "Vault Tracks": {
         "hidden": true,
-        "yaml_option": "include_vault_tracks"
+        "yaml_option": ["include_vault_tracks"]
     },
     "Taylor Swift": {
-        "yaml_option": "include_debut"
+        "yaml_option": ["include_debut"]
     },
     "Fearless": {
-        "yaml_option": "include_fearless"
+        "yaml_option": ["include_fearless"]
     },
     "Speak Now": {
-        "yaml_option": "include_speak_now"
+        "yaml_option": ["include_speak_now"]
     },
     "Red": {
-        "yaml_option": "include_red"
+        "yaml_option": ["include_red"]
     },
     "1989": {
-        "yaml_option": "include_1989"
+        "yaml_option": ["include_1989"]
     },
     "Reputation": {
-        "yaml_option": "include_reputation"
+        "yaml_option": ["include_reputation"]
     },
     "Evermore": {
-        "yaml_option": "include_evermore"
+        "yaml_option": ["include_evermore"]
     },
     "Folklore": {
-        "yaml_option": "include_folklore"
+        "yaml_option": ["include_folklore"]
     },
     "Midnights": {
-        "yaml_option": "include_midnights"
+        "yaml_option": ["include_midnights"]
     },
     "The Tortured Poets Department": {
-        "yaml_option": "include_ttpd"
+        "yaml_option": ["include_ttpd"]
     }
 }
