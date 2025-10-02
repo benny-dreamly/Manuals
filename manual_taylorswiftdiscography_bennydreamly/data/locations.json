@@ -253,7 +253,8 @@
     "name": "Fearless (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -261,7 +262,8 @@
     "name": "Fifteen (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -269,7 +271,8 @@
     "name": "Love Story (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -277,7 +280,8 @@
     "name": "Hey Stephen (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -285,7 +289,8 @@
     "name": "White Horse (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -293,7 +298,8 @@
     "name": "You Belong With Me (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -301,7 +307,8 @@
     "name": "Breathe (feat. Colbie Caillat) (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -309,7 +316,8 @@
     "name": "Tell Me Why (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -317,7 +325,8 @@
     "name": "You're Not Sorry (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -325,7 +334,8 @@
     "name": "The Way I Loved You (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -333,7 +343,8 @@
     "name": "Forever & Always (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -341,7 +352,8 @@
     "name": "The Best Day (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -349,7 +361,8 @@
     "name": "Change (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -357,7 +370,8 @@
     "name": "Jump Then Fall (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -365,7 +379,8 @@
     "name": "Untouchable (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -373,7 +388,8 @@
     "name": "Forever & Always (Piano Version) (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -381,7 +397,8 @@
     "name": "Come In With The Rain (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -389,7 +406,8 @@
     "name": "Superstar (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -397,7 +415,8 @@
     "name": "The Other Side of the Door (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -405,7 +424,8 @@
     "name": "Today Was a Fairytale (Taylor's Version)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -413,7 +433,9 @@
     "name": "You All Over Me (feat. Maren Morris) (Taylor's Version) (From The Vault)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -421,7 +443,9 @@
     "name": "Mr. Perfectly Fine (Taylor's Version) (From The Vault)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -429,7 +453,9 @@
     "name": "We Were Happy (Taylor's Version) (From The Vault)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -437,7 +463,9 @@
     "name": "That's When (Taylor's Version) (From The Vault) (Featuring Keith Urban)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -445,7 +473,9 @@
     "name": "Don't You (Taylor's Version) (From The Vault)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -453,7 +483,9 @@
     "name": "Bye Bye Baby (Taylor's Version) (From The Vault)",
     "region": "Fearless (Taylor's Version)",
     "category": [
-      "Fearless (Taylor's Version)"
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -575,7 +607,8 @@
     "name": "Mine (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -583,7 +616,8 @@
     "name": "Sparks Fly (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -591,7 +625,8 @@
     "name": "Back to December (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -599,7 +634,8 @@
     "name": "Speak Now (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -607,7 +643,8 @@
     "name": "Dear John (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -615,7 +652,8 @@
     "name": "Mean (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -623,7 +661,8 @@
     "name": "The Story of Us (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -631,7 +670,8 @@
     "name": "Never Grow Up (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -639,7 +679,8 @@
     "name": "Enchanted (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -647,7 +688,8 @@
     "name": "Better Than Revenge (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -655,7 +697,8 @@
     "name": "Innocent (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -663,7 +706,8 @@
     "name": "Haunted (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -671,7 +715,8 @@
     "name": "Last Kiss (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -679,7 +724,8 @@
     "name": "Long Live (Taylor's Version)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -687,7 +733,9 @@
     "name": "Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -695,7 +743,9 @@
     "name": "When Emma Falls in Love (Taylor's Version) (From The Vault)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -703,7 +753,9 @@
     "name": "I Can See You (Taylor's Version) (From The Vault)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -711,7 +763,9 @@
     "name": "Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -719,7 +773,9 @@
     "name": "Foolish One (Taylor's Version) (From The Vault)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -727,7 +783,9 @@
     "name": "Timeless (Taylor's Version) (From The Vault)",
     "region": "Speak Now (Taylor's Version)",
     "category": [
-      "Speak Now (Taylor's Version)"
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -913,7 +971,8 @@
     "name": "State of Grace (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -921,7 +980,8 @@
     "name": "Red (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -929,7 +989,8 @@
     "name": "Treacherous (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -937,7 +998,8 @@
     "name": "I Knew You Were Trouble (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -945,7 +1007,8 @@
     "name": "All Too Well (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -953,7 +1016,8 @@
     "name": "22 (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -961,7 +1025,8 @@
     "name": "I Almost Do (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -969,7 +1034,8 @@
     "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -977,7 +1043,8 @@
     "name": "Stay Stay Stay (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -985,7 +1052,8 @@
     "name": "The Last Time (feat. Gary Lightbody) (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -993,7 +1061,8 @@
     "name": "Holy Ground (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1001,7 +1070,8 @@
     "name": "Sad Beautiful Tragic (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1009,7 +1079,8 @@
     "name": "The Lucky One (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1017,7 +1088,8 @@
     "name": "Everything Has Changed (feat. Ed Sheeran) (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1025,7 +1097,8 @@
     "name": "Starlight (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1033,7 +1106,8 @@
     "name": "Begin Again (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1041,7 +1115,8 @@
     "name": "The Moment I Knew (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1049,7 +1124,8 @@
     "name": "Come Back... Be Here (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1057,7 +1133,8 @@
     "name": "Girl at Home (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1065,7 +1142,8 @@
     "name": "State of Grace (Acoustic Version) (Taylor's Version)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1073,7 +1151,9 @@
     "name": "Nothing New (feat. Phoebe Bridgers) (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1081,7 +1161,9 @@
     "name": "Babe (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1089,7 +1171,9 @@
     "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1097,7 +1181,9 @@
     "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1105,7 +1191,9 @@
     "name": "Forever Winter (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1113,7 +1201,9 @@
     "name": "Run (feat. Ed Sheeran) (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1121,7 +1211,9 @@
     "name": "The Very First Night (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1129,7 +1221,9 @@
     "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1137,7 +1231,9 @@
     "name": "Better Man (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
-      "Red (Taylor's Version)"
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1273,7 +1369,8 @@
     "name": "Welcome to New York (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1281,7 +1378,8 @@
     "name": "Blank Space (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1289,7 +1387,8 @@
     "name": "Style (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1297,7 +1396,8 @@
     "name": "Out of the Woods (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1305,7 +1405,8 @@
     "name": "All You Had to Do Was Stay (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1313,14 +1414,16 @@
     "name": "Shake It Off (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ], "requires": []
   },
   {
     "name": "I Wish You Would (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1328,7 +1431,8 @@
     "name": "Bad Blood (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1336,7 +1440,8 @@
     "name": "Wildest Dreams (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1344,7 +1449,8 @@
     "name": "How You Get the Girl (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1352,7 +1458,8 @@
     "name": "This Love (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1360,7 +1467,8 @@
     "name": "I Know Places (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1368,7 +1476,8 @@
     "name": "Clean (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1376,7 +1485,8 @@
     "name": "Wonderland (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1384,7 +1494,8 @@
     "name": "You Are in Love (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1392,7 +1503,8 @@
     "name": "New Romantics (Taylor's Version)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings"
     ],
     "requires": []
   },
@@ -1400,7 +1512,9 @@
     "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1408,7 +1522,9 @@
     "name": "Say Don't Go (Taylor's Version) (From The Vault)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1416,7 +1532,9 @@
     "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1424,7 +1542,9 @@
     "name": "Suburban Legends (Taylor's Version) (From The Vault)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
@@ -1432,7 +1552,9 @@
     "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
     "region": "1989 (Taylor's Version)",
     "category": [
-      "1989 (Taylor's Version)"
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
     ],
     "requires": "|Vault Tracks|"
   },
