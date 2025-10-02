@@ -47,6 +47,20 @@
             "default": false,
             "group": "Song Options"
         },
+        "include_htbab": {
+            "display_name": "Include How to Be a Human Being",
+            "description": "Include the How to Be a Human Being album in the shuffling.",
+            "type": "Toggle",
+            "default": false,
+            "group": "Album Options"
+        },
+        "include_zaba": {
+            "display_name": "Include Zaba",
+            "description": "Include the Zaba album in the shuffling.",
+            "type": "Toggle",
+            "default": false,
+            "group": "Album Options"
+        },
         "_Example_Toggle":{
             "description": [
                 "This is a Toggle",
