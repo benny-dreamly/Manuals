@@ -1,1 +1,12 @@
-{}
+{
+    "Dreamland": {
+        "yaml_option": "include_dreamland"
+    },
+    "I Love You So F***ing Much": {
+        "yaml_option": "include_ilysfm"
+    },
+    "Short Songs": {
+        "hidden": true,
+        "yaml_option": "include_short_songs"
+    }
+}
