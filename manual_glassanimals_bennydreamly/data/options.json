@@ -26,6 +26,27 @@
             "type": "Toggle",
             "default": true
         },
+        "include_dreamland": {
+            "display_name": "Include Dreamland",
+            "description": "Include the Dreamland album in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_ilysfm": {
+            "display_name": "Include I Love You So F***ing Much",
+            "description": "Include the I Love You So F***ing Much album in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_short_songs": {
+            "display_name": "Include Short Songs",
+            "description": "Include short songs in the shuffling. This includes the Home Movie tracks from Dreamland if Dreamland is enabled.",
+            "type": "Toggle",
+            "default": false,
+            "group": "Song Options"
+        },
         "Example_Toggle":{
             "description": [
                 "This is a Toggle",
