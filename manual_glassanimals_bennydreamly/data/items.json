@@ -1,140 +1,207 @@
 [
   {
-    "count": "1",
+    "count": 1,
     "name": "Dreamland",
-    "category": [],
+    "category": [
+      "Albums"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "I Love You So F***ing Much",
-    "category": [],
+    "category": [
+      "Albums"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Show Pony",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "whatthehellishappening?",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Creatures in Heaven",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Wonderful Nothing",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "A Tear in Space (Airlock)",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "I Can't Make You Fall In Love Again",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "How I Learned To Love The Bomb",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "On the Run",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Lost in the Ocean",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "White Roses",
-    "category": [],
+    "category": [
+      "Songs",
+      "I Love You So F***ing Much"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Tangerine",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Hot Sugar",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Space Ghost Coast to Coast",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Melon and the Coconut",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Your Love (Déjà Vu)",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Tokyo Drifting",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Waterfalls Coming Out Of Your Mouth",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "It's All So Incredibly Loud",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Domestic Bliss",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Heat Waves",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   },
   {
     "count": 1,
     "name": "Helium",
-    "category": [],
+    "category": [
+      "Songs",
+      "Dreamland"
+    ],
     "progression": true
   }
 ]
