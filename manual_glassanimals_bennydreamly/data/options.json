@@ -47,7 +47,7 @@
             "default": false,
             "group": "Song Options"
         },
-        "include_htbab": {
+        "include_htbahb": {
             "display_name": "Include How to Be a Human Being",
             "description": "Include the How to Be a Human Being album in the shuffling.",
             "type": "Toggle",
