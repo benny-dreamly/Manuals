@@ -109,13 +109,13 @@
   },
   {
     "region": "Dreamland",
-    "name": "((Home Movie: 1994))",
+    "name": "((Home Movie： 1994))",
     "category": [
       "Songs",
       "Dreamland",
       "Short Songs"
     ],
-    "requires": "|((Home Movie: 1994))|"
+    "requires": "|((Home Movie： 1994))|"
   },
   {
     "region": "Dreamland",
@@ -128,13 +128,13 @@
   },
   {
     "region": "Dreamland",
-    "name": "((Home Movie: BTX))",
+    "name": "((Home Movie： BTX))",
     "category": [
       "Songs",
       "Dreamland",
       "Short Songs"
     ],
-    "requires": "|((Home Movie: BTX))|"
+    "requires": "|((Home Movie： BTX))|"
   },
   {
     "name": "Space Ghost Coast to Coast",
@@ -192,13 +192,13 @@
   },
   {
     "region": "Dreamland",
-    "name": "((Home Movie: Rockets))",
+    "name": "((Home Movie： Rockets))",
     "category": [
       "Songs",
       "Dreamland",
       "Short Songs"
     ],
-    "requires": "|((Home Movie: Rockets))|"
+    "requires": "|((Home Movie： Rockets))|"
   },
   {
     "name": "Domestic Bliss",
@@ -220,13 +220,13 @@
   },
   {
     "region": "Dreamland",
-    "name": "((Home Movie: Shoes On))",
+    "name": "((Home Movie： Shoes On))",
     "category": [
       "Songs",
       "Dreamland",
       "Short Songs"
     ],
-    "requires": "|((Home Movie: Shoes On))|"
+    "requires": "|((Home Movie： Shoes On))|"
   },
   {
     "name": "Helium",
