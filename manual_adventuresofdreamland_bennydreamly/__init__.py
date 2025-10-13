@@ -416,7 +416,7 @@ class ManualWorld(World):
     # Non-standard AP world methods
     ###
 
-    rules_functions_maximum_recursion: int = 5
+    rules_functions_maximum_recursion: int = 6
     """Default: 5\n
     The maximum time a location/region's requirement can loop to check for functions\n
     One thing to remember is the more you loop the longer generation will take. So probably leave it as is unless you really needs it."""
