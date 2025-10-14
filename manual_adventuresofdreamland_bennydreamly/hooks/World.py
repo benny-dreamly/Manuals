@@ -71,12 +71,18 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = ["Progressive Command", "Progressive Command"] # List of item names
+    itemNamesToRemove: list[str] = [] # List of item names
 
     # Add your code here to calculate which items to remove.
     #
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
+
+    more_unlocks = is_option_enabled(multiworld, player, "more_unlocks")
+
+    if more_unlocks:
+        for i in range(2):
+            itemNamesToRemove.append("Progressive Command")
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
