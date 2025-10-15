@@ -1,6 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
+from Options import Accessibility, OptionError
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -38,7 +39,9 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-    pass
+    if world.options.accessibility == Accessibility.option_full:
+        # world.options.accessibility.value = Accessibility.option_minimal
+        raise OptionError("This world cannot be generated with full accessibility at the moment. In the future, you may be able to generate worlds with full accessibility.")
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
