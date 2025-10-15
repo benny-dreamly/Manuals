@@ -407,5 +407,41 @@
         "region": "Supply Closet",
         "category": ["Enter Room", "Actions", "Supply Closet"],
         "requires": "|Progressive Room:21|"
+    },
+    {
+        "name": "Bonus Location 1",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 2",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 3",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 4",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 5",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 6",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
     }
 ]

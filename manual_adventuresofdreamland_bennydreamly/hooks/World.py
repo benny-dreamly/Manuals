@@ -51,28 +51,9 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     more_unlocks = is_option_enabled(multiworld, player, "more_unlocks")
     roomsanity = is_option_enabled(multiworld, player, "Roomsanity")
 
-    add_locations: bool = False
-    number_of_locations_to_add: int = 0
-
-    if more_unlocks and not roomsanity:
-        # we need to add 6 additional locations
-        add_locations = True
-        number_of_locations_to_add = 6
-
-    if more_unlocks and roomsanity:
-        # we also need to add 6 locations to the pool
-        add_locations = True
-        number_of_locations_to_add = 6
-
-    locations_to_add: list[str] = []
-
-    if add_locations:
-        for i in range(number_of_locations_to_add):
-            locations_to_add.append(f"Bonus Location {i + 1}")
-        print(locations_to_add)
-        # for region in multiworld.regions:
-        #     if region.player == player:
-        #         break
+    if not more_unlocks and not roomsanity:
+        for i in range(6):
+            locationNamesToRemove.append(f"Bonus Location {i + 1}")
 
 
     for region in multiworld.regions:
