@@ -443,5 +443,35 @@
         "region": "Bonus Locations",
         "category": [],
         "requires": []
+    },
+    {
+        "name": "Bonus Location 7",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 8",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 9",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 10",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
+    },
+    {
+        "name": "Bonus Location 11",
+        "region": "Bonus Locations",
+        "category": [],
+        "requires": []
     }
 ]

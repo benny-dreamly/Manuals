@@ -52,7 +52,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     roomsanity = is_option_enabled(multiworld, player, "Roomsanity")
 
     if not more_unlocks and not roomsanity:
-        for i in range(6):
+        for i in range(11):
             locationNamesToRemove.append(f"Bonus Location {i + 1}")
 
 
