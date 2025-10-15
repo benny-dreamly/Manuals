@@ -1,7 +1,7 @@
 {
 	"Cell": 	{
 		"starting": true,
-		"connects_to": ["Hallway"],
+		"connects_to": ["Hallway", "Bonus Locations"],
 		"requires": []
 },
     "Hallway":     {
@@ -27,5 +27,9 @@
     "Finale":     {
         "connects_to": [],
         "requires": "|Puzzle Piece 4| AND |Puzzle (3/4)|"
-}
+},
+    "Bonus Locations": {
+        "connects_to": [],
+        "requires": []
+    }
 }
