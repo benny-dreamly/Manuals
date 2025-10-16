@@ -14,5 +14,9 @@
   "Zaba": {
     "connects_to": [],
     "requires": "|Zaba|"
+  },
+  "Bonus Locations": {
+    "connects_to": [],
+    "requires": []
   }
 }
