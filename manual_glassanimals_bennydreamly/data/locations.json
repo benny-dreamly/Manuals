@@ -456,5 +456,29 @@
     ],
     "requires": "|JDNT|",
     "region": "Zaba"
+  },
+  {
+    "name": "Bonus Location 1",
+    "region": "Bonus Locations",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Bonus Location 2",
+    "region": "Bonus Locations",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Bonus Location 3",
+    "region": "Bonus Locations",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Bonus Location 4",
+    "region": "Bonus Locations",
+    "category": [],
+    "requires": []
   }
 ]

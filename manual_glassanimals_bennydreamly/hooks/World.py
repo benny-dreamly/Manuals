@@ -47,6 +47,12 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 
     # Add your code here to calculate which locations to remove
 
+    dreamland = is_option_enabled(multiworld, player, "include_dreamland")
+
+    if not dreamland:
+        for i in range(4):
+            locationNamesToRemove.append(f"Bonus Location {i + 1}")
+
     for region in multiworld.regions:
         if region.player == player:
             for location in list(region.locations):
