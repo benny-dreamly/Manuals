@@ -41,9 +41,7 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     if world.options.accessibility == Accessibility.option_full:
-        logging.warning(f"This world ({world.game}) cannot be generated with full accessibility at the moment. \
-        In the future, you may be able to generate worlds with full accessibility. The accessibility option has been forced to \
-        minimal for {world.player_name}")
+        logging.warning(f"[{world.game}] This world cannot be generated with full accessibility at the moment.\nIn the future, you may be able to generate worlds with full accessibility. The accessibility option has been forced to minimal for {world.player_name}.")
         world.options.accessibility.value = Accessibility.option_minimal
         # keep this around for now
         # raise OptionError("This world cannot be generated with full accessibility at the moment. In the future, you may be able to generate worlds with full accessibility.")
