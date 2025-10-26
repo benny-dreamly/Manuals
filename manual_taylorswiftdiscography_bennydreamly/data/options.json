@@ -44,9 +44,23 @@
             "default": true,
             "group": "Album Options"
         },
+        "include_fearless_tv": {
+            "display_name": "Include Fearless (Taylor's Version)",
+            "description": "Include the album Fearless (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
         "include_speak_now": {
             "display_name": "Include Speak Now",
             "description": "Include the album Speak Now in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_speak_now_tv": {
+            "display_name": "Include Speak Now (Taylor's Version)",
+            "description": "Include the album Speak Now (Taylor's Version) in the shuffling.",
             "type": "Toggle",
             "default": true,
             "group": "Album Options"
@@ -58,9 +72,23 @@
             "default": true,
             "group": "Album Options"
         },
+        "include_red_tv": {
+            "display_name": "Include Red (Taylor's Version)",
+            "description": "Include the album Red (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
         "include_1989": {
             "display_name": "Include 1989",
             "description": "Include the album 1989 in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_1989_tv": {
+            "display_name": "Include 1989 (Taylor's Version)",
+            "description": "Include the album 1989 (Taylor's Version) in the shuffling.",
             "type": "Toggle",
             "default": true,
             "group": "Album Options"

@@ -13,14 +13,26 @@
     "Fearless": {
         "yaml_option": ["include_fearless"]
     },
+    "Fearless (Taylor's Version)": {
+        "yaml_option": ["include_fearless_tv"]
+    },
     "Speak Now": {
         "yaml_option": ["include_speak_now"]
+    },
+    "Speak Now (Taylor's Version)": {
+        "yaml_option": ["include_speak_now_tv"]
     },
     "Red": {
         "yaml_option": ["include_red"]
     },
+    "Red (Taylor's Version": {
+        "yaml_option": ["include_red_tv"]
+    },
     "1989": {
         "yaml_option": ["include_1989"]
+    },
+    "1989 (Taylor's Version)": {
+        "yaml_option": ["include_1989_tv"]
     },
     "Reputation": {
         "yaml_option": ["include_reputation"]
