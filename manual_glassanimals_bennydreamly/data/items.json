@@ -3,7 +3,8 @@
     "count": 1,
     "name": "Dreamland (Album)",
     "category": [
-      "Albums"
+      "Albums",
+      "Dreamland"
     ],
     "progression": true
   },
@@ -11,7 +12,8 @@
     "count": 1,
     "name": "I Love You So F***ing Much",
     "category": [
-      "Albums"
+      "Albums",
+      "I Love You So F***ing Much"
     ],
     "progression": true
   },
@@ -19,7 +21,8 @@
     "count": 1,
     "name": "How to Be a Human Being",
     "category": [
-      "Albums"
+      "Albums",
+      "How to Be a Human Being"
     ],
     "progression": true
   },
@@ -27,7 +30,8 @@
     "count": 1,
     "name": "Zaba",
     "category": [
-      "Albums"
+      "Albums",
+      "Zaba"
     ],
     "progression": true
   },
