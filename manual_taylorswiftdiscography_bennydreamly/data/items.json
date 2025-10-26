@@ -3,7 +3,8 @@
     "name": "Taylor Swift", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Taylor Swift"
     ], 
     "progression": true 
   },
@@ -11,7 +12,8 @@
     "name": "Fearless", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Fearless"
     ], 
     "progression": true 
   },
@@ -19,7 +21,8 @@
     "name": "Fearless (Taylor's Version)", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Fearless (Taylor's Version)"
     ], 
     "progression": true 
   },
@@ -27,7 +30,8 @@
     "name": "Speak Now", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Speak Now"
     ], 
     "progression": true 
   },
@@ -35,7 +39,8 @@
     "name": "Speak Now (Taylor's Version)", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Speak Now (Taylor's Version)"
     ], 
     "progression": true 
   },
@@ -43,7 +48,8 @@
     "name": "Red", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Red"
     ], 
     "progression": true 
   },
@@ -51,7 +57,8 @@
     "name": "Red (Taylor's Version)", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Red (Taylor's Version)"
     ], 
     "progression": true 
   },
@@ -59,7 +66,8 @@
     "name": "1989", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "1989"
     ], 
     "progression": true 
   },
@@ -67,7 +75,8 @@
     "name": "1989 (Taylor's Version)", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "1989 (Taylor's Version)"
     ], 
     "progression": true 
   },
@@ -75,7 +84,8 @@
     "name": "Reputation", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Reputation"
     ], 
     "progression": true 
   },
@@ -83,7 +93,8 @@
     "name": "Lover", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Lover"
     ], 
     "progression": true 
   },
@@ -91,7 +102,8 @@
     "name": "Folklore", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Folklore"
     ], 
     "progression": true 
   },
@@ -100,7 +112,8 @@
     "name": "Evermore", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Evermore"
     ], 
     "progression": true 
   },
@@ -109,7 +122,8 @@
     "name": "Midnights", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "Midnights"
     ], 
     "progression": true 
   },
@@ -117,7 +131,8 @@
     "name": "The Tortured Poets Department", 
     "count": 1, 
     "category": [
-      "Albums"
+      "Albums",
+      "The Tortured Poets Department"
     ], 
     "progression": true 
   },
