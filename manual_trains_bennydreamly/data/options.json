@@ -22,6 +22,17 @@
         }
     },
     "user": {
+        "bounties_required": {
+            "display_name": "Bounties Required",
+            "type": "Range",
+            "description": [
+                "Number of required bounties to collect for goal.",
+                "Bounty items should be locally randomized, however in order to ensure they are, add the Bounty item to local_items in your YAML."
+            ],
+            "range_start": 0,
+            "range_end": 25,
+            "default": 15
+        },
         "_commented_out_option":{
             "type": "Toggle",
             "default": true
