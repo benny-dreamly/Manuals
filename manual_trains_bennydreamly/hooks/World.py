@@ -104,6 +104,11 @@ def before_set_rules(world: World, multiworld: MultiWorld, player: int):
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
 
+    bounties_required: get_option_value(multiworld, player, "bounties_required")
+
+    victory = multiworld.get_location("Victory", player)
+    victory.access_rule = lambda state: (state.count("Bounty", world.player) >= bounties_required)
+
     def Example_Rule(state: CollectionState) -> bool:
         # Calculated rules take a CollectionState object and return a boolean
         # True if the player can access the location
