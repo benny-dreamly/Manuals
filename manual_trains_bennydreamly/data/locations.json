@@ -1,0 +1,326 @@
+[
+  {
+    "name": "North-South Stop 1",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop|"
+  },
+  {
+    "name": "North-South Stop 2",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:2|"
+  },
+  {
+    "name": "North-South Stop 3",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:3|"
+  },
+  {
+    "name": "North-South Stop 4",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:4|"
+  },
+  {
+    "name": "North-South Stop 5",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:5|"
+  },
+  {
+    "name": "North-South Stop 6",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:6|"
+  },
+  {
+    "name": "North-South Stop 7",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:7|"
+  },
+  {
+    "name": "North-South Stop 8",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:8|"
+  },
+  {
+    "name": "North-South Stop 9",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:9|"
+  },
+  {
+    "name": "North-South Stop 10",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:10|"
+  },
+  {
+    "name": "North-South Stop 11",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:11|"
+  },
+  {
+    "name": "North-South Stop 12",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:12|"
+  },
+  {
+    "name": "North-South Stop 13",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:13|"
+  },
+  {
+    "name": "North-South Stop 14",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:14|"
+  },
+  {
+    "name": "North-South Stop 15",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:15|"
+  },
+  {
+    "name": "North-South Stop 16",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:16|"
+  },
+  {
+    "name": "North-South Stop 17",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:17|"
+  },
+  {
+    "name": "North-South Stop 18",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:18|"
+  },
+  {
+    "name": "North-South Stop 19",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:19|"
+  },
+  {
+    "name": "North-South Stop 20",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:20|"
+  },
+  {
+    "name": "North-South Stop 21",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:21|"
+  },
+  {
+    "name": "North-South Stop 22",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:22|"
+  },
+  {
+    "name": "North-South Stop 23",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:23|"
+  },
+  {
+    "name": "North-South Stop 24",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:24|"
+  },
+  {
+    "name": "North-South Stop 25",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:25|"
+  },
+  {
+    "name": "North-South Stop 26",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:26|"
+  },
+  {
+    "name": "North-South Stop 27",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:27|"
+  },
+  {
+    "name": "North-South Stop 28",
+    "region": "North-South Line",
+    "category": ["North-South Stops"],
+    "requires": "|Progressive North-South Stop:28|"
+  },
+  {
+    "name": "East-West Stop 1",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop|"
+  },
+  {
+    "name": "East-West Stop 2",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:2|"
+  },
+  {
+    "name": "East-West Stop 3",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:3|"
+  },
+  {
+    "name": "East-West Stop 4",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:4|"
+  },
+  {
+    "name": "East-West Stop 5",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:5|"
+  },
+  {
+    "name": "East-West Stop 6",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:6|"
+  },
+  {
+    "name": "East-West Stop 7",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:7|"
+  },
+  {
+    "name": "East-West Stop 8",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:8|"
+  },
+  {
+    "name": "East-West Stop 9",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:9|"
+  },
+  {
+    "name": "East-West Stop 10",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:10|"
+  },
+  {
+    "name": "East-West Stop 11",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:11|"
+  },
+  {
+    "name": "East-West Stop 12",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:12|"
+  },
+  {
+    "name": "East-West Stop 13",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:13|"
+  },
+  {
+    "name": "East-West Stop 14",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:14|"
+  },
+  {
+    "name": "East-West Stop 15",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:15|"
+  },
+  {
+    "name": "East-West Stop 16",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:16|"
+  },
+  {
+    "name": "East-West Stop 17",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:17|"
+  },
+  {
+    "name": "East-West Stop 18",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:18|"
+  },
+  {
+    "name": "East-West Stop 19",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:19|"
+  },
+  {
+    "name": "East-West Stop 20",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:20|"
+  },
+  {
+    "name": "East-West Stop 21",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:21|"
+  },
+  {
+    "name": "East-West Stop 22",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:22|"
+  },
+  {
+    "name": "East-West Stop 23",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:23|"
+  },
+  {
+    "name": "East-West Stop 24",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:24|"
+  },
+  {
+    "name": "East-West Stop 25",
+    "region": "East-West Line",
+    "category": ["East-West Stops"],
+    "requires": "|Progressive East-West Stop:25|"
+  },
+  {
+    "name": "Victory",
+    "category": ["Victory"],
+    "victory": true,
+    "requires": ""
+  }
+]

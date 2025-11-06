@@ -1,0 +1,10 @@
+{
+  "North-South Line": {
+    "connects_to": [],
+    "requires": "|North-South Line|"
+  },
+  "East-West Line": {
+    "connects_to": [],
+    "requires": "|East-West Line|"
+  }
+}
