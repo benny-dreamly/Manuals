@@ -334,6 +334,6 @@
     "name": "Victory",
     "category": ["Victory"],
     "victory": true,
-    "requires": "|Bounty:1|"
+    "requires": ""
   }
 ]
