@@ -27,3 +27,7 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
 def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+
+def hasAllUnlocks():
+    """Has the player gotten all progression items?"""
+    return "|North-South Line| AND |East-West Line| AND |Progressive North-South Stop:28| AND |Progressive East-West Stop:25|"
