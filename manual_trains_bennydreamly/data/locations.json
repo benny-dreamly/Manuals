@@ -334,6 +334,6 @@
     "name": "Victory",
     "category": ["Victory"],
     "victory": true,
-    "requires": "{hasAllUnlocks()}"
+    "requires": "{hasAllUnlocks()} AND {canReachLocation('East-West Stop 25')} AND {canReachLocation('North-South Stop 28')}"
   }
 ]
