@@ -1,4 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
+import math
+
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 
@@ -62,6 +64,11 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    # figure out how to adjust the item count to have some extra but not too many extra (because limited locations)
+    bounties_required = get_option_value(multiworld, player, "bounties_required")
+
+    item_config["Bounty"] = math.ceil(bounties_required * 1.10) if bounties_required != 25 else 25
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
