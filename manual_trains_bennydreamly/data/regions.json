@@ -6,5 +6,9 @@
   "East-West Line": {
     "connects_to": [],
     "requires": "|East-West Line|"
+  },
+  "Bonus Locations": {
+    "connects_to": [],
+    "requires": ""
   }
 }

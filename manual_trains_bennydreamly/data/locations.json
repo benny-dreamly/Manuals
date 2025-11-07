@@ -318,6 +318,19 @@
     "requires": "|Progressive East-West Stop:25|"
   },
   {
+    "name": "Bonus Location 1",
+    "region": "Bonus Locations",
+    "category": ["Bonus Locations"],
+    "requires": ""
+  },
+  {
+    "name": "Bonus Location 2",
+    "region": "Bonus Locations",
+    "category": ["Bonus Locations"],
+    "requires": ""
+  },
+
+  {
     "name": "Victory",
     "category": ["Victory"],
     "victory": true,
