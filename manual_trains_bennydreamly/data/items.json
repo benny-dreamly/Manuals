@@ -22,12 +22,5 @@
     "name": "Progressive East-West Stop",
     "category": ["Stop Unlocks"],
     "progression": true
-  },
-  {
-    "count": "25",
-    "name": "Bounty",
-    "category": ["Bounties"],
-    "progression": true,
-    "local": true
   }
 ]

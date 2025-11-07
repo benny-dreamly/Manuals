@@ -22,7 +22,7 @@
         }
     },
     "user": {
-        "bounties_required": {
+        "_bounties_required": {
             "display_name": "Bounties Required",
             "type": "Range",
             "description": [
