@@ -1,6 +1,6 @@
 from typing import Optional
 from worlds.AutoWorld import World
-from ..Helpers import clamp, get_items_with_value
+from ..Helpers import clamp, get_items_with_value, is_option_enabled
 from BaseClasses import MultiWorld, CollectionState
 
 import re
@@ -27,3 +27,74 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
 def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+
+def hasAllAlbums(world: World, state: CollectionState, player: int):
+    """Are all the enabled albums unlocked?"""
+    multiworld = world.multiworld
+
+    required_albums = []
+
+    re_recordings = is_option_enabled(multiworld, player, "include_re_recordings")
+    debut = is_option_enabled(multiworld, player, "include_debut")
+    fearless = is_option_enabled(multiworld, player, "include_fearless")
+    fearless_tv = is_option_enabled(multiworld, player, "include_fearless_tv")
+    speak_now = is_option_enabled(multiworld, player, "include_speak_now")
+    speak_now_tv = is_option_enabled(multiworld, player, "include_speak_now_tv")
+    red = is_option_enabled(multiworld, player, "include_red")
+    red_tv = is_option_enabled(multiworld, player, "include_red_tv")
+    include_1989 = is_option_enabled(multiworld, player, "include_1989")
+    include_1989_tv = is_option_enabled(multiworld, player, "include_1989_tv")
+    reputation = is_option_enabled(multiworld, player, "include_reputation")
+    lover = is_option_enabled(multiworld, player, "include_lover")
+    folklore = is_option_enabled(multiworld, player, "include_folklore")
+    evermore = is_option_enabled(multiworld, player, "include_evermore")
+    midnights = is_option_enabled(multiworld, player, "include_midnights")
+    ttpd = is_option_enabled(multiworld, player, "include_ttpd")
+
+    if debut:
+        required_albums.append("Taylor Swift")
+
+    if fearless:
+        required_albums.append("Fearless")
+
+    if speak_now:
+        required_albums.append("Speak Now")
+
+    if red:
+        required_albums.append("Red")
+
+    if include_1989:
+        required_albums.append("1989")
+
+    if reputation:
+        required_albums.append("Reputation")
+
+    if lover:
+        required_albums.append("Lover")
+
+    if folklore:
+        required_albums.append("Folklore")
+
+    if evermore:
+        required_albums.append("Evermore")
+
+    if midnights:
+        required_albums.append("Midnights")
+
+    if ttpd:
+        required_albums.append("The Tortured Poets Department")
+
+    if re_recordings:
+        if fearless_tv:
+            required_albums.append("Fearless (Taylor's Version)")
+
+        if speak_now_tv:
+            required_albums.append("Speak Now (Taylor's Version)")
+
+        if red_tv:
+            required_albums.append("Red (Taylor's Version)")
+
+        if include_1989_tv:
+            required_albums.append("1989 (Taylor's Version)")
+
+    return all(state.has(album) for album in required_albums)
