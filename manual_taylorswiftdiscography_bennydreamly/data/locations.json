@@ -2546,5 +2546,10 @@
       "The Tortured Poets Department"
     ],
     "requires": []
+  },
+  {
+    "name": "Victory",
+    "victory": true,
+    "requires": "{OptAll(|Taylor Swift| AND |Fearless| AND |Fearless (Taylor's Version)| AND |Speak Now| AND |Speak Now (Taylor's Version)| AND |Red| AND |Red (Taylor's Version)| |1989| AND |1989 (Taylor's Version)| AND |Reputation| AND |Lover| AND |Folklore| AND |Evermore| AND |Midnights| AND |The Tortured Poets Department| AND |Vault Tracks| AND |Re-recordings|)}"
   }
 ]
