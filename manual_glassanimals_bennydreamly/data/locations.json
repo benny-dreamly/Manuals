@@ -480,5 +480,11 @@
     "region": "Bonus Locations",
     "category": [],
     "requires": []
+  },
+  {
+    "name": "Victory",
+    "category": ["Victory"],
+    "victory": true,
+    "requires": ""
   }
 ]
