@@ -485,6 +485,6 @@
     "name": "Victory",
     "category": ["Victory"],
     "victory": true,
-    "requires": "{OptAll(|Dreamland (Album)| AND |I Love You So F***ing Much| AND |How to Be a Human Being| AND |Zaba|)}"
+    "requires": "{OptAll(|Dreamland (Album)| AND |I Love You So F***ing Much| AND |How to Be a Human Being| AND |Zaba|)} AND {OptAll(|@Songs:ALL|)"
   }
 ]
