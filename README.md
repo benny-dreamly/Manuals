@@ -1,1 +1,1 @@
-These are all the manuals I have made for archipelago. The license applies to everything except for the dreamlandlock manual for the moment. (additionally it applies to the taylor swift/glass animals manual branches despite the lack of the license in those branches)
+These are all the manuals I have made for archipelago.
