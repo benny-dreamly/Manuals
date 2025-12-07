@@ -62,7 +62,7 @@ def requiresUnlock(world: World, multiworld: MultiWorld, state: CollectionState,
 
 def canUnlockSafe(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can unlock the safe to continue."""
-    return "(({requiresNoOptions()} AND |Puzzle (1/4)|) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)} AND |Puzzle (1/4)|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Puzzle (1/4)|) OR ({requiresVaults()} and {requiresUnlock()} AND |Puzzle (1/4)|))"
+    return "(({requiresNoOptions()} AND |Puzzle (1/4)|) OR ({requiresVaults()} AND {YamlDisabled(more_unlocks)} AND |Puzzle (1/4)|) OR ({YamlDisabled(Roomsanity)} AND {requiresUnlock()} AND |Puzzle (1/4)|) OR ({requiresVaults()} AND {requiresUnlock()} AND |Puzzle (1/4)|))"
 
 def canReassembleHint(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can reassemble the hint to continue."""
@@ -90,7 +90,7 @@ def requiresHallwayLeadingToStorageCloset(world: World, multiworld: MultiWorld, 
 
 def canOpenTrapdoor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can open the Trapdoor to continue."""
-    return "(|Glue Stick| and |Broom| and |Magnifying Glass|)"
+    return "(|Glue Stick| AND |Broom| AND |Magnifying Glass|)"
 
 def canOpenTrapdoorEvent(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player can open the Trapdoor to continue (same as canOpenTrapdoor)."""
