@@ -602,6 +602,54 @@
     ],
     "requires": []
   },
+  {
+    "name": "Ours",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "If This Was A Movie",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Superman",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Back To December - Acoustic",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Haunted - Acoustic Version",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mine - POP Mix",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": []
+  },
 
   {
     "name": "Mine (Taylor's Version)",
