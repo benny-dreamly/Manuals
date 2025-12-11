@@ -2336,8 +2336,6 @@
     ],
     "requires": []
   },
-
-
   {
     "name": "The Great War",
     "region": "Midnights",
@@ -2394,8 +2392,6 @@
     ],
     "requires": []
   },
-
-
   {
     "name": "Hits Different",
     "region": "Midnights",
@@ -2405,7 +2401,7 @@
     "requires": []
   },
   {
-    "name": "Snow On The Beach (feat. Lana Del Rey) (More Lana Del Rey)",
+    "name": "Snow On The Beach (feat. More Lana Del Rey)",
     "region": "Midnights",
     "category": [
       "Midnights"
