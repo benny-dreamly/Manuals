@@ -1238,6 +1238,25 @@
     "requires": []
   },
   {
+    "name": "Ronan (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Better Man (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|"
+  },
+  {
     "name": "Nothing New (feat. Phoebe Bridgers) (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
@@ -1309,16 +1328,6 @@
   },
   {
     "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-    "region": "Red (Taylor's Version)",
-    "category": [
-      "Red (Taylor's Version)",
-      "Re-recordings",
-      "Vault Tracks"
-    ],
-    "requires": "|Vault Tracks|"
-  },
-  {
-    "name": "Better Man (Taylor's Version) (From The Vault)",
     "region": "Red (Taylor's Version)",
     "category": [
       "Red (Taylor's Version)",
