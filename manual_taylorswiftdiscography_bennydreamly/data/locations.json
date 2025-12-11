@@ -1814,7 +1814,15 @@
 
 
   {
-    "name": "The Archer",
+    "name": "I Forgot That You Existed",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cruel Summer",
     "region": "Lover",
     "category": [
       "Lover"
@@ -1838,7 +1846,7 @@
     "requires": []
   },
   {
-    "name": "Death By A Thousand Cuts",
+    "name": "The Archer",
     "region": "Lover",
     "category": [
       "Lover"
@@ -1846,7 +1854,7 @@
     "requires": []
   },
   {
-    "name": "Cornelia Street",
+    "name": "I Think He Knows",
     "region": "Lover",
     "category": [
       "Lover"
@@ -1854,13 +1862,7 @@
     "requires": []
   },
   {
-    "name": "Daylight",
-    "region": "Lover",
-    "category": ["Lover"],
-    "requires": []
-  },
-  {
-    "name": "The Moment I Knew (Lover)",
+    "name": "Miss Americana & The Heartbreak Prince",
     "region": "Lover",
     "category": [
       "Lover"
@@ -1876,12 +1878,37 @@
     "requires": []
   },
   {
-    "name": "ME! (feat. Brendon Urie)",
+    "name": "Cornelia Street",
     "region": "Lover",
     "category": [
       "Lover"
     ],
-    "requires": [] },
+    "requires": []
+  },
+  {
+    "name": "Death By A Thousand Cuts",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "London Boy",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Soon You'll Get Better (feat. Dixie Chicks)",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": []
+  },
   {
     "name": "False God",
     "region": "Lover",
@@ -1907,31 +1934,7 @@
     "requires": []
   },
   {
-    "name": "Miss Americana & The Heartbreak Prince",
-    "region": "Lover",
-    "category": [
-      "Lover"
-    ],
-    "requires": []
-  },
-  {
-    "name": "I Think He Knows",
-    "region": "Lover",
-    "category": [
-      "Lover"
-    ],
-    "requires": []
-  },
-  {
-    "name": "London Boy",
-    "region": "Lover",
-    "category": [
-      "Lover"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Soon You'll Get Better (feat. Dixie Chicks)",
+    "name": "ME! (feat. Brendon Urie)",
     "region": "Lover",
     "category": [
       "Lover"
@@ -1947,11 +1950,9 @@
     "requires": []
   },
   {
-    "name": "INTHAF",
+    "name": "Daylight",
     "region": "Lover",
-    "category": [
-      "Lover"
-    ],
+    "category": ["Lover"],
     "requires": []
   },
 
