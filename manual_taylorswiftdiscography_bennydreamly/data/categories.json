@@ -48,5 +48,8 @@
     },
     "The Tortured Poets Department": {
         "yaml_option": ["include_ttpd"]
+    },
+    "The Life of a Showgirl": {
+        "yaml_option": ["include_tloas"]
     }
 }

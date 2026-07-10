@@ -58,5 +58,9 @@
   "The Tortured Poets Department": {
     "connects_to": [],
     "requires": "|The Tortured Poets Department|"
+  },
+  "The Life of a Showgirl": {
+    "connects_to": [],
+    "requires": "|The Life of a Showgirl|"
   }
 }

@@ -134,6 +134,13 @@
             "type": "Toggle",
             "default": true,
             "group": "Album Options"
+        },
+        "include_tloas": {
+            "display_name": "Include The Life of a Showgirl",
+            "description": "Include the album The Life of a Showgirl in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
         }
     }
 

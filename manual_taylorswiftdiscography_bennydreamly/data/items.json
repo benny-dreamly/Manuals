@@ -136,6 +136,15 @@
     ], 
     "progression": true 
   },
+  {
+    "name": "The Life of a Showgirl",
+    "count": 1,
+    "category": [
+      "Albums",
+      "The Life of a Showgirl"
+    ],
+    "progression": true
+  },
   { 
     "name": "Vault Tracks", 
     "count": 1, 

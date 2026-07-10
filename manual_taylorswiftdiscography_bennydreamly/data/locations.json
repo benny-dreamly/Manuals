@@ -2668,6 +2668,114 @@
   },
 
   {
+    "name": "The Fate of Ophelia",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Elizabeth Taylor",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Opalite",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Father Figure",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Eldest Daughter",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Ruin The Friendship",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Actually Romantic",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Wi$h Li$t",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Wood",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "CANCELLED!",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "Honey",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
+    "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": []
+  },
+
+  {
     "name": "Victory",
     "category": ["Victory"],
     "victory": true,
