@@ -37,6 +37,9 @@
     "Reputation": {
         "yaml_option": ["include_reputation"]
     },
+    "Lover": {
+        "yaml_option": ["include_lover"]
+    },
     "Evermore": {
         "yaml_option": ["include_evermore"]
     },
