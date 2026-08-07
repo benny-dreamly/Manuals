@@ -5,7 +5,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-1"
   },
   {
     "name": "Picture to Burn",
@@ -13,7 +14,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-2"
   },
   {
     "name": "Teardrops on My Guitar",
@@ -21,7 +23,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-3"
   },
   {
     "name": "A Place in This World",
@@ -29,7 +32,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-4"
   },
   {
     "name": "Cold as You",
@@ -37,7 +41,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-5"
   },
   {
     "name": "The Outside",
@@ -45,7 +50,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-6"
   },
   {
     "name": "Tied Together with a Smile",
@@ -53,7 +59,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-7"
   },
   {
     "name": "Stay Beautiful",
@@ -61,7 +68,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-8"
   },
   {
     "name": "Should've Said No",
@@ -69,7 +77,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-9"
   },
   {
     "name": "Mary's Song (Oh My My My)",
@@ -77,7 +86,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-10"
   },
   {
     "name": "Our Song",
@@ -85,7 +95,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-11"
   },
   {
     "name": "I'm Only Me When I'm With You",
@@ -93,7 +104,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-12"
   },
   {
     "name": "Invisible",
@@ -101,7 +113,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-13"
   },
   {
     "name": "A Perfectly Good Heart",
@@ -109,7 +122,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-14"
   },
   {
     "name": "Teardrops on My Guitar - Pop Version",
@@ -117,7 +131,8 @@
     "category": [
       "Taylor Swift"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "deb-15"
   },
 
   {
@@ -126,7 +141,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-1"
   },
   {
     "name": "Fifteen",
@@ -134,7 +150,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-2"
   },
   {
     "name": "Love Story",
@@ -142,7 +159,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-3"
   },
   {
     "name": "Hey Stephen",
@@ -150,7 +168,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-4"
   },
   {
     "name": "White Horse",
@@ -158,7 +177,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-5"
   },
   {
     "name": "You Belong With Me",
@@ -166,7 +186,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-6"
   },
   {
     "name": "Breathe (feat. Colbie Caillat)",
@@ -174,7 +195,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-7"
   },
   {
     "name": "Tell Me Why",
@@ -182,7 +204,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-8"
   },
   {
     "name": "You're Not Sorry",
@@ -190,7 +213,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-9"
   },
   {
     "name": "The Way I Loved You",
@@ -198,7 +222,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-10"
   },
   {
     "name": "Forever & Always",
@@ -206,7 +231,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-11"
   },
   {
     "name": "The Best Day",
@@ -214,7 +240,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-12"
   },
   {
     "name": "Change",
@@ -222,7 +249,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-13"
   },
   {
     "name": "Jump Then Fall",
@@ -230,7 +258,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-14"
   },
   {
     "name": "Untouchable",
@@ -238,7 +267,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-15"
   },
   {
     "name": "Forever & Always (Piano Version)",
@@ -246,7 +276,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-16"
   },
   {
     "name": "Come In With The Rain",
@@ -254,7 +285,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-17"
   },
   {
     "name": "Superstar",
@@ -262,7 +294,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-18"
   },
   {
     "name": "The Other Side of the Door",
@@ -270,7 +303,8 @@
     "category": [
       "Fearless"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-19"
   },
 
   {
@@ -280,7 +314,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-1"
   },
   {
     "name": "Fifteen (Taylor's Version)",
@@ -289,7 +324,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-2"
   },
   {
     "name": "Love Story (Taylor's Version)",
@@ -298,7 +334,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-3"
   },
   {
     "name": "Hey Stephen (Taylor's Version)",
@@ -307,7 +344,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-4"
   },
   {
     "name": "White Horse (Taylor's Version)",
@@ -316,7 +354,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-5"
   },
   {
     "name": "You Belong With Me (Taylor's Version)",
@@ -325,7 +364,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-6"
   },
   {
     "name": "Breathe (feat. Colbie Caillat) (Taylor's Version)",
@@ -334,7 +374,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-7"
   },
   {
     "name": "Tell Me Why (Taylor's Version)",
@@ -343,7 +384,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-8"
   },
   {
     "name": "You're Not Sorry (Taylor's Version)",
@@ -352,7 +394,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-9"
   },
   {
     "name": "The Way I Loved You (Taylor's Version)",
@@ -361,7 +404,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-10"
   },
   {
     "name": "Forever & Always (Taylor's Version)",
@@ -370,7 +414,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-11"
   },
   {
     "name": "The Best Day (Taylor's Version)",
@@ -379,7 +424,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-12"
   },
   {
     "name": "Change (Taylor's Version)",
@@ -388,7 +434,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-13"
   },
   {
     "name": "Jump Then Fall (Taylor's Version)",
@@ -397,7 +444,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-14"
   },
   {
     "name": "Untouchable (Taylor's Version)",
@@ -406,7 +454,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-15"
   },
   {
     "name": "Forever & Always (Piano Version) (Taylor's Version)",
@@ -415,7 +464,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-16"
   },
   {
     "name": "Come In With The Rain (Taylor's Version)",
@@ -424,7 +474,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-17"
   },
   {
     "name": "Superstar (Taylor's Version)",
@@ -433,7 +484,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-18"
   },
   {
     "name": "The Other Side of the Door (Taylor's Version)",
@@ -442,7 +494,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-19"
   },
   {
     "name": "Today Was a Fairytale (Taylor's Version)",
@@ -451,7 +504,8 @@
       "Fearless (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "fear-tv-20"
   },
   {
     "name": "You All Over Me (feat. Maren Morris) (Taylor's Version) (From The Vault)",
@@ -461,7 +515,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-21"
   },
   {
     "name": "Mr. Perfectly Fine (Taylor's Version) (From The Vault)",
@@ -471,7 +526,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-22"
   },
   {
     "name": "We Were Happy (Taylor's Version) (From The Vault)",
@@ -481,7 +537,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-23"
   },
   {
     "name": "That's When (Taylor's Version) (From The Vault) (Featuring Keith Urban)",
@@ -491,7 +548,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-24"
   },
   {
     "name": "Don't You (Taylor's Version) (From The Vault)",
@@ -501,7 +559,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-25"
   },
   {
     "name": "Bye Bye Baby (Taylor's Version) (From The Vault)",
@@ -511,7 +570,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-26"
   },
 
   {
@@ -520,7 +580,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-1"
   },
   {
     "name": "Sparks Fly",
@@ -528,7 +589,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-2"
   },
   {
     "name": "Back to December",
@@ -536,7 +598,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-3"
   },
   {
     "name": "Speak Now",
@@ -544,7 +607,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-4"
   },
   {
     "name": "Dear John",
@@ -552,7 +616,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-5"
   },
   {
     "name": "Mean",
@@ -560,7 +625,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-6"
   },
   {
     "name": "The Story of Us",
@@ -568,7 +634,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-7"
   },
   {
     "name": "Never Grow Up",
@@ -576,7 +643,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-8"
   },
   {
     "name": "Enchanted",
@@ -584,7 +652,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-9"
   },
   {
     "name": "Better Than Revenge",
@@ -592,7 +661,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-10"
   },
   {
     "name": "Innocent",
@@ -600,7 +670,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-11"
   },
   {
     "name": "Haunted",
@@ -608,7 +679,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-12"
   },
   {
     "name": "Last Kiss",
@@ -616,7 +688,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-12"
   },
   {
     "name": "Long Live",
@@ -624,7 +697,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-13"
   },
   {
     "name": "Ours",
@@ -632,7 +706,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-14"
   },
   {
     "name": "If This Was A Movie",
@@ -640,7 +715,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-15"
   },
   {
     "name": "Superman",
@@ -648,7 +724,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-16"
   },
   {
     "name": "Back To December - Acoustic",
@@ -656,7 +733,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-17"
   },
   {
     "name": "Haunted - Acoustic Version",
@@ -664,7 +742,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-18"
   },
   {
     "name": "Mine - POP Mix",
@@ -672,7 +751,8 @@
     "category": [
       "Speak Now"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-19"
   },
 
   {
@@ -682,7 +762,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-1"
   },
   {
     "name": "Sparks Fly (Taylor's Version)",
@@ -691,7 +772,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-2"
   },
   {
     "name": "Back to December (Taylor's Version)",
@@ -700,7 +782,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-3"
   },
   {
     "name": "Speak Now (Taylor's Version)",
@@ -709,7 +792,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-4"
   },
   {
     "name": "Dear John (Taylor's Version)",
@@ -718,7 +802,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-5"
   },
   {
     "name": "Mean (Taylor's Version)",
@@ -727,7 +812,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-6"
   },
   {
     "name": "The Story of Us (Taylor's Version)",
@@ -736,7 +822,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-7"
   },
   {
     "name": "Never Grow Up (Taylor's Version)",
@@ -745,7 +832,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-8"
   },
   {
     "name": "Enchanted (Taylor's Version)",
@@ -754,7 +842,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-9"
   },
   {
     "name": "Better Than Revenge (Taylor's Version)",
@@ -763,7 +852,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-10"
   },
   {
     "name": "Innocent (Taylor's Version)",
@@ -772,7 +862,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-11"
   },
   {
     "name": "Haunted (Taylor's Version)",
@@ -781,7 +872,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-12"
   },
   {
     "name": "Last Kiss (Taylor's Version)",
@@ -790,7 +882,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-13"
   },
   {
     "name": "Ours (Taylor's Version)",
@@ -799,7 +892,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-15"
   },
   {
     "name": "Superman (Taylor's Version)",
@@ -808,7 +902,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-16"
   },
   {
     "name": "Long Live (Taylor's Version)",
@@ -817,7 +912,8 @@
       "Speak Now (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "speak-tv-14"
   },
   {
     "name": "Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault)",
@@ -827,7 +923,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-17"
   },
   {
     "name": "When Emma Falls in Love (Taylor's Version) (From The Vault)",
@@ -837,7 +934,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-18"
   },
   {
     "name": "I Can See You (Taylor's Version) (From The Vault)",
@@ -847,7 +945,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-19"
   },
   {
     "name": "Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault)",
@@ -857,7 +956,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-20"
   },
   {
     "name": "Foolish One (Taylor's Version) (From The Vault)",
@@ -867,7 +967,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-21"
   },
   {
     "name": "Timeless (Taylor's Version) (From The Vault)",
@@ -877,7 +978,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-22"
   },
 
   {
@@ -886,7 +988,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-1"
   },
   {
     "name": "Red",
@@ -894,7 +997,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-2"
   },
   {
     "name": "Treacherous",
@@ -902,7 +1006,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-3"
   },
   {
     "name": "I Knew You Were Trouble.",
@@ -910,7 +1015,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-4"
   },
   {
     "name": "All Too Well",
@@ -918,7 +1024,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-5"
   },
   {
     "name": "22",
@@ -926,7 +1033,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-6"
   },
   {
     "name": "I Almost Do",
@@ -934,7 +1042,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-7"
   },
   {
     "name": "We Are Never Ever Getting Back Together",
@@ -942,7 +1051,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-8"
   },
   {
     "name": "Stay Stay Stay",
@@ -950,7 +1060,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-9"
   },
   {
     "name": "The Last Time (feat. Gary Lightbody)",
@@ -958,7 +1069,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-10"
   },
   {
     "name": "Holy Ground",
@@ -966,7 +1078,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-11"
   },
   {
     "name": "Sad Beautiful Tragic",
@@ -974,7 +1087,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-12"
   },
   {
     "name": "The Lucky One",
@@ -982,7 +1096,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-13"
   },
   {
     "name": "Everything Has Changed (feat. Ed Sheeran)",
@@ -990,7 +1105,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-14"
   },
   {
     "name": "Starlight",
@@ -998,7 +1114,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-15"
   },
   {
     "name": "Begin Again",
@@ -1006,7 +1123,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-16"
   },
   {
     "name": "The Moment I Knew",
@@ -1014,7 +1132,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-17"
   },
   {
     "name": "Come Back... Be Here",
@@ -1022,7 +1141,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-18"
   },
   {
     "name": "Girl at Home",
@@ -1030,7 +1150,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-19"
   },
   {
     "name": "Treacherous (original demo recording)",
@@ -1038,7 +1159,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-20"
   },
   {
     "name": "Red (original demo recording)",
@@ -1046,7 +1168,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-21"
   },
   {
     "name": "State of Grace (acoustic version)",
@@ -1054,7 +1177,8 @@
     "category": [
       "Red"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-22"
   },
 
   {
@@ -1064,7 +1188,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-1"
   },
   {
     "name": "Red (Taylor's Version)",
@@ -1073,7 +1198,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-2"
   },
   {
     "name": "Treacherous (Taylor's Version)",
@@ -1082,7 +1208,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-3"
   },
   {
     "name": "I Knew You Were Trouble (Taylor's Version)",
@@ -1091,7 +1218,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-4"
   },
   {
     "name": "All Too Well (Taylor's Version)",
@@ -1100,7 +1228,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-5"
   },
   {
     "name": "22 (Taylor's Version)",
@@ -1109,7 +1238,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-6"
   },
   {
     "name": "I Almost Do (Taylor's Version)",
@@ -1118,7 +1248,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-7"
   },
   {
     "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
@@ -1127,7 +1258,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-8"
   },
   {
     "name": "Stay Stay Stay (Taylor's Version)",
@@ -1136,7 +1268,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-9"
   },
   {
     "name": "The Last Time (feat. Gary Lightbody) (Taylor's Version)",
@@ -1145,7 +1278,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-10"
   },
   {
     "name": "Holy Ground (Taylor's Version)",
@@ -1154,7 +1288,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-11"
   },
   {
     "name": "Sad Beautiful Tragic (Taylor's Version)",
@@ -1163,7 +1298,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-12"
   },
   {
     "name": "The Lucky One (Taylor's Version)",
@@ -1172,7 +1308,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-13"
   },
   {
     "name": "Everything Has Changed (feat. Ed Sheeran) (Taylor's Version)",
@@ -1181,7 +1318,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-14"
   },
   {
     "name": "Starlight (Taylor's Version)",
@@ -1190,7 +1328,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-15"
   },
   {
     "name": "Begin Again (Taylor's Version)",
@@ -1199,7 +1338,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-16"
   },
   {
     "name": "The Moment I Knew (Taylor's Version)",
@@ -1208,7 +1348,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-17"
   },
   {
     "name": "Come Back... Be Here (Taylor's Version)",
@@ -1217,7 +1358,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-18"
   },
   {
     "name": "Girl at Home (Taylor's Version)",
@@ -1226,7 +1368,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-19"
   },
   {
     "name": "State of Grace (Acoustic Version) (Taylor's Version)",
@@ -1235,7 +1378,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "red-tv-20"
   },
   {
     "name": "Ronan (Taylor's Version)",
@@ -1244,7 +1388,8 @@
       "Red (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": ""
+    "requires": "",
+    "sort-key": "red-tv-21"
   },
   {
     "name": "Better Man (Taylor's Version) (From The Vault)",
@@ -1254,7 +1399,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-22"
   },
   {
     "name": "Nothing New (feat. Phoebe Bridgers) (Taylor's Version) (From The Vault)",
@@ -1264,7 +1410,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-23"
   },
   {
     "name": "Babe (Taylor's Version) (From The Vault)",
@@ -1274,7 +1421,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-24"
   },
   {
     "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
@@ -1284,7 +1432,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-25"
   },
   {
     "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor's Version) (From The Vault)",
@@ -1294,7 +1443,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-26"
   },
   {
     "name": "Forever Winter (Taylor's Version) (From The Vault)",
@@ -1304,7 +1454,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-27"
   },
   {
     "name": "Run (feat. Ed Sheeran) (Taylor's Version) (From The Vault)",
@@ -1314,7 +1465,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-28"
   },
   {
     "name": "The Very First Night (Taylor's Version) (From The Vault)",
@@ -1324,7 +1476,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-29"
   },
   {
     "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
@@ -1334,7 +1487,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-30"
   },
 
   {
@@ -1343,7 +1497,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-1"
   },
   {
     "name": "Blank Space",
@@ -1351,7 +1506,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-2"
   },
   {
     "name": "Style",
@@ -1359,7 +1515,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-3"
   },
   {
     "name": "Out of the Woods",
@@ -1367,7 +1524,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-4"
   },
   {
     "name": "All You Had to Do Was Stay",
@@ -1375,7 +1533,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-5"
   },
   {
     "name": "Shake It Off",
@@ -1383,7 +1542,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-6"
   },
   {
     "name": "I Wish You Would",
@@ -1391,7 +1551,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-7"
   },
   {
     "name": "Bad Blood",
@@ -1399,7 +1560,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-8"
   },
   {
     "name": "Wildest Dreams",
@@ -1407,7 +1569,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-9"
   },
   {
     "name": "How You Get the Girl",
@@ -1415,7 +1578,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-10"
   },
   {
     "name": "This Love",
@@ -1423,7 +1587,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-11"
   },
   {
     "name": "I Know Places",
@@ -1431,21 +1596,24 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-12"
   },
   { "name": "Clean",
     "region": "1989",
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-13"
   },
   { "name": "Wonderland",
     "region": "1989",
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-14"
   },
   {
     "name": "You Are in Love",
@@ -1453,7 +1621,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-15"
   },
   {
     "name": "New Romantics",
@@ -1461,7 +1630,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-16"
   },
   {
     "name": "I Know Places - Voice Memo",
@@ -1469,7 +1639,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-17"
   },
   {
     "name": "I Wish You Would - Voice Memo",
@@ -1477,7 +1648,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-18"
   },
   {
     "name": "Blank Space - Voice Memo",
@@ -1485,7 +1657,8 @@
     "category": [
       "1989"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-19"
   },
 
   {
@@ -1495,7 +1668,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-1"
   },
   {
     "name": "Blank Space (Taylor's Version)",
@@ -1504,7 +1678,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-2"
   },
   {
     "name": "Style (Taylor's Version)",
@@ -1513,7 +1688,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-3"
   },
   {
     "name": "Out of the Woods (Taylor's Version)",
@@ -1522,7 +1698,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-4"
   },
   {
     "name": "All You Had to Do Was Stay (Taylor's Version)",
@@ -1531,7 +1708,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-5"
   },
   {
     "name": "Shake It Off (Taylor's Version)",
@@ -1539,7 +1717,9 @@
     "category": [
       "1989 (Taylor's Version)",
       "Re-recordings"
-    ], "requires": []
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-6"
   },
   {
     "name": "I Wish You Would (Taylor's Version)",
@@ -1548,7 +1728,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-7"
   },
   {
     "name": "Bad Blood (Taylor's Version)",
@@ -1557,7 +1738,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-8"
   },
   {
     "name": "Wildest Dreams (Taylor's Version)",
@@ -1566,7 +1748,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-9"
   },
   {
     "name": "How You Get the Girl (Taylor's Version)",
@@ -1575,7 +1758,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-10"
   },
   {
     "name": "This Love (Taylor's Version)",
@@ -1584,7 +1768,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-11"
   },
   {
     "name": "I Know Places (Taylor's Version)",
@@ -1593,7 +1778,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-12"
   },
   {
     "name": "Clean (Taylor's Version)",
@@ -1602,7 +1788,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-13"
   },
   {
     "name": "Wonderland (Taylor's Version)",
@@ -1611,7 +1798,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-14"
   },
   {
     "name": "You Are in Love (Taylor's Version)",
@@ -1620,7 +1808,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-15"
   },
   {
     "name": "New Romantics (Taylor's Version)",
@@ -1629,7 +1818,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "1989-tv-16"
   },
   {
     "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
@@ -1639,7 +1829,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-17"
   },
   {
     "name": "Say Don't Go (Taylor's Version) (From The Vault)",
@@ -1649,7 +1840,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-18"
   },
   {
     "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
@@ -1659,7 +1851,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-19"
   },
   {
     "name": "Suburban Legends (Taylor's Version) (From The Vault)",
@@ -1669,7 +1862,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-20"
   },
   {
     "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
@@ -1679,7 +1873,8 @@
       "Re-recordings",
       "Vault Tracks"
     ],
-    "requires": "|Vault Tracks|"
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-21"
   },
   {
     "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
@@ -1688,7 +1883,8 @@
       "1989 (Taylor's Version)",
       "Re-recordings"
     ],
-    "requires": ""
+    "requires": "",
+    "sort-key": "1989-tv-22"
   },
 
   {
