@@ -2193,7 +2193,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-1"
   },
   {
     "name": "cardigan",
@@ -2201,7 +2202,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-2"
   },
   {
     "name": "the last great american dynasty",
@@ -2209,7 +2211,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-3"
   },
   {
     "name": "exile (feat. Bon Iver)",
@@ -2217,7 +2220,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-4"
   },
   {
     "name": "my tears ricochet",
@@ -2225,7 +2229,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-5"
   },
   {
     "name": "mirrorball",
@@ -2233,7 +2238,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-6"
   },
   {
     "name": "seven",
@@ -2241,7 +2247,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-7"
   },
   {
     "name": "august",
@@ -2249,7 +2256,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-8"
   },
   {
     "name": "this is me trying",
@@ -2257,7 +2265,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-9"
   },
   {
     "name": "illicit affairs",
@@ -2265,7 +2274,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-10"
   },
   {
     "name": "invisible string",
@@ -2273,7 +2283,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-11"
   },
   {
     "name": "mad woman",
@@ -2281,7 +2292,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-12"
   },
   {
     "name": "epiphany",
@@ -2289,7 +2301,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-13"
   },
   {
     "name": "betty",
@@ -2297,7 +2310,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-14"
   },
   {
     "name": "peace",
@@ -2305,7 +2319,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-15"
   },
   {
     "name": "hoax",
@@ -2313,7 +2328,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-16"
   },
   {
     "name": "the lakes (bonus track)",
@@ -2321,7 +2337,8 @@
     "category": [
       "Folklore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "folk-17"
   },
 
   {
@@ -2330,7 +2347,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-1"
   },
   {
     "name": "champagne problems",
@@ -2338,7 +2356,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-2"
   },
   {
     "name": "gold rush",
@@ -2346,7 +2365,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-3"
   },
   {
     "name": "'tis the damn season",
@@ -2354,7 +2374,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-4"
   },
   {
     "name": "tolerate it",
@@ -2362,7 +2383,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-5"
   },
   {
     "name": "no body, no crime (feat. HAIM)",
@@ -2370,7 +2392,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-6"
   },
   {
     "name": "happiness",
@@ -2378,7 +2401,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-7"
   },
   {
     "name": "dorothea",
@@ -2386,7 +2410,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-8"
   },
   {
     "name": "coney island (feat. The National)",
@@ -2394,7 +2419,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-9"
   },
   {
     "name": "ivy",
@@ -2402,7 +2428,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-10"
   },
   {
     "name": "cowboy like me",
@@ -2410,7 +2437,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-11"
   },
   {
     "name": "long story short",
@@ -2418,7 +2446,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-12"
   },
   {
     "name": "marjorie",
@@ -2426,7 +2455,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-13"
   },
   {
     "name": "closure",
@@ -2434,7 +2464,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-14"
   },
   {
     "name": "evermore (feat. Bon Iver)",
@@ -2442,7 +2473,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-15"
   },
   {
     "name": "right where you left me (bonus track)",
@@ -2450,7 +2482,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-16"
   },
   {
     "name": "it's time to go (bonus track)",
@@ -2458,7 +2491,8 @@
     "category": [
       "Evermore"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "ever-17"
   },
 
   {
@@ -2467,7 +2501,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-1"
   },
   {
     "name": "Maroon",
@@ -2475,7 +2510,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-2"
   },
   {
     "name": "Anti-Hero",
@@ -2483,7 +2519,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-3"
   },
   {
     "name": "Snow On The Beach (feat. Lana Del Rey)",
@@ -2491,7 +2528,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-4"
   },
   {
     "name": "You're On Your Own, Kid",
@@ -2499,7 +2537,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-5"
   },
   {
     "name": "Midnight Rain",
@@ -2507,7 +2546,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-6"
   },
   {
     "name": "Question...?",
@@ -2515,7 +2555,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-7"
   },
   {
     "name": "Vigilante Shit",
@@ -2523,7 +2564,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-8"
   },
   {
     "name": "Bejeweled",
@@ -2531,7 +2573,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-9"
   },
   {
     "name": "Labyrinth",
@@ -2539,7 +2582,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-10"
   },
   {
     "name": "Karma",
@@ -2547,7 +2591,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-11"
   },
   {
     "name": "Sweet Nothing",
@@ -2555,7 +2600,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-12"
   },
   {
     "name": "Mastermind",
@@ -2563,7 +2609,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-13"
   },
   {
     "name": "The Great War",
@@ -2571,7 +2618,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-14"
   },
   {
     "name": "Bigger Than The Whole Sky",
@@ -2579,7 +2627,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-15"
   },
   {
     "name": "Paris",
@@ -2587,7 +2636,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-16"
   },
   {
     "name": "High Infidelity",
@@ -2595,7 +2645,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-17"
   },
   {
     "name": "Glitch",
@@ -2603,7 +2654,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-18"
   },
   {
     "name": "Would've, Could've, Should've",
@@ -2611,7 +2663,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-19"
   },
   {
     "name": "Dear Reader",
@@ -2619,7 +2672,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-20"
   },
   {
     "name": "Hits Different",
@@ -2627,7 +2681,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-21"
   },
   {
     "name": "Snow On The Beach (feat. More Lana Del Rey)",
@@ -2635,7 +2690,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-22"
   },
   {
     "name": "Karma (feat. Ice Spice)",
@@ -2643,7 +2699,8 @@
     "category": [
       "Midnights"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "mid-23"
   },
 
 
@@ -2653,7 +2710,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-1"
   },
   {
     "name": "The Tortured Poets Department",
@@ -2661,7 +2719,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-2"
   },
   {
     "name": "My Boy Only Breaks His Favorite Toys",
@@ -2669,7 +2728,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-3"
   },
   {
     "name": "Down Bad",
@@ -2677,7 +2737,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-4"
   },
   {
     "name": "So Long, London",
@@ -2685,7 +2746,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-5"
   },
   {
     "name": "But Daddy I Love Him",
@@ -2693,7 +2755,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-6"
   },
   {
     "name": "Fresh Out the Slammer",
@@ -2701,7 +2764,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-7"
   },
   {
     "name": "Florida!!! (feat. Florence + The Machine)",
@@ -2709,7 +2773,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-8"
   },
   {
     "name": "Guilty as Sin?",
@@ -2717,7 +2782,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-9"
   },
   {
     "name": "Who's Afraid of Little Old Me?",
@@ -2725,7 +2791,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-10"
   },
   {
     "name": "I Can Fix Him (No Really I Can)",
@@ -2733,7 +2800,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-11"
   },
   {
     "name": "loml",
@@ -2741,7 +2809,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-12"
   },
   {
     "name": "I Can Do It With a Broken Heart",
@@ -2749,7 +2818,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-13"
   },
   {
     "name": "The Smallest Man Who Ever Lived",
@@ -2757,7 +2827,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-14"
   },
   {
     "name": "The Alchemy",
@@ -2765,7 +2836,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-15"
   },
   {
     "name": "Clara Bow",
@@ -2773,7 +2845,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-16"
   },
   {
     "name": "The Black Dog",
@@ -2781,7 +2854,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-17"
   },
   {
     "name": "imgonnagetyouback",
@@ -2789,7 +2863,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-18"
   },
   {
     "name": "The Albatross",
@@ -2797,7 +2872,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-19"
   },
   {
     "name": "Chloe or Sam or Sophia or Marcus",
@@ -2805,7 +2881,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-20"
   },
   {
     "name": "How Did It End?",
@@ -2813,7 +2890,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-21"
   },
   {
     "name": "So High School",
@@ -2821,7 +2899,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-22"
   },
   {
     "name": "I Hate It Here",
@@ -2829,7 +2908,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-23"
   },
   {
     "name": "thanK you aIMee",
@@ -2837,7 +2917,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-24"
   },
   {
     "name": "I Look in People's Windows",
@@ -2845,7 +2926,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-25"
   },
   {
     "name": "The Prophecy",
@@ -2853,7 +2935,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-26"
   },
   {
     "name": "Cassandra",
@@ -2861,7 +2944,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-27"
   },
   {
     "name": "Peter",
@@ -2869,7 +2953,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-28"
   },
   {
     "name": "The Bolter",
@@ -2877,7 +2962,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-29"
   },
   {
     "name": "Robin",
@@ -2885,7 +2971,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-30"
   },
   {
     "name": "The Manuscript",
@@ -2893,7 +2980,8 @@
     "category": [
       "The Tortured Poets Department"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "tort-31"
   },
 
   {
@@ -2902,7 +2990,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-1"
   },
 
   {
@@ -2911,7 +3000,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-2"
   },
 
   {
@@ -2920,7 +3010,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-3"
   },
 
   {
@@ -2929,7 +3020,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-4"
   },
 
   {
@@ -2938,7 +3030,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-5"
   },
 
   {
@@ -2947,7 +3040,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-6"
   },
 
   {
@@ -2956,7 +3050,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-7"
   },
 
   {
@@ -2965,7 +3060,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-8"
   },
 
   {
@@ -2974,7 +3070,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-9"
   },
 
   {
@@ -2983,7 +3080,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-10"
   },
 
   {
@@ -2992,7 +3090,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-11"
   },
 
   {
@@ -3001,7 +3100,8 @@
     "category": [
       "The Life of a Showgirl"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "show-12"
   },
 
   {
