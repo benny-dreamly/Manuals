@@ -2328,8 +2328,7 @@
     "name": "willow",
     "region": "Evermore",
     "category": [
-      "Evermore",
-      "single"
+      "Evermore"
     ],
     "requires": []
   },
