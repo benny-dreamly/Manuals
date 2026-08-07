@@ -2199,8 +2199,7 @@
     "name": "cardigan",
     "region": "Folklore",
     "category": [
-      "Folklore",
-      "single"
+      "Folklore"
     ],
     "requires": []
   },
