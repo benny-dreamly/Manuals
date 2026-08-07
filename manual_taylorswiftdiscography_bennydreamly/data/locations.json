@@ -1893,7 +1893,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-1"
   },
   {
     "name": "End Game (feat. Ed Sheeran & Future)",
@@ -1901,7 +1902,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-2"
   },
   {
     "name": "I Did Something Bad",
@@ -1909,7 +1911,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-3"
   },
   {
     "name": "Don't Blame Me",
@@ -1917,7 +1920,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-4"
   },
   {
     "name": "Delicate",
@@ -1925,7 +1929,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-5"
   },
   {
     "name": "Look What You Made Me Do",
@@ -1933,7 +1938,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-6"
   },
   {
     "name": "So It Goes...",
@@ -1941,7 +1947,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-7"
   },
   {
     "name": "Gorgeous",
@@ -1949,7 +1956,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-8"
   },
   {
     "name": "Getaway Car",
@@ -1957,7 +1965,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-9"
   },
   {
     "name": "King of My Heart",
@@ -1965,7 +1974,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-10"
   },
   {
     "name": "Dancing with Our Hands Tied",
@@ -1973,7 +1983,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-11"
   },
   {
     "name": "Dress",
@@ -1981,7 +1992,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-12"
   },
   {
     "name": "This Is Why We Can't Have Nice Things",
@@ -1989,7 +2001,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-13"
   },
   {
     "name": "Call It What You Want",
@@ -1997,7 +2010,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-14"
   },
   {
     "name": "New Year's Day",
@@ -2005,7 +2019,8 @@
     "category": [
       "Reputation"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "rep-15"
   },
 
 
@@ -2015,7 +2030,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-1"
   },
   {
     "name": "Cruel Summer",
@@ -2023,7 +2039,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-2"
   },
   {
     "name": "Lover",
@@ -2031,7 +2048,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-3"
   },
   {
     "name": "The Man",
@@ -2039,7 +2057,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-4"
   },
   {
     "name": "The Archer",
@@ -2047,7 +2066,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-5"
   },
   {
     "name": "I Think He Knows",
@@ -2055,7 +2075,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-6"
   },
   {
     "name": "Miss Americana & The Heartbreak Prince",
@@ -2063,7 +2084,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-7"
   },
   {
     "name": "Paper Rings",
@@ -2071,7 +2093,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-8"
   },
   {
     "name": "Cornelia Street",
@@ -2079,7 +2102,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-9"
   },
   {
     "name": "Death By A Thousand Cuts",
@@ -2087,7 +2111,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-10"
   },
   {
     "name": "London Boy",
@@ -2095,7 +2120,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-11"
   },
   {
     "name": "Soon You'll Get Better (feat. Dixie Chicks)",
@@ -2103,7 +2129,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-12"
   },
   {
     "name": "False God",
@@ -2111,7 +2138,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-13"
   },
   {
     "name": "You Need to Calm Down",
@@ -2119,7 +2147,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-14"
   },
   {
     "name": "Afterglow",
@@ -2127,7 +2156,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-15"
   },
   {
     "name": "ME! (feat. Brendon Urie)",
@@ -2135,7 +2165,8 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-16"
   },
   {
     "name": "It's Nice to Have a Friend",
@@ -2143,13 +2174,15 @@
     "category": [
       "Lover"
     ],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-17"
   },
   {
     "name": "Daylight",
     "region": "Lover",
     "category": ["Lover"],
-    "requires": []
+    "requires": [],
+    "sort-key": "love-8"
   },
 
   {
