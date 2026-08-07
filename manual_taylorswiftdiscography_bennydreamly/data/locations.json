@@ -2180,7 +2180,9 @@
   {
     "name": "Daylight",
     "region": "Lover",
-    "category": ["Lover"],
+    "category": [
+      "Lover"
+    ],
     "requires": [],
     "sort-key": "love-8"
   },
