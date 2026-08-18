@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "5 Years of mau5",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Disc 1",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Disc 2",
+      "category": [],
+      "progression": true
+    }
+  ]
+}

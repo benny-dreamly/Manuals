@@ -1,0 +1,155 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Ghosts 'n' Stuff - Extended Mix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Raise Your Weapon",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "I Remember - Vocal Mix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Some Chords",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Strobe - Club Edit",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "The Veldt - 8 Minute Edit",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Brazil - 2nd Edit",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Aural Psynapse",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Not Exactly - Single Version",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 1|"
+    },
+    {
+      "name": "Sofi Needs a Ladder",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Some Chords - Dillon Francis Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Ghosts 'n' Stuff - Chuckie Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "The Veldt - Edit",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Maths - Botnek Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Raise Your Weapon - Madeon Extended Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Strobe - Michael Woods 2014 Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "I Remember - Shiba San Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Raise Your Weapon - Wax Motif Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Sofi Needs a Ladder - Pig&Dan Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Ghosts 'n' Stuff - Nero Mix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": "|Disc 2|"
+    },
+    {
+      "name": "Maths - Cobra Effect Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": ""
+    },
+    {
+      "name": "I Said - Michael Woods I Said It Again ReEdit",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": ""
+    },
+    {
+      "name": "Raise Your Weapon - Weiss Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": ""
+    },
+    {
+      "name": "Raise Your Weapon - Maywald Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": ""
+    },
+    {
+      "name": "Raise Your Weapon - Michael Cassette Remix",
+      "region": "5 Years of mau5",
+      "category": ["5 Years of mau5"],
+      "requires": ""
+    }
+  ]
+}
