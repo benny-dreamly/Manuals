@@ -155,7 +155,7 @@
       "name": "Victory",
       "victory": true,
       "category": ["Victory"],
-      "requires": "|5 Years of mau5| and |Disc 1| and |Disc 2|",
+      "requires": "|5 Years of mau5| and |Disc 1| and |Disc 2|"
     }
   ]
 }
